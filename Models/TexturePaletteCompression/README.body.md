@@ -1,0 +1,1 @@
+This asset tests palette-texture compression workflows. It includes the original GLB plus ETC1S, UASTC, and WebP texture-compressed variants so viewers and conversion pipelines can compare texture compression behavior, material fidelity, and extension handling.
