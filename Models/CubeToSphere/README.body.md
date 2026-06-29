@@ -1,0 +1,1 @@
+This asset tests geometry that transitions from a cube-like shape to a sphere-like shape. It includes source, Draco, and Meshopt variants to compare geometry compression behavior with the same authored content.
