@@ -1,0 +1,1 @@
+This asset tests meshes containing multiple primitives with different materials. It is intended to reveal issues in material assignment, primitive splitting, and conversion pipelines that merge or rewrite geometry.
