@@ -1,0 +1,1 @@
+This asset tests a single sphere mesh containing triangle, line, and point primitives. It is intended to reveal whether renderers and conversion pipelines preserve mixed primitive topology within one mesh.

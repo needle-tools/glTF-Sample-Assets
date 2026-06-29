@@ -1,0 +1,26 @@
+{
+    "version": 2,
+    "legal": [
+        {
+            "year": 2026,
+            "owner": "Needle",
+            "artist": "Needle",
+            "what": "Everything",
+            "license": "CC-BY",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "text": "Creative Commons Attribution 4.0 International",
+            "spdx": "CC-BY-4.0",
+            "icon": "https://licensebuttons.net/l/by/4.0/88x31.png"
+        }
+    ],
+    "tags": [
+        "extension",
+        "testing",
+        "needle"
+    ],
+    "screenshot": "screenshot/screenshot.webp",
+    "name": "Mixed Topology Sphere",
+    "path": "./Models/MixedTopologySphere",
+    "summary": "Tests a single sphere mesh with triangle, line, and point primitives.",
+    "createReadme": true
+}
