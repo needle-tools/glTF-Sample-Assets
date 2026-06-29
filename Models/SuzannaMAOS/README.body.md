@@ -1,0 +1,1 @@
+This asset tests packed material texture workflows using a Suzanne-style model. It is intended to reveal mistakes in metallic, ambient occlusion, smoothness or roughness channel handling during import and conversion.
