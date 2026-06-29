@@ -1,0 +1,737 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb",
+  "slug": "TexturePaletteCompression",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 25,
+      "meshes": 18,
+      "primitives": 18,
+      "materials": 1,
+      "textures": 1,
+      "images": 1,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "emissiveTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_texture_transform"
+    ],
+    "textureImages": {
+      "count": 1,
+      "knownDimensions": 1,
+      "totalPixels": 32,
+      "totalBytes": 708,
+      "maxWidth": 8,
+      "maxHeight": 4
+    }
+  },
+  "conversions": [
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 53,
+          "meshes": 18,
+          "primitives": 18,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 32,
+          "totalBytes": 843,
+          "maxWidth": 8,
+          "maxHeight": 4
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_9_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.three-r185.usdz[textures/Texture_9_false.jpg]",
+            "size": 843,
+            "width": 8,
+            "height": 4,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 20
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 32,
+          "converted": 32,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 52,
+          "meshes": 18,
+          "primitives": 18,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 32,
+          "totalBytes": 187,
+          "maxWidth": 8,
+          "maxHeight": 4
+        },
+        "textureAssets": [
+          {
+            "path": "textures/colormap_20.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.needle-engine.usdz[textures/colormap_20.png]",
+            "size": 187,
+            "width": 8,
+            "height": 4,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 20
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 32,
+          "converted": 32,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 50,
+          "meshes": 18,
+          "primitives": 18,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 32,
+          "totalBytes": 708,
+          "maxWidth": 8,
+          "maxHeight": 4
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/colormap.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.blender-5-1.usdz[textures/colormap.jpg]",
+            "size": 708,
+            "width": 8,
+            "height": 4,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 32,
+          "converted": 32,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 50,
+          "meshes": 18,
+          "primitives": 18,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 32,
+          "totalBytes": 708,
+          "maxWidth": 8,
+          "maxHeight": 4
+        },
+        "textureAssets": [
+          {
+            "path": "colormap.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.openusd-adobe-gltf.usdz[colormap.jpg]",
+            "size": 708,
+            "width": 8,
+            "height": 4,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 32,
+          "converted": 32,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 71,
+          "meshes": 18,
+          "primitives": 18,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 32,
+          "totalBytes": 708,
+          "maxWidth": 8,
+          "maxHeight": 4
+        },
+        "textureAssets": [
+          {
+            "path": "colormap.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TexturePaletteCompression/glTF-Binary/TexturePaletteCompression.glb.guc.usdz[colormap.jpg]",
+            "size": 708,
+            "width": 8,
+            "height": 4,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 18,
+            "converted": 18,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 32,
+          "converted": 32,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb",
+  "slug": "EmissiveStrengthTest",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 6,
+      "meshes": 6,
+      "primitives": 6,
+      "materials": 6,
+      "textures": 1,
+      "images": 1,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_emissive_strength",
+      "baseColorTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_emissive_strength"
+    ],
+    "textureImages": {
+      "count": 1,
+      "knownDimensions": 1,
+      "totalPixels": 65536,
+      "totalBytes": 618,
+      "maxWidth": 256,
+      "maxHeight": 256
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 38,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 65536,
+          "totalBytes": 618,
+          "maxWidth": 256,
+          "maxHeight": 256
+        },
+        "textureAssets": [
+          {
+            "path": "PlainGrid.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.guc.usdz[PlainGrid.png]",
+            "size": 618,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 65536,
+          "converted": 65536,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 34,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 65536,
+          "totalBytes": 618,
+          "maxWidth": 256,
+          "maxHeight": 256
+        },
+        "textureAssets": [
+          {
+            "path": "PlainGrid.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.openusd-adobe-gltf.usdz[PlainGrid.png]",
+            "size": 618,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 65536,
+          "converted": 65536,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 32,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 65536,
+          "totalBytes": 2410,
+          "maxWidth": 256,
+          "maxHeight": 256
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_409_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.three-r185.usdz[textures/Texture_409_false.png]",
+            "size": 2410,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 8
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 65536,
+          "converted": 65536,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 31,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 65536,
+          "totalBytes": 2056,
+          "maxWidth": 256,
+          "maxHeight": 256
+        },
+        "textureAssets": [
+          {
+            "path": "textures/PlainGrid_423.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.needle-engine.usdz[textures/PlainGrid_423.png]",
+            "size": 2056,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 8
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 65536,
+          "converted": 65536,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 28,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 65536,
+          "totalBytes": 618,
+          "maxWidth": 256,
+          "maxHeight": 256
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/PlainGrid.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/EmissiveStrengthTest/glTF-Binary/EmissiveStrengthTest.glb.blender-5-1.usdz[textures/PlainGrid.png]",
+            "size": 618,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 65536,
+          "converted": 65536,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1054 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb",
+  "slug": "ColorSpaceUberTest",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 2794,
+      "meshes": 2781,
+      "primitives": 2781,
+      "materials": 2773,
+      "textures": 3,
+      "images": 3,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_unlit",
+      "alphaBlend",
+      "baseColorTexture",
+      "emissiveTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_unlit",
+      "KHR_texture_transform"
+    ],
+    "textureImages": {
+      "count": 3,
+      "knownDimensions": 3,
+      "totalPixels": 5981424,
+      "totalBytes": 353388,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 14825,
+          "meshes": 2781,
+          "primitives": 2781,
+          "materials": 2773,
+          "textures": 3,
+          "images": 3,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 3,
+          "knownDimensions": 3,
+          "unknownDimensions": 0,
+          "totalPixels": 5981424,
+          "totalBytes": 306727,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_1239_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.three-r185.usdz[textures/Texture_1239_false.png]",
+            "size": 224413,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_5_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.three-r185.usdz[textures/Texture_5_false.jpg]",
+            "size": 41157,
+            "width": 1255,
+            "height": 712,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_622_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.three-r185.usdz[textures/Texture_622_false.jpg]",
+            "size": 41157,
+            "width": 1255,
+            "height": 712,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 938
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2773,
+            "converted": 2773,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "images": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 5981424,
+          "converted": 5981424,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 14824,
+          "meshes": 2781,
+          "primitives": 2781,
+          "materials": 2773,
+          "textures": 13,
+          "images": 13,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 13,
+          "knownDimensions": 13,
+          "unknownDimensions": 0,
+          "totalPixels": 14917024,
+          "totalBytes": 1002469,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/ColorChart_14.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_14.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.02.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.02.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.118.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.118.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.216.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.216.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.314.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.314.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.412.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.412.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.51.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.51.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.60800004.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.60800004.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.706.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.706.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.804.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.804.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/ColorChart_631_0.90199995.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/ColorChart_631_0.90199995.png]",
+            "size": 64838,
+            "width": 1255,
+            "height": 712,
+            "type": "png"
+          },
+          {
+            "path": "textures/_2_1248.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.needle-engine.usdz[textures/_2_1248.png]",
+            "size": 224413,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 948
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2773,
+            "converted": 2773,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 13,
+            "status": "present"
+          },
+          "images": {
+            "source": 3,
+            "converted": 13,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 5981424,
+          "converted": 14917024,
+          "ratio": 2.4938917555418243,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 19444,
+          "meshes": 2781,
+          "primitives": 2781,
+          "materials": 2773,
+          "textures": 3,
+          "images": 3,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 3,
+          "knownDimensions": 3,
+          "unknownDimensions": 0,
+          "totalPixels": 5981424,
+          "totalBytes": 353388,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.openusd-adobe-gltf.usdz[2.png]",
+            "size": 236668,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "ColorChart.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.openusd-adobe-gltf.usdz[ColorChart.jpg]",
+            "size": 58360,
+            "width": 1255,
+            "height": 712,
+            "type": "jpeg"
+          },
+          {
+            "path": "ColorChart1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.openusd-adobe-gltf.usdz[ColorChart1.jpg]",
+            "size": 58360,
+            "width": 1255,
+            "height": 712,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 4
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2773,
+            "converted": 2773,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "images": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 5981424,
+          "converted": 5981424,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    },
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 19456,
+          "meshes": 2781,
+          "primitives": 2781,
+          "materials": 2773,
+          "textures": 3,
+          "images": 3,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 3,
+          "knownDimensions": 3,
+          "unknownDimensions": 0,
+          "totalPixels": 5981424,
+          "totalBytes": 353388,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "ColorChart.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.guc.usdz[ColorChart.jpg]",
+            "size": 58360,
+            "width": 1255,
+            "height": 712,
+            "type": "jpeg"
+          },
+          {
+            "path": "ColorChart_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.guc.usdz[ColorChart_1.jpg]",
+            "size": 58360,
+            "width": 1255,
+            "height": 712,
+            "type": "jpeg"
+          },
+          {
+            "path": "_.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.guc.usdz[_.png]",
+            "size": 236668,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 4
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2773,
+            "converted": 2773,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "images": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 5981424,
+          "converted": 5981424,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 12970,
+          "meshes": 2781,
+          "primitives": 2781,
+          "materials": 2773,
+          "textures": 2,
+          "images": 2,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 2,
+          "knownDimensions": 2,
+          "unknownDimensions": 0,
+          "totalPixels": 1787120,
+          "totalBytes": 116720,
+          "maxWidth": 1255,
+          "maxHeight": 712
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/ColorChart.001.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.blender-5-1.usdz[textures/ColorChart.001.jpg]",
+            "size": 58360,
+            "width": 1255,
+            "height": 712,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/ColorChart.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ColorSpaceUberTest/glTF-Binary/ColorSpaceUberTest.glb.blender-5-1.usdz[textures/ColorChart.jpg]",
+            "size": 58360,
+            "width": 1255,
+            "height": 712,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 3
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2781,
+            "converted": 2781,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2773,
+            "converted": 2773,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 5981424,
+          "converted": 1787120,
+          "ratio": 0.2987783511083648,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    }
+  ]
+}

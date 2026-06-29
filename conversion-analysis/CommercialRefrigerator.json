@@ -1,0 +1,1461 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb",
+  "slug": "CommercialRefrigerator",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 6,
+      "meshes": 6,
+      "primitives": 8,
+      "materials": 6,
+      "textures": 10,
+      "images": 10,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 1,
+      "animationChannels": 1,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "baseColorTexture",
+      "emissiveTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission"
+    ],
+    "textureImages": {
+      "count": 10,
+      "knownDimensions": 10,
+      "totalPixels": 20463616,
+      "totalBytes": 2089164,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 76,
+          "meshes": 8,
+          "primitives": 8,
+          "materials": 6,
+          "textures": 10,
+          "images": 10,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 10,
+          "knownDimensions": 10,
+          "unknownDimensions": 0,
+          "totalPixels": 20463616,
+          "totalBytes": 2089164,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "img.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img.jpg]",
+            "size": 17325,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_1.jpg]",
+            "size": 968182,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_2.jpg]",
+            "size": 7964,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_3.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_3.jpg]",
+            "size": 4038,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_4.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_4.jpg]",
+            "size": 95760,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_5.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_5.jpg]",
+            "size": 176417,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_6.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_6.jpg]",
+            "size": 312533,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_7.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_7.jpg]",
+            "size": 277609,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_8.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_8.jpg]",
+            "size": 108125,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_9.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.guc.usdz[img_9.jpg]",
+            "size": 121211,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 11
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 8,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 10,
+            "converted": 10,
+            "status": "present"
+          },
+          "images": {
+            "source": 10,
+            "converted": 10,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 20463616,
+          "converted": 20463616,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 57,
+          "meshes": 8,
+          "primitives": 8,
+          "materials": 6,
+          "textures": 10,
+          "images": 10,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 10,
+          "knownDimensions": 10,
+          "unknownDimensions": 0,
+          "totalPixels": 20463616,
+          "totalBytes": 2089164,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "ChampagneFoil_normal.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[ChampagneFoil_normal.jpg]",
+            "size": 4038,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "ChampagneGlass_normal.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[ChampagneGlass_normal.jpg]",
+            "size": 968182,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "ChampagneLabel_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[ChampagneLabel_diffuse.jpg]",
+            "size": 17325,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "ChampagneLabel_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[ChampagneLabel_metallicRoughness.jpg]",
+            "size": 7964,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "FridgeCase_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[FridgeCase_diffuse.jpg]",
+            "size": 121211,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "FridgeCase_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[FridgeCase_metallicRoughness.jpg]",
+            "size": 95760,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "FridgeGlass_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[FridgeGlass_metallicRoughness.jpg]",
+            "size": 176417,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "FridgeInterior_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[FridgeInterior_diffuse.jpg]",
+            "size": 312533,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "FridgeInterior_emissive.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[FridgeInterior_emissive.jpg]",
+            "size": 277609,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "FridgeInterior_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.openusd-adobe-gltf.usdz[FridgeInterior_metallicRoughness.jpg]",
+            "size": 108125,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 11
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 8,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 10,
+            "converted": 10,
+            "status": "present"
+          },
+          "images": {
+            "source": 10,
+            "converted": 10,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 20463616,
+          "converted": 20463616,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 91,
+          "meshes": 8,
+          "primitives": 8,
+          "materials": 6,
+          "textures": 10,
+          "images": 10,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 10,
+          "knownDimensions": 10,
+          "unknownDimensions": 0,
+          "totalPixels": 20463616,
+          "totalBytes": 2239283,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_318_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_318_false.jpg]",
+            "size": 3670,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_319_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_319_false.jpg]",
+            "size": 12383,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_320_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_320_false.jpg]",
+            "size": 24497,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_321_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_321_false.jpg]",
+            "size": 130785,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_322_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_322_false.jpg]",
+            "size": 148651,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_323_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_323_false.jpg]",
+            "size": 250942,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_324_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_324_false.jpg]",
+            "size": 159401,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_325_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_325_false.jpg]",
+            "size": 363315,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_326_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_326_false.jpg]",
+            "size": 407794,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_327_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.three-r185.usdz[textures/Texture_327_false.jpg]",
+            "size": 737845,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 19
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 8,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 10,
+            "converted": 10,
+            "status": "present"
+          },
+          "images": {
+            "source": 10,
+            "converted": 10,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 20463616,
+          "converted": 20463616,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 53,
+          "meshes": 8,
+          "primitives": 8,
+          "materials": 6,
+          "textures": 9,
+          "images": 9,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 9,
+          "knownDimensions": 9,
+          "unknownDimensions": 0,
+          "totalPixels": 19415040,
+          "totalBytes": 14944900,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/__332.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__332.png]",
+            "size": 18575,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__333.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__333.png]",
+            "size": 102191,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/__334.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__334.png]",
+            "size": 120519,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/__335.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__335.png]",
+            "size": 1267706,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/__336.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__336.png]",
+            "size": 1151726,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/__338.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__338.png]",
+            "size": 1020202,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__339.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__339.png]",
+            "size": 2365642,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__340.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__340.png]",
+            "size": 2546225,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__341.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.needle-engine.usdz[textures/__341.png]",
+            "size": 6352114,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 18
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 8,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 10,
+            "converted": 9,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 10,
+            "converted": 9,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 20463616,
+          "converted": 19415040,
+          "ratio": 0.9487590072057646,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 47,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 10,
+          "images": 10,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 3,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 10,
+          "knownDimensions": 10,
+          "unknownDimensions": 0,
+          "totalPixels": 20463616,
+          "totalBytes": 2089164,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "size": 17325,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "size": 968182,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "size": 7964,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_3.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "size": 4038,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_4.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "size": 95760,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_5.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_5.jpg]",
+            "size": 176417,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_6.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_6.jpg]",
+            "size": 312533,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_7.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_7.jpg]",
+            "size": 277609,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_8.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_8.jpg]",
+            "size": 108125,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_9.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb.blender-5-1.usdz[textures/Image_9.jpg]",
+            "size": 121211,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 11
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 6,
+            "status": "reduced"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 10,
+            "converted": 10,
+            "status": "present"
+          },
+          "images": {
+            "source": 10,
+            "converted": 10,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 3,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 20463616,
+          "converted": 20463616,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    }
+  ]
+}

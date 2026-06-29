@@ -1,0 +1,1685 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb",
+  "slug": "CarConcept",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 101,
+      "meshes": 97,
+      "primitives": 109,
+      "materials": 29,
+      "textures": 15,
+      "images": 14,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 3
+    },
+    "materialFeatures": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_emissive_strength",
+      "KHR_materials_iridescence",
+      "KHR_materials_transmission",
+      "baseColorTexture",
+      "emissiveTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_emissive_strength",
+      "KHR_materials_iridescence",
+      "KHR_materials_transmission",
+      "KHR_materials_variants",
+      "KHR_texture_transform"
+    ],
+    "textureImages": {
+      "count": 14,
+      "knownDimensions": 14,
+      "totalPixels": 7523328,
+      "totalBytes": 2923246,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 485,
+          "meshes": 109,
+          "primitives": 109,
+          "materials": 29,
+          "textures": 13,
+          "images": 13,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 1
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 13,
+          "knownDimensions": 13,
+          "unknownDimensions": 0,
+          "totalPixels": 7261184,
+          "totalBytes": 2682883,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img.png]",
+            "size": 358161,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_1.png]",
+            "size": 106027,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_10.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_10.png]",
+            "size": 23370,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_11.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_11.png]",
+            "size": 475684,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_12.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_12.png]",
+            "size": 53752,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "img_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_2.png]",
+            "size": 1567628,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "img_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_3.png]",
+            "size": 8177,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "img_4.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_4.png]",
+            "size": 3528,
+            "width": 64,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "img_5.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_5.png]",
+            "size": 198,
+            "width": 32,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "img_6.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_6.png]",
+            "size": 31201,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "img_7.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_7.png]",
+            "size": 46314,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "img_8.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_8.png]",
+            "size": 343,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "img_9.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.guc.usdz[img_9.png]",
+            "size": 8500,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 15
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 97,
+            "converted": 109,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 109,
+            "converted": 109,
+            "status": "present"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 29,
+            "status": "present"
+          },
+          "textures": {
+            "source": 15,
+            "converted": 13,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 14,
+            "converted": 13,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 3,
+            "converted": 1,
+            "status": "reduced"
+          }
+        },
+        "texturePixels": {
+          "source": 7523328,
+          "converted": 7261184,
+          "ratio": 0.9651558459235062,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength",
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 397,
+          "meshes": 109,
+          "primitives": 109,
+          "materials": 29,
+          "textures": 14,
+          "images": 14,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 14,
+          "knownDimensions": 14,
+          "unknownDimensions": 0,
+          "totalPixels": 7263232,
+          "totalBytes": 2686411,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "Dashboard_emissive.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Dashboard_emissive.png]",
+            "size": 31201,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "Disc_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Disc_diffuse.png]",
+            "size": 343,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "Disc_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Disc_normal.png]",
+            "size": 8500,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "Floormat_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Floormat_normal.png]",
+            "size": 3528,
+            "width": 64,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "Interior 1_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Interior 1_normal.png]",
+            "size": 3528,
+            "width": 64,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "Interior 2_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Interior 2_normal.png]",
+            "size": 198,
+            "width": 32,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "Material2_emissive.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Material2_emissive.png]",
+            "size": 8177,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "Mechanical_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Mechanical_metallicRoughness.png]",
+            "size": 106027,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "Mechanical_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Mechanical_normal.png]",
+            "size": 358161,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "Mechanical_occlusion.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Mechanical_occlusion.png]",
+            "size": 1567628,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "Paint 2 Carmine_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Paint 2 Carmine_normal.png]",
+            "size": 46314,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "Tireside_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Tireside_diffuse.png]",
+            "size": 23370,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "Tireside_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Tireside_normal.png]",
+            "size": 475684,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "Tiretread_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.openusd-adobe-gltf.usdz[Tiretread_normal.png]",
+            "size": 53752,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 15
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 97,
+            "converted": 109,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 109,
+            "converted": 109,
+            "status": "present"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 29,
+            "status": "present"
+          },
+          "textures": {
+            "source": 15,
+            "converted": 14,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 14,
+            "converted": 14,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 3,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 7523328,
+          "converted": 7263232,
+          "ratio": 0.9654280658772288,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength",
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 411,
+          "meshes": 109,
+          "primitives": 109,
+          "materials": 23,
+          "textures": 13,
+          "images": 13,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 13,
+          "knownDimensions": 13,
+          "unknownDimensions": 0,
+          "totalPixels": 7261184,
+          "totalBytes": 4770465,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_221_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_221_false.png]",
+            "size": 199,
+            "width": 32,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_223_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_223_false.png]",
+            "size": 19237,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_224_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_224_false.png]",
+            "size": 4553,
+            "width": 64,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_228_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_228_false.png]",
+            "size": 1530,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_230_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_230_false.png]",
+            "size": 51222,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_233_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_233_false.png]",
+            "size": 13772,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_235_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_235_false.png]",
+            "size": 78495,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_236_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_236_false.png]",
+            "size": 90993,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_238_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_238_false.png]",
+            "size": 418175,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_239_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_239_false.png]",
+            "size": 45846,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_240_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_240_false.png]",
+            "size": 162271,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_241_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_241_false.png]",
+            "size": 627763,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_242_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_242_false.png]",
+            "size": 3256409,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 123
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 97,
+            "converted": 109,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 109,
+            "converted": 109,
+            "status": "present"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 23,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 15,
+            "converted": 13,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 14,
+            "converted": 13,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 3,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 7523328,
+          "converted": 7261184,
+          "ratio": 0.9651558459235062,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength",
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 374,
+          "meshes": 109,
+          "primitives": 109,
+          "materials": 23,
+          "textures": 13,
+          "images": 13,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 13,
+          "knownDimensions": 13,
+          "unknownDimensions": 0,
+          "totalPixels": 7261184,
+          "totalBytes": 4251589,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/__234.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__234.png]",
+            "size": 17459,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__235.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__235.png]",
+            "size": 3888,
+            "width": 64,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "textures/__239.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__239.png]",
+            "size": 195,
+            "width": 32,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "textures/__241.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__241.png]",
+            "size": 44088,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__244.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__244.png]",
+            "size": 11305,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__246.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__246.png]",
+            "size": 1326,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__248.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__248.png]",
+            "size": 76826,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__250.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__250.png]",
+            "size": 74711,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__251.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__251.png]",
+            "size": 155367,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/__252.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__252.png]",
+            "size": 358856,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/__253.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__253.png]",
+            "size": 39447,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/__254.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__254.png]",
+            "size": 529084,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/__255.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.needle-engine.usdz[textures/__255.png]",
+            "size": 2939037,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 123
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 97,
+            "converted": 109,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 109,
+            "converted": 109,
+            "status": "present"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 23,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 15,
+            "converted": 13,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 14,
+            "converted": 13,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 3,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 7523328,
+          "converted": 7261184,
+          "ratio": 0.9651558459235062,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength",
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 319,
+          "meshes": 97,
+          "primitives": 97,
+          "materials": 23,
+          "textures": 12,
+          "images": 12,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 12,
+          "knownDimensions": 12,
+          "unknownDimensions": 0,
+          "totalPixels": 3066880,
+          "totalBytes": 1115255,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "size": 358161,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "size": 106027,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_10.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_10.png]",
+            "size": 23370,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_11.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_11.png]",
+            "size": 475684,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_12.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_12.png]",
+            "size": 53752,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "size": 8177,
+            "width": 512,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_4.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "size": 3528,
+            "width": 64,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_5.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "size": 198,
+            "width": 32,
+            "height": 32,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_6.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_6.png]",
+            "size": 31201,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_7.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_7.png]",
+            "size": 46314,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_8.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_8.png]",
+            "size": 343,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_9.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_9.png]",
+            "size": 8500,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 13
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 97,
+            "converted": 97,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 109,
+            "converted": 97,
+            "status": "reduced"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 23,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 15,
+            "converted": 12,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 14,
+            "converted": 12,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 3,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 7523328,
+          "converted": 3066880,
+          "ratio": 0.40764938069960527,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength",
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission"
+        ]
+      }
+    }
+  ]
+}

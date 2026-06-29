@@ -1,0 +1,1186 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb",
+  "slug": "GlassBrokenWindow",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 3,
+      "meshes": 3,
+      "primitives": 3,
+      "materials": 3,
+      "textures": 5,
+      "images": 5,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_transmission",
+      "alphaMask",
+      "baseColorTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_transmission"
+    ],
+    "textureImages": {
+      "count": 5,
+      "knownDimensions": 5,
+      "totalPixels": 4259840,
+      "totalBytes": 1035184,
+      "maxWidth": 1024,
+      "maxHeight": 1024
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 35,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 5,
+          "images": 5,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 5,
+          "knownDimensions": 5,
+          "unknownDimensions": 0,
+          "totalPixels": 4259840,
+          "totalBytes": 1035184,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "img.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.guc.usdz[img.jpg]",
+            "size": 633247,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.guc.usdz[img.png]",
+            "size": 42858,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.guc.usdz[img_1.jpg]",
+            "size": 145198,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.guc.usdz[img_1.png]",
+            "size": 194054,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.guc.usdz[img_2.jpg]",
+            "size": 19827,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 6
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "images": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4259840,
+          "converted": 4259840,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 28,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 5,
+          "images": 5,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 5,
+          "knownDimensions": 5,
+          "unknownDimensions": 0,
+          "totalPixels": 4259840,
+          "totalBytes": 1035184,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "WindowClasp_occlusion.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.openusd-adobe-gltf.usdz[WindowClasp_occlusion.jpg]",
+            "size": 19827,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "WindowFrame_occlusion.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.openusd-adobe-gltf.usdz[WindowFrame_occlusion.jpg]",
+            "size": 145198,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "WindowGlass_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.openusd-adobe-gltf.usdz[WindowGlass_diffuse.png]",
+            "size": 194054,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "WindowGlass_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.openusd-adobe-gltf.usdz[WindowGlass_metallicRoughness.jpg]",
+            "size": 633247,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "WindowGlass_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.openusd-adobe-gltf.usdz[WindowGlass_normal.png]",
+            "size": 42858,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 6
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "images": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4259840,
+          "converted": 4259840,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 35,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 5,
+          "images": 5,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 5,
+          "knownDimensions": 5,
+          "unknownDimensions": 0,
+          "totalPixels": 4259840,
+          "totalBytes": 675017,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_414_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_414_false.jpg]",
+            "size": 10522,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_415_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_415_false.png]",
+            "size": 120494,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_416_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_416_false.png]",
+            "size": 308891,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_417_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_417_false.jpg]",
+            "size": 69714,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_418_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_418_false.jpg]",
+            "size": 165396,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "images": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4259840,
+          "converted": 4259840,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 25,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 5,
+          "images": 5,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 5,
+          "knownDimensions": 5,
+          "unknownDimensions": 0,
+          "totalPixels": 4259840,
+          "totalBytes": 2101701,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/WindowClasp_Occlusionjpg_429.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.needle-engine.usdz[textures/WindowClasp_Occlusionjpg_429.png]",
+            "size": 45876,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/WindowFrame_Occlusionjpg_432.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.needle-engine.usdz[textures/WindowFrame_Occlusionjpg_432.png]",
+            "size": 343864,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/WindowGlass_ColorAlphapng_430_0.025000000000000022.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.needle-engine.usdz[textures/WindowGlass_ColorAlphapng_430_0.025000000000000022.png]",
+            "size": 308737,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/WindowGlass_Normalpng_431.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.needle-engine.usdz[textures/WindowGlass_Normalpng_431.png]",
+            "size": 102674,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/WindowGlass_OcclusionRoughMetaljpg_433.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.needle-engine.usdz[textures/WindowGlass_OcclusionRoughMetaljpg_433.png]",
+            "size": 1300550,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "images": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4259840,
+          "converted": 4259840,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 18,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 3,
+          "images": 3,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 3,
+          "knownDimensions": 3,
+          "unknownDimensions": 0,
+          "totalPixels": 3145728,
+          "totalBytes": 870159,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "size": 42858,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "size": 194054,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "size": 633247,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 4
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 5,
+            "converted": 3,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 5,
+            "converted": 3,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4259840,
+          "converted": 3145728,
+          "ratio": 0.7384615384615385,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    }
+  ]
+}

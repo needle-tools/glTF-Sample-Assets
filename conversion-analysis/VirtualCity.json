@@ -1,0 +1,1619 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb",
+  "slug": "VirtualCity",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 234,
+      "meshes": 135,
+      "primitives": 167,
+      "materials": 167,
+      "textures": 28,
+      "images": 20,
+      "cameras": 14,
+      "lights": 0,
+      "skins": 0,
+      "animations": 1,
+      "animationChannels": 73,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "baseColorTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [],
+    "textureImages": {
+      "count": 20,
+      "knownDimensions": 20,
+      "totalPixels": 1884160,
+      "totalBytes": 881672,
+      "maxWidth": 512,
+      "maxHeight": 1024
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 1478,
+          "meshes": 167,
+          "primitives": 167,
+          "materials": 167,
+          "textures": 20,
+          "images": 20,
+          "cameras": 14,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 20,
+          "knownDimensions": 20,
+          "unknownDimensions": 0,
+          "totalPixels": 1884160,
+          "totalBytes": 881672,
+          "maxWidth": 512,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "img.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img.jpg]",
+            "size": 60967,
+            "width": 128,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img.png]",
+            "size": 4213,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "img_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_1.jpg]",
+            "size": 63992,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_10.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_10.jpg]",
+            "size": 37442,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_11.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_11.jpg]",
+            "size": 32523,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_12.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_12.jpg]",
+            "size": 57559,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_13.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_13.jpg]",
+            "size": 24026,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_14.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_14.jpg]",
+            "size": 143381,
+            "width": 512,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_15.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_15.jpg]",
+            "size": 206056,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_16.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_16.jpg]",
+            "size": 35913,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_17.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_17.jpg]",
+            "size": 31216,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_18.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_18.jpg]",
+            "size": 22231,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_2.jpg]",
+            "size": 18950,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_3.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_3.jpg]",
+            "size": 21265,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_4.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_4.jpg]",
+            "size": 16998,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_5.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_5.jpg]",
+            "size": 20323,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_6.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_6.jpg]",
+            "size": 21483,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_7.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_7.jpg]",
+            "size": 20182,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_8.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_8.jpg]",
+            "size": 22899,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_9.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.guc.usdz[img_9.jpg]",
+            "size": 20053,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 21
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 135,
+            "converted": 167,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "materials": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "textures": {
+            "source": 28,
+            "converted": 20,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 20,
+            "converted": 20,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 14,
+            "converted": 14,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "animationChannels": {
+            "source": 73,
+            "converted": 0,
+            "status": "missing"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1884160,
+          "converted": 1884160,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 1359,
+          "meshes": 167,
+          "primitives": 167,
+          "materials": 167,
+          "textures": 28,
+          "images": 28,
+          "cameras": 14,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 73,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 28,
+          "knownDimensions": 28,
+          "unknownDimensions": 0,
+          "totalPixels": 3325952,
+          "totalBytes": 1539622,
+          "maxWidth": 512,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "Material__10512_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[Material__10512_diffuse.jpg]",
+            "size": 63992,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "Material__10539_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[Material__10539_diffuse.jpg]",
+            "size": 57559,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "Material__75_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[Material__75_diffuse.jpg]",
+            "size": 21483,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "Material__76_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[Material__76_diffuse.jpg]",
+            "size": 18950,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "Scrape04_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[Scrape04_diffuse.jpg]",
+            "size": 60967,
+            "width": 128,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "VMtl01_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[VMtl01_diffuse.jpg]",
+            "size": 37442,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "VMtl02_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[VMtl02_diffuse.jpg]",
+            "size": 60967,
+            "width": 128,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "VMtl03_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[VMtl03_diffuse.jpg]",
+            "size": 32523,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "VMtl04_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[VMtl04_diffuse.jpg]",
+            "size": 31216,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "VMtl05_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[VMtl05_diffuse.jpg]",
+            "size": 35913,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "VMtl06_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[VMtl06_diffuse.jpg]",
+            "size": 35913,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "VMtl08_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[VMtl08_diffuse.jpg]",
+            "size": 32523,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "_1111111_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[_1111111_diffuse.jpg]",
+            "size": 63992,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "_22jyj_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[_22jyj_diffuse.jpg]",
+            "size": 24026,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "_3_-_Default_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[_3_-_Default_diffuse.jpg]",
+            "size": 20053,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "_4_-_Default_1_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[_4_-_Default_1_diffuse.jpg]",
+            "size": 20323,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "_5_-_Default_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[_5_-_Default_diffuse.jpg]",
+            "size": 20182,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "_6_-_Default_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[_6_-_Default_diffuse.jpg]",
+            "size": 16998,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "_7_-_Default_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[_7_-_Default_diffuse.jpg]",
+            "size": 22899,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "_8_-_Default_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[_8_-_Default_diffuse.jpg]",
+            "size": 21265,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "__-_Default_1_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[__-_Default_1_diffuse.jpg]",
+            "size": 57559,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "__-_Default_2_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[__-_Default_2_diffuse.png]",
+            "size": 4213,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "__-_Default_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[__-_Default_diffuse.jpg]",
+            "size": 22231,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "__-_Defaultww_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[__-_Defaultww_diffuse.jpg]",
+            "size": 143381,
+            "width": 512,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "efefefefef_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[efefefefef_diffuse.jpg]",
+            "size": 206056,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "eref_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[eref_diffuse.jpg]",
+            "size": 206056,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "glass_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[glass_diffuse.jpg]",
+            "size": 57559,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "l__l_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.openusd-adobe-gltf.usdz[l__l_diffuse.jpg]",
+            "size": 143381,
+            "width": 512,
+            "height": 1024,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 29
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 135,
+            "converted": 167,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "materials": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "textures": {
+            "source": 28,
+            "converted": 28,
+            "status": "present"
+          },
+          "images": {
+            "source": 20,
+            "converted": 28,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 14,
+            "converted": 14,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 73,
+            "converted": 73,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1884160,
+          "converted": 3325952,
+          "ratio": 1.7652173913043478,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 1674,
+          "meshes": 167,
+          "primitives": 167,
+          "materials": 167,
+          "textures": 20,
+          "images": 20,
+          "cameras": 14,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 73,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 20,
+          "knownDimensions": 20,
+          "unknownDimensions": 0,
+          "totalPixels": 1884160,
+          "totalBytes": 558162,
+          "maxWidth": 512,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_765_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_765_false.jpg]",
+            "size": 8892,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_766_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_766_false.jpg]",
+            "size": 9235,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_767_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_767_false.png]",
+            "size": 10443,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_768_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_768_false.jpg]",
+            "size": 15738,
+            "width": 128,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_769_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_769_false.jpg]",
+            "size": 9187,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_770_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_770_false.jpg]",
+            "size": 9151,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_771_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_771_false.jpg]",
+            "size": 17811,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_772_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_772_false.jpg]",
+            "size": 19765,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_773_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_773_false.jpg]",
+            "size": 21253,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_774_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_774_false.jpg]",
+            "size": 26779,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_775_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_775_false.jpg]",
+            "size": 20990,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_776_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_776_false.jpg]",
+            "size": 22399,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_777_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_777_false.jpg]",
+            "size": 23230,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_778_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_778_false.jpg]",
+            "size": 22268,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_779_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_779_false.jpg]",
+            "size": 20932,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_780_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_780_false.jpg]",
+            "size": 24064,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_781_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_781_false.jpg]",
+            "size": 24630,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_782_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_782_false.jpg]",
+            "size": 66126,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_783_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_783_false.jpg]",
+            "size": 111948,
+            "width": 512,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_784_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.three-r185.usdz[textures/Texture_784_false.jpg]",
+            "size": 73321,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 188
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 135,
+            "converted": 167,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "materials": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "textures": {
+            "source": 28,
+            "converted": 20,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 20,
+            "converted": 20,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 14,
+            "converted": 14,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 73,
+            "converted": 73,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1884160,
+          "converted": 1884160,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 1233,
+          "meshes": 167,
+          "primitives": 167,
+          "materials": 167,
+          "textures": 20,
+          "images": 20,
+          "cameras": 14,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 73,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 20,
+          "knownDimensions": 20,
+          "unknownDimensions": 0,
+          "totalPixels": 1884160,
+          "totalBytes": 3178583,
+          "maxWidth": 512,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/__790.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__790.png]",
+            "size": 127310,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__791.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__791.png]",
+            "size": 71825,
+            "width": 128,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__792.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__792.png]",
+            "size": 36895,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__793.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__793.png]",
+            "size": 42025,
+            "width": 64,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__794.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__794.png]",
+            "size": 42091,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__795.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__795.png]",
+            "size": 38780,
+            "width": 64,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__796.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__796.png]",
+            "size": 11782,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/__797.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__797.png]",
+            "size": 130191,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__798.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__798.png]",
+            "size": 120293,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__799.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__799.png]",
+            "size": 134899,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__800.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__800.png]",
+            "size": 114871,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__801.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__801.png]",
+            "size": 131829,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__802.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__802.png]",
+            "size": 129296,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__803.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__803.png]",
+            "size": 132541,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__804.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__804.png]",
+            "size": 136273,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__805.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__805.png]",
+            "size": 139639,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__806.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__806.png]",
+            "size": 130826,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__807.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__807.png]",
+            "size": 675644,
+            "width": 512,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/__808.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__808.png]",
+            "size": 458246,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/__809.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.needle-engine.usdz[textures/__809.png]",
+            "size": 373327,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 188
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 135,
+            "converted": 167,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "materials": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "textures": {
+            "source": 28,
+            "converted": 20,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 20,
+            "converted": 20,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 14,
+            "converted": 14,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 73,
+            "converted": 73,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1884160,
+          "converted": 1884160,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 1065,
+          "meshes": 135,
+          "primitives": 135,
+          "materials": 167,
+          "textures": 20,
+          "images": 20,
+          "cameras": 14,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 123,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 20,
+          "knownDimensions": 20,
+          "unknownDimensions": 0,
+          "totalPixels": 1884160,
+          "totalBytes": 881672,
+          "maxWidth": 512,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "size": 60967,
+            "width": 128,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "size": 63992,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_10.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_10.jpg]",
+            "size": 37442,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_11.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_11.jpg]",
+            "size": 32523,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_12.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_12.jpg]",
+            "size": 57559,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_13.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_13.png]",
+            "size": 4213,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_14.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_14.jpg]",
+            "size": 24026,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_15.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_15.jpg]",
+            "size": 143381,
+            "width": 512,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_16.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_16.jpg]",
+            "size": 206056,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_17.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_17.jpg]",
+            "size": 35913,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_18.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_18.jpg]",
+            "size": 31216,
+            "width": 64,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_19.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_19.jpg]",
+            "size": 22231,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "size": 18950,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_3.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "size": 21265,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_4.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "size": 16998,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_5.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_5.jpg]",
+            "size": 20323,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_6.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_6.jpg]",
+            "size": 21483,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_7.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_7.jpg]",
+            "size": 20182,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_8.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_8.jpg]",
+            "size": 22899,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_9.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VirtualCity/glTF-Binary/VirtualCity.glb.blender-5-1.usdz[textures/Image_9.jpg]",
+            "size": 20053,
+            "width": 256,
+            "height": 256,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 21
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 135,
+            "converted": 135,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 167,
+            "converted": 135,
+            "status": "reduced"
+          },
+          "materials": {
+            "source": 167,
+            "converted": 167,
+            "status": "present"
+          },
+          "textures": {
+            "source": 28,
+            "converted": 20,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 20,
+            "converted": 20,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 14,
+            "converted": 14,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 73,
+            "converted": 123,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1884160,
+          "converted": 1884160,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

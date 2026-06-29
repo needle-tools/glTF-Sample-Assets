@@ -1,0 +1,889 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb",
+  "slug": "CarbonFibre",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "primitives": 1,
+      "materials": 1,
+      "textures": 3,
+      "images": 3,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_anisotropy",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_anisotropy"
+    ],
+    "textureImages": {
+      "count": 3,
+      "knownDimensions": 3,
+      "totalPixels": 344064,
+      "totalBytes": 335729,
+      "maxWidth": 512,
+      "maxHeight": 512
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 15,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 2,
+          "images": 2,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 2,
+          "knownDimensions": 2,
+          "unknownDimensions": 0,
+          "totalPixels": 327680,
+          "totalBytes": 335614,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.guc.usdz[img.png]",
+            "size": 31773,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "img_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.guc.usdz[img_1.png]",
+            "size": 303841,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 4
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 344064,
+          "converted": 327680,
+          "ratio": 0.9523809523809523,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_anisotropy",
+            "compatibleFeatures": [
+              "anisotropy"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_anisotropy"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 10,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 2,
+          "images": 2,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 2,
+          "knownDimensions": 2,
+          "unknownDimensions": 0,
+          "totalPixels": 327680,
+          "totalBytes": 335614,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "CarbonFibre_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.openusd-adobe-gltf.usdz[CarbonFibre_normal.png]",
+            "size": 303841,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "CarbonFibre_occlusion.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.openusd-adobe-gltf.usdz[CarbonFibre_occlusion.png]",
+            "size": 31773,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 6
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 344064,
+          "converted": 327680,
+          "ratio": 0.9523809523809523,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_anisotropy",
+            "compatibleFeatures": [
+              "anisotropy"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_anisotropy"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 15,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 2,
+          "images": 2,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 2,
+          "knownDimensions": 2,
+          "unknownDimensions": 0,
+          "totalPixels": 327680,
+          "totalBytes": 584884,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_263_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.three-r185.usdz[textures/Texture_263_false.png]",
+            "size": 67708,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_264_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.three-r185.usdz[textures/Texture_264_false.png]",
+            "size": 517176,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 4
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 344064,
+          "converted": 327680,
+          "ratio": 0.9523809523809523,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_anisotropy",
+            "compatibleFeatures": [
+              "anisotropy"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_anisotropy"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 12,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 2,
+          "images": 2,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 2,
+          "knownDimensions": 2,
+          "unknownDimensions": 0,
+          "totalPixels": 327680,
+          "totalBytes": 506970,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "textures/CarbonFibre_normalpng_277.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.needle-engine.usdz[textures/CarbonFibre_normalpng_277.png]",
+            "size": 442472,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/CarbonFibre_occlusionpng_276.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.needle-engine.usdz[textures/CarbonFibre_occlusionpng_276.png]",
+            "size": 64498,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 4
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 3,
+            "converted": 2,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 344064,
+          "converted": 327680,
+          "ratio": 0.9523809523809523,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_anisotropy",
+            "compatibleFeatures": [
+              "anisotropy"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_anisotropy"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 8,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 262144,
+          "totalBytes": 303841,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarbonFibre/glTF-Binary/CarbonFibre.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "size": 303841,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 3,
+            "converted": 1,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 3,
+            "converted": 1,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 344064,
+          "converted": 262144,
+          "ratio": 0.7619047619047619,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_anisotropy",
+            "compatibleFeatures": [
+              "anisotropy"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_anisotropy"
+        ]
+      }
+    }
+  ]
+}

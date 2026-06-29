@@ -1,0 +1,796 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb",
+  "slug": "ClearCoatCarPaint",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "primitives": 1,
+      "materials": 1,
+      "textures": 1,
+      "images": 1,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_clearcoat",
+      "normalTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_clearcoat",
+      "KHR_texture_transform"
+    ],
+    "textureImages": {
+      "count": 1,
+      "knownDimensions": 1,
+      "totalPixels": 16384,
+      "totalBytes": 41240,
+      "maxWidth": 128,
+      "maxHeight": 128
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 14,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16384,
+          "totalBytes": 41240,
+          "maxWidth": 128,
+          "maxHeight": 128
+        },
+        "textureAssets": [
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.guc.usdz[img.png]",
+            "size": 41240,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16384,
+          "converted": 16384,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 10,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16384,
+          "totalBytes": 41240,
+          "maxWidth": 128,
+          "maxHeight": 128
+        },
+        "textureAssets": [
+          {
+            "path": "Clear Coat Car Paint_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.openusd-adobe-gltf.usdz[Clear Coat Car Paint_normal.png]",
+            "size": 41240,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16384,
+          "converted": 16384,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 12,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16384,
+          "totalBytes": 51222,
+          "maxWidth": 128,
+          "maxHeight": 128
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_306_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three-r185.usdz[textures/Texture_306_false.png]",
+            "size": 51222,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 3
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16384,
+          "converted": 16384,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 12,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16384,
+          "totalBytes": 44088,
+          "maxWidth": 128,
+          "maxHeight": 128
+        },
+        "textureAssets": [
+          {
+            "path": "textures/ClearCoatCarPaint_Normalpng_320.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.needle-engine.usdz[textures/ClearCoatCarPaint_Normalpng_320.png]",
+            "size": 44088,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 3
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16384,
+          "converted": 16384,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 9,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16384,
+          "totalBytes": 41240,
+          "maxWidth": 128,
+          "maxHeight": 128
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "size": 41240,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16384,
+          "converted": 16384,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

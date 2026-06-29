@@ -1,0 +1,1678 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb",
+  "slug": "PlaysetLightTest",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 11,
+      "meshes": 6,
+      "primitives": 6,
+      "materials": 6,
+      "textures": 19,
+      "images": 19,
+      "cameras": 1,
+      "lights": 2,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_emissive_strength",
+      "baseColorTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_lights_punctual",
+      "KHR_materials_emissive_strength"
+    ],
+    "textureImages": {
+      "count": 19,
+      "knownDimensions": 19,
+      "totalPixels": 42837874,
+      "totalBytes": 12792354,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 94,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 19,
+          "images": 19,
+          "cameras": 1,
+          "lights": 2,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 19,
+          "knownDimensions": 19,
+          "unknownDimensions": 0,
+          "totalPixels": 42837874,
+          "totalBytes": 12792354,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "Basecolor_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[Basecolor_0.jpg]",
+            "size": 200929,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[Image_0.png]",
+            "size": 642213,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[Image_1.png]",
+            "size": 1195751,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "Image_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[Image_2.png]",
+            "size": 648353,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "Image_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[Image_3.png]",
+            "size": 210599,
+            "width": 605,
+            "height": 605,
+            "type": "png"
+          },
+          {
+            "path": "Metalness_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[Metalness_0.jpg]",
+            "size": 53850,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "Normals_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[Normals_0.jpg]",
+            "size": 66000,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "material0_basecolor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_basecolor.png]",
+            "size": 2018755,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "material0_basecolor_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_basecolor_1.png]",
+            "size": 1966328,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "material0_basecolor_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_basecolor_2.png]",
+            "size": 35447,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "material0_metallic_roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_metallic_roughness.png]",
+            "size": 218010,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "material0_metallic_roughness_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_metallic_roughness_1.png]",
+            "size": 63965,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "material0_metallic_roughness_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_metallic_roughness_2.png]",
+            "size": 111338,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "material0_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_normal.png]",
+            "size": 2291980,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "material0_normal_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_normal_1.png]",
+            "size": 2194214,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "material0_normal_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_normal_2.png]",
+            "size": 397458,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "material0_occlusion.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_occlusion.png]",
+            "size": 121853,
+            "width": 719,
+            "height": 719,
+            "type": "png"
+          },
+          {
+            "path": "material0_occlusion_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_occlusion_1.png]",
+            "size": 160047,
+            "width": 844,
+            "height": 844,
+            "type": "png"
+          },
+          {
+            "path": "material0_occlusion_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.guc.usdz[material0_occlusion_2.png]",
+            "size": 195264,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 20
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "images": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 42837874,
+          "converted": 42837874,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 69,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 19,
+          "images": 19,
+          "cameras": 1,
+          "lights": 2,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 19,
+          "knownDimensions": 19,
+          "unknownDimensions": 0,
+          "totalPixels": 42837874,
+          "totalBytes": 12792354,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "Basecolor_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[Basecolor_0.jpg]",
+            "size": 200929,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[Image_0.png]",
+            "size": 642213,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[Image_1.png]",
+            "size": 1195751,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "Image_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[Image_2.png]",
+            "size": 648353,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "Image_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[Image_3.png]",
+            "size": 210599,
+            "width": 605,
+            "height": 605,
+            "type": "png"
+          },
+          {
+            "path": "Metalness_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[Metalness_0.jpg]",
+            "size": 53850,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "Normals_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[Normals_0.jpg]",
+            "size": 66000,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "material0_basecolor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_basecolor.png]",
+            "size": 2018755,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "material0_basecolor1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_basecolor1.png]",
+            "size": 1966328,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "material0_basecolor2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_basecolor2.png]",
+            "size": 35447,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "material0_metallic_roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_metallic_roughness.png]",
+            "size": 218010,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "material0_metallic_roughness1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_metallic_roughness1.png]",
+            "size": 63965,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "material0_metallic_roughness2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_metallic_roughness2.png]",
+            "size": 111338,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "material0_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_normal.png]",
+            "size": 2291980,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "material0_normal1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_normal1.png]",
+            "size": 2194214,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "material0_normal2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_normal2.png]",
+            "size": 397458,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "material0_occlusion.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_occlusion.png]",
+            "size": 121853,
+            "width": 719,
+            "height": 719,
+            "type": "png"
+          },
+          {
+            "path": "material0_occlusion1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_occlusion1.png]",
+            "size": 160047,
+            "width": 844,
+            "height": 844,
+            "type": "png"
+          },
+          {
+            "path": "material0_occlusion2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.openusd-adobe-gltf.usdz[material0_occlusion2.png]",
+            "size": 195264,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 20
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "images": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 42837874,
+          "converted": 42837874,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 110,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 19,
+          "images": 19,
+          "cameras": 1,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 19,
+          "knownDimensions": 19,
+          "unknownDimensions": 0,
+          "totalPixels": 42837874,
+          "totalBytes": 21635982,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_584_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_584_false.png]",
+            "size": 302190,
+            "width": 719,
+            "height": 719,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_585_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_585_false.png]",
+            "size": 406285,
+            "width": 844,
+            "height": 844,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_586_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_586_false.jpg]",
+            "size": 37624,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_587_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_587_false.png]",
+            "size": 446627,
+            "width": 605,
+            "height": 605,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_588_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_588_false.png]",
+            "size": 172861,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_589_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_589_false.png]",
+            "size": 1100745,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_590_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_590_false.png]",
+            "size": 221730,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_591_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_591_false.png]",
+            "size": 1060140,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_592_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_592_false.png]",
+            "size": 528626,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_593_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_593_false.png]",
+            "size": 555203,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_594_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_594_false.jpg]",
+            "size": 231724,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_595_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_595_false.jpg]",
+            "size": 54074,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_596_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_596_false.png]",
+            "size": 484172,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_597_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_597_false.png]",
+            "size": 2056431,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_598_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_598_false.png]",
+            "size": 2932689,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_599_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_599_false.png]",
+            "size": 928968,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_600_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_600_false.png]",
+            "size": 3298636,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_601_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_601_false.png]",
+            "size": 3236826,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_602_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.three-r185.usdz[textures/Texture_602_false.png]",
+            "size": 3580431,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 26
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "images": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 2,
+            "converted": 0,
+            "status": "missing"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 42837874,
+          "converted": 42837874,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 60,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 19,
+          "images": 19,
+          "cameras": 1,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 19,
+          "knownDimensions": 19,
+          "unknownDimensions": 0,
+          "totalPixels": 42837874,
+          "totalBytes": 20477836,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Basecolor_0_614.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/Basecolor_0_614.png]",
+            "size": 1640449,
+            "width": 1680,
+            "height": 1680,
+            "type": "png"
+          },
+          {
+            "path": "textures/Image_0_610.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/Image_0_610.png]",
+            "size": 922610,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "textures/Image_1_619.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/Image_1_619.png]",
+            "size": 1824534,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "textures/Image_2_605.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/Image_2_605.png]",
+            "size": 1041575,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "textures/Image_3_603.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/Image_3_603.png]",
+            "size": 414559,
+            "width": 605,
+            "height": 605,
+            "type": "png"
+          },
+          {
+            "path": "textures/Metalness_0_607.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/Metalness_0_607.png]",
+            "size": 146870,
+            "width": 1680,
+            "height": 1680,
+            "type": "png"
+          },
+          {
+            "path": "textures/Normals_0_608.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/Normals_0_608.png]",
+            "size": 510846,
+            "width": 1680,
+            "height": 1680,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_basecolor_611.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_basecolor_611.png]",
+            "size": 148792,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_basecolor_617.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_basecolor_617.png]",
+            "size": 2470185,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_basecolor_620.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_basecolor_620.png]",
+            "size": 2687280,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_metallic_roughness_609.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_metallic_roughness_609.png]",
+            "size": 196193,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_metallic_roughness_613.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_metallic_roughness_613.png]",
+            "size": 507931,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_metallic_roughness_615.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_metallic_roughness_615.png]",
+            "size": 463464,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_normal_616.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_normal_616.png]",
+            "size": 813416,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_normal_618.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_normal_618.png]",
+            "size": 2622328,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_normal_621.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_normal_621.png]",
+            "size": 2952786,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_occlusion_604.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_occlusion_604.png]",
+            "size": 280597,
+            "width": 719,
+            "height": 719,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_occlusion_606.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_occlusion_606.png]",
+            "size": 369853,
+            "width": 844,
+            "height": 844,
+            "type": "png"
+          },
+          {
+            "path": "textures/material0_occlusion_612.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.needle-engine.usdz[textures/material0_occlusion_612.png]",
+            "size": 463568,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 26
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "images": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 2,
+            "converted": 0,
+            "status": "missing"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 42837874,
+          "converted": 42837874,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 54,
+          "meshes": 6,
+          "primitives": 6,
+          "materials": 6,
+          "textures": 15,
+          "images": 15,
+          "cameras": 1,
+          "lights": 2,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 15,
+          "knownDimensions": 15,
+          "unknownDimensions": 0,
+          "totalPixels": 40193976,
+          "totalBytes": 12104591,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Basecolor_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/Basecolor_0.jpg]",
+            "size": 200929,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "size": 642213,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "size": 1195751,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "size": 648353,
+            "width": 1210,
+            "height": 1210,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Metalness_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/Metalness_0.jpg]",
+            "size": 53850,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Normals_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/Normals_0.jpg]",
+            "size": 66000,
+            "width": 1680,
+            "height": 1680,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/material0_basecolor.001.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_basecolor.001.png]",
+            "size": 1966328,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "./textures/material0_basecolor.002.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_basecolor.002.png]",
+            "size": 35447,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/material0_basecolor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_basecolor.png]",
+            "size": 2018755,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "./textures/material0_metallic_roughness.001.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_metallic_roughness.001.png]",
+            "size": 63965,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "./textures/material0_metallic_roughness.002.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_metallic_roughness.002.png]",
+            "size": 111338,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/material0_metallic_roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_metallic_roughness.png]",
+            "size": 218010,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          },
+          {
+            "path": "./textures/material0_normal.001.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_normal.001.png]",
+            "size": 2194214,
+            "width": 1688,
+            "height": 1688,
+            "type": "png"
+          },
+          {
+            "path": "./textures/material0_normal.002.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_normal.002.png]",
+            "size": 397458,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/material0_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PlaysetLightTest/glTF-Binary/PlaysetLightTest.glb.blender-5-1.usdz[textures/material0_normal.png]",
+            "size": 2291980,
+            "width": 1438,
+            "height": 1438,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 16
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 19,
+            "converted": 15,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 19,
+            "converted": 15,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 42837874,
+          "converted": 40193976,
+          "ratio": 0.9382812975265766,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_emissive_strength",
+            "compatibleFeatures": [
+              "KHR_materials_emissive_strength"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_emissive_strength"
+        ]
+      }
+    }
+  ]
+}

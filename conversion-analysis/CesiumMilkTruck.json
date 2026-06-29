@@ -1,0 +1,739 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb",
+  "slug": "CesiumMilkTruck",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 6,
+      "meshes": 2,
+      "primitives": 4,
+      "materials": 4,
+      "textures": 2,
+      "images": 1,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 1,
+      "animationChannels": 2,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "baseColorTexture"
+    ],
+    "extensionsUsed": [],
+    "textureImages": {
+      "count": 1,
+      "knownDimensions": 1,
+      "totalPixels": 4194304,
+      "totalBytes": 218979,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 32,
+          "meshes": 5,
+          "primitives": 5,
+          "materials": 4,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 218979,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "CesiumMilkTruck_jpg.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.guc.usdz[CesiumMilkTruck_jpg.jpg]",
+            "size": 218979,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 5,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 5,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 2,
+            "converted": 1,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "animationChannels": {
+            "source": 2,
+            "converted": 0,
+            "status": "missing"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 4194304,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 29,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 4,
+          "textures": 2,
+          "images": 2,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 2,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 2,
+          "knownDimensions": 2,
+          "unknownDimensions": 0,
+          "totalPixels": 8388608,
+          "totalBytes": 437958,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "CesiumMilkTruck.jpg.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.openusd-adobe-gltf.usdz[CesiumMilkTruck.jpg.jpg]",
+            "size": 218979,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "CesiumMilkTruck.jpg1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.openusd-adobe-gltf.usdz[CesiumMilkTruck.jpg1.jpg]",
+            "size": 218979,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 3
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 3,
+            "status": "reduced"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 2,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 8388608,
+          "ratio": 2.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 33,
+          "meshes": 5,
+          "primitives": 5,
+          "materials": 4,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 2,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 225559,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_266_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three-r185.usdz[textures/Texture_266_false.jpg]",
+            "size": 225559,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 6
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 5,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 5,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 2,
+            "converted": 1,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 4194304,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 31,
+          "meshes": 5,
+          "primitives": 5,
+          "materials": 4,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 2,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 882500,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/CesiumMilkTruckjpg_280.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.needle-engine.usdz[textures/CesiumMilkTruckjpg_280.png]",
+            "size": 882500,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 6
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 5,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 5,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 2,
+            "converted": 1,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 4194304,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 26,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 4,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 6,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 218979,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/CesiumMilkTruck.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender-5-1.usdz[textures/CesiumMilkTruck.jpg]",
+            "size": 218979,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 3,
+            "status": "reduced"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 2,
+            "converted": 1,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 2,
+            "converted": 6,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 4194304,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

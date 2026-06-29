@@ -1,0 +1,731 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb",
+  "slug": "TextureCoordinateTest",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 5,
+      "meshes": 5,
+      "primitives": 5,
+      "materials": 5,
+      "textures": 1,
+      "images": 1,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "baseColorTexture"
+    ],
+    "extensionsUsed": [],
+    "textureImages": {
+      "count": 1,
+      "knownDimensions": 1,
+      "totalPixels": 262144,
+      "totalBytes": 7284,
+      "maxWidth": 512,
+      "maxHeight": 512
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 39,
+          "meshes": 5,
+          "primitives": 5,
+          "materials": 5,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 262144,
+          "totalBytes": 7284,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.guc.usdz[img.png]",
+            "size": 7284,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 262144,
+          "converted": 262144,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 35,
+          "meshes": 5,
+          "primitives": 5,
+          "materials": 5,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 262144,
+          "totalBytes": 7284,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "BottomLeftMat_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.openusd-adobe-gltf.usdz[BottomLeftMat_diffuse.png]",
+            "size": 7284,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 262144,
+          "converted": 262144,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 37,
+          "meshes": 5,
+          "primitives": 5,
+          "materials": 5,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 262144,
+          "totalBytes": 15505,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_676_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.three-r185.usdz[textures/Texture_676_false.png]",
+            "size": 15505,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 262144,
+          "converted": 262144,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 33,
+          "meshes": 5,
+          "primitives": 5,
+          "materials": 5,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 262144,
+          "totalBytes": 15505,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "textures/__701.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.needle-engine.usdz[textures/__701.png]",
+            "size": 15505,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 262144,
+          "converted": 262144,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 30,
+          "meshes": 5,
+          "primitives": 5,
+          "materials": 5,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 262144,
+          "totalBytes": 7284,
+          "maxWidth": 512,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureCoordinateTest/glTF-Binary/TextureCoordinateTest.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "size": 7284,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 262144,
+          "converted": 262144,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

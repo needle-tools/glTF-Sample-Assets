@@ -1,0 +1,380 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb",
+  "slug": "LightVisibility",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 7,
+      "meshes": 1,
+      "primitives": 1,
+      "materials": 0,
+      "textures": 0,
+      "images": 0,
+      "cameras": 0,
+      "lights": 3,
+      "skins": 0,
+      "animations": 1,
+      "animationChannels": 1,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [],
+    "extensionsUsed": [
+      "KHR_animation_pointer",
+      "KHR_lights_punctual",
+      "KHR_node_visibility"
+    ],
+    "textureImages": {
+      "count": 0,
+      "knownDimensions": 0,
+      "totalPixels": 0,
+      "totalBytes": 0,
+      "maxWidth": 0,
+      "maxHeight": 0
+    }
+  },
+  "conversions": [
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 14,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 0,
+          "textures": 0,
+          "images": 0,
+          "cameras": 0,
+          "lights": 5,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 0,
+          "knownDimensions": 0,
+          "unknownDimensions": 0,
+          "totalPixels": 0,
+          "totalBytes": 0,
+          "maxWidth": 0,
+          "maxHeight": 0
+        },
+        "textureAssets": [],
+        "packageEntries": 1
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "textures": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "images": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 3,
+            "converted": 5,
+            "status": "present"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 0,
+          "converted": 0,
+          "ratio": null,
+          "status": "absent"
+        },
+        "materialFeatures": [],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 20,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 0,
+          "images": 0,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 0,
+          "knownDimensions": 0,
+          "unknownDimensions": 0,
+          "totalPixels": 0,
+          "totalBytes": 0,
+          "maxWidth": 0,
+          "maxHeight": 0
+        },
+        "textureAssets": [],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 0,
+            "converted": 1,
+            "status": "added"
+          },
+          "textures": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "images": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 3,
+            "converted": 0,
+            "status": "missing"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 0,
+          "converted": 0,
+          "ratio": null,
+          "status": "absent"
+        },
+        "materialFeatures": [],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 10,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 0,
+          "images": 0,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 0,
+          "knownDimensions": 0,
+          "unknownDimensions": 0,
+          "totalPixels": 0,
+          "totalBytes": 0,
+          "maxWidth": 0,
+          "maxHeight": 0
+        },
+        "textureAssets": [],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 0,
+            "converted": 1,
+            "status": "added"
+          },
+          "textures": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "images": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 3,
+            "converted": 0,
+            "status": "missing"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 0,
+          "converted": 0,
+          "ratio": null,
+          "status": "absent"
+        },
+        "materialFeatures": [],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

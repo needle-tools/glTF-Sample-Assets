@@ -1,0 +1,1236 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb",
+  "slug": "ClearCoatTest",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 33,
+      "meshes": 27,
+      "primitives": 27,
+      "materials": 19,
+      "textures": 6,
+      "images": 6,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_clearcoat",
+      "alphaBlend",
+      "baseColorTexture",
+      "emissiveTexture",
+      "metallicRoughnessTexture",
+      "normalTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_clearcoat"
+    ],
+    "textureImages": {
+      "count": 6,
+      "knownDimensions": 6,
+      "totalPixels": 1769472,
+      "totalBytes": 171260,
+      "maxWidth": 1024,
+      "maxHeight": 1024
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 157,
+          "meshes": 27,
+          "primitives": 27,
+          "materials": 19,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 1769472,
+          "totalBytes": 171260,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "ClearCoatLabels.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.guc.usdz[ClearCoatLabels.png]",
+            "size": 10270,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "PartialCoating.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.guc.usdz[PartialCoating.png]",
+            "size": 5077,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "PartialCoating_Alpha.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.guc.usdz[PartialCoating_Alpha.png]",
+            "size": 5065,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "PlasticWrap_normals.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.guc.usdz[PlasticWrap_normals.jpg]",
+            "size": 144210,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "RibsNormal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.guc.usdz[RibsNormal.png]",
+            "size": 1605,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "RoughnessStripes.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.guc.usdz[RoughnessStripes.png]",
+            "size": 5033,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "materials": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1769472,
+          "converted": 1769472,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 142,
+          "meshes": 27,
+          "primitives": 27,
+          "materials": 19,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 1769472,
+          "totalBytes": 171260,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "ClearCoatLabels.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.openusd-adobe-gltf.usdz[ClearCoatLabels.png]",
+            "size": 10270,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "PartialCoating.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.openusd-adobe-gltf.usdz[PartialCoating.png]",
+            "size": 5077,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "PartialCoating_Alpha.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.openusd-adobe-gltf.usdz[PartialCoating_Alpha.png]",
+            "size": 5065,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "PlasticWrap_normals.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.openusd-adobe-gltf.usdz[PlasticWrap_normals.jpg]",
+            "size": 144210,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "RibsNormal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.openusd-adobe-gltf.usdz[RibsNormal.png]",
+            "size": 1605,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "RoughnessStripes.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.openusd-adobe-gltf.usdz[RoughnessStripes.png]",
+            "size": 5033,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "materials": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1769472,
+          "converted": 1769472,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 139,
+          "meshes": 27,
+          "primitives": 27,
+          "materials": 19,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 1769472,
+          "totalBytes": 201363,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_308_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.three-r185.usdz[textures/Texture_308_false.png]",
+            "size": 20936,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_309_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.three-r185.usdz[textures/Texture_309_false.png]",
+            "size": 16062,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_310_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.three-r185.usdz[textures/Texture_310_false.png]",
+            "size": 24544,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_311_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.three-r185.usdz[textures/Texture_311_false.png]",
+            "size": 7324,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_312_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.three-r185.usdz[textures/Texture_312_false.png]",
+            "size": 7314,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_313_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.three-r185.usdz[textures/Texture_313_false.jpg]",
+            "size": 125183,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 17
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "materials": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1769472,
+          "converted": 1769472,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 121,
+          "meshes": 27,
+          "primitives": 27,
+          "materials": 19,
+          "textures": 5,
+          "images": 5,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 5,
+          "knownDimensions": 5,
+          "unknownDimensions": 0,
+          "totalPixels": 1703936,
+          "totalBytes": 767212,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/ClearCoatLabels_325.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.needle-engine.usdz[textures/ClearCoatLabels_325.png]",
+            "size": 15182,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/PartialCoating_Alpha_323.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.needle-engine.usdz[textures/PartialCoating_Alpha_323.png]",
+            "size": 20936,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/PlasticWrap_normals_327.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.needle-engine.usdz[textures/PlasticWrap_normals_327.png]",
+            "size": 718954,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/RibsNormal_326.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.needle-engine.usdz[textures/RibsNormal_326.png]",
+            "size": 6043,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/RoughnessStripes_324.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.needle-engine.usdz[textures/RoughnessStripes_324.png]",
+            "size": 6097,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 16
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "materials": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 5,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 6,
+            "converted": 5,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1769472,
+          "converted": 1703936,
+          "ratio": 0.9629629629629629,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 122,
+          "meshes": 27,
+          "primitives": 27,
+          "materials": 19,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 1769472,
+          "totalBytes": 171260,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/ClearCoatLabels.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.blender-5-1.usdz[textures/ClearCoatLabels.png]",
+            "size": 10270,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/PartialCoating.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.blender-5-1.usdz[textures/PartialCoating.png]",
+            "size": 5077,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/PartialCoating_Alpha.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.blender-5-1.usdz[textures/PartialCoating_Alpha.png]",
+            "size": 5065,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/PlasticWrap_normals.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.blender-5-1.usdz[textures/PlasticWrap_normals.jpg]",
+            "size": 144210,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/RibsNormal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.blender-5-1.usdz[textures/RibsNormal.png]",
+            "size": 1605,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/RoughnessStripes.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatTest/glTF-Binary/ClearCoatTest.glb.blender-5-1.usdz[textures/RoughnessStripes.png]",
+            "size": 5033,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 27,
+            "converted": 27,
+            "status": "present"
+          },
+          "materials": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1769472,
+          "converted": 1769472,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

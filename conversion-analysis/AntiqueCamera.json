@@ -1,0 +1,1067 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+  "slug": "AntiqueCamera",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 2,
+      "meshes": 2,
+      "primitives": 2,
+      "materials": 2,
+      "textures": 6,
+      "images": 6,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "baseColorTexture",
+      "metallicRoughnessTexture",
+      "normalTexture"
+    ],
+    "extensionsUsed": [],
+    "textureImages": {
+      "count": 6,
+      "knownDimensions": 6,
+      "totalPixels": 25165824,
+      "totalBytes": 16738577,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 32,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 25165824,
+          "totalBytes": 16738577,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "camera_camera_BaseColor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.guc.usdz[camera_camera_BaseColor.png]",
+            "size": 1551223,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_camera_Normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.guc.usdz[camera_camera_Normal.png]",
+            "size": 4826705,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_camera_Roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.guc.usdz[camera_camera_Roughness.png]",
+            "size": 1949894,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_tripod_BaseColor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.guc.usdz[camera_tripod_BaseColor.png]",
+            "size": 4427688,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_tripod_Normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.guc.usdz[camera_tripod_Normal.png]",
+            "size": 2578920,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_tripod_Roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.guc.usdz[camera_tripod_Roughness.png]",
+            "size": 1404147,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 25165824,
+          "converted": 25165824,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 22,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 25165824,
+          "totalBytes": 16738577,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "camera_camera_BaseColor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.openusd-adobe-gltf.usdz[camera_camera_BaseColor.png]",
+            "size": 1551223,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_camera_Normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.openusd-adobe-gltf.usdz[camera_camera_Normal.png]",
+            "size": 4826705,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_camera_Roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.openusd-adobe-gltf.usdz[camera_camera_Roughness.png]",
+            "size": 1949894,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_tripod_BaseColor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.openusd-adobe-gltf.usdz[camera_tripod_BaseColor.png]",
+            "size": 4427688,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_tripod_Normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.openusd-adobe-gltf.usdz[camera_tripod_Normal.png]",
+            "size": 2578920,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "camera_tripod_Roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.openusd-adobe-gltf.usdz[camera_tripod_Roughness.png]",
+            "size": 1404147,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 25165824,
+          "converted": 25165824,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 37,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 25165824,
+          "totalBytes": 27151027,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_200_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.three-r185.usdz[textures/Texture_200_false.png]",
+            "size": 2665521,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_201_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.three-r185.usdz[textures/Texture_201_false.png]",
+            "size": 3771654,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_202_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.three-r185.usdz[textures/Texture_202_false.png]",
+            "size": 3290520,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_203_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.three-r185.usdz[textures/Texture_203_false.png]",
+            "size": 6584390,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_204_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.three-r185.usdz[textures/Texture_204_false.png]",
+            "size": 4527581,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_205_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.three-r185.usdz[textures/Texture_205_false.png]",
+            "size": 6311361,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 25165824,
+          "converted": 25165824,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 23,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 25165824,
+          "totalBytes": 23670925,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/camera_camera_BaseColor_212.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.needle-engine.usdz[textures/camera_camera_BaseColor_212.png]",
+            "size": 2288186,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/camera_camera_Normal_215.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.needle-engine.usdz[textures/camera_camera_Normal_215.png]",
+            "size": 5494736,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/camera_camera_Roughness_214.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.needle-engine.usdz[textures/camera_camera_Roughness_214.png]",
+            "size": 3527386,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/camera_tripod_BaseColor_217.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.needle-engine.usdz[textures/camera_tripod_BaseColor_217.png]",
+            "size": 5254824,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/camera_tripod_Normal_216.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.needle-engine.usdz[textures/camera_tripod_Normal_216.png]",
+            "size": 3979432,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/camera_tripod_Roughness_213.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.needle-engine.usdz[textures/camera_tripod_Roughness_213.png]",
+            "size": 3126361,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 25165824,
+          "converted": 25165824,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 18,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 25165824,
+          "totalBytes": 16738577,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/camera_camera_BaseColor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.blender-5-1.usdz[textures/camera_camera_BaseColor.png]",
+            "size": 1551223,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/camera_camera_Normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.blender-5-1.usdz[textures/camera_camera_Normal.png]",
+            "size": 4826705,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/camera_camera_Roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.blender-5-1.usdz[textures/camera_camera_Roughness.png]",
+            "size": 1949894,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/camera_tripod_BaseColor.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.blender-5-1.usdz[textures/camera_tripod_BaseColor.png]",
+            "size": 4427688,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/camera_tripod_Normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.blender-5-1.usdz[textures/camera_tripod_Normal.png]",
+            "size": 2578920,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/camera_tripod_Roughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb.blender-5-1.usdz[textures/camera_tripod_Roughness.png]",
+            "size": 1404147,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 25165824,
+          "converted": 25165824,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

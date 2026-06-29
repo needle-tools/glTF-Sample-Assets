@@ -1,0 +1,1185 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb",
+  "slug": "DiffuseTransmissionTeacup",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 2,
+      "meshes": 2,
+      "primitives": 2,
+      "materials": 2,
+      "textures": 6,
+      "images": 6,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_diffuse_transmission",
+      "baseColorTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_diffuse_transmission"
+    ],
+    "textureImages": {
+      "count": 6,
+      "knownDimensions": 6,
+      "totalPixels": 9437184,
+      "totalBytes": 1746893,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 36,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 9437184,
+          "totalBytes": 1746893,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "img.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.guc.usdz[img.jpg]",
+            "size": 128411,
+            "width": 2048,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.guc.usdz[img.png]",
+            "size": 138857,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.guc.usdz[img_1.jpg]",
+            "size": 189957,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.guc.usdz[img_1.png]",
+            "size": 407064,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.guc.usdz[img_2.png]",
+            "size": 238666,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.guc.usdz[img_3.png]",
+            "size": 643938,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 9437184,
+          "converted": 9437184,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 26,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 9437184,
+          "totalBytes": 1746893,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "tea_cup_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.openusd-adobe-gltf.usdz[tea_cup_diffuse.jpg]",
+            "size": 189957,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "tea_cup_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.openusd-adobe-gltf.usdz[tea_cup_metallicRoughness.png]",
+            "size": 643938,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "tea_cup_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.openusd-adobe-gltf.usdz[tea_cup_normal.png]",
+            "size": 238666,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "tea_saucer_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.openusd-adobe-gltf.usdz[tea_saucer_diffuse.jpg]",
+            "size": 128411,
+            "width": 2048,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "tea_saucer_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.openusd-adobe-gltf.usdz[tea_saucer_metallicRoughness.png]",
+            "size": 407064,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "tea_saucer_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.openusd-adobe-gltf.usdz[tea_saucer_normal.png]",
+            "size": 138857,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 9437184,
+          "converted": 9437184,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 43,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 9437184,
+          "totalBytes": 2889475,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_393_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_393_false.png]",
+            "size": 274693,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_394_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_394_false.png]",
+            "size": 678804,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_395_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_395_false.png]",
+            "size": 521373,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_396_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_396_false.png]",
+            "size": 1017449,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_397_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_397_false.jpg]",
+            "size": 237576,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_398_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_398_false.jpg]",
+            "size": 159580,
+            "width": 2048,
+            "height": 1024,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 9437184,
+          "converted": 9437184,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 25,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 9437184,
+          "totalBytes": 5970056,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/__407.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.needle-engine.usdz[textures/__407.png]",
+            "size": 242958,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/__408.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.needle-engine.usdz[textures/__408.png]",
+            "size": 693832,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/__409.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.needle-engine.usdz[textures/__409.png]",
+            "size": 470906,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/__410.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.needle-engine.usdz[textures/__410.png]",
+            "size": 1948946,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__411.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.needle-engine.usdz[textures/__411.png]",
+            "size": 1259374,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/__412.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.needle-engine.usdz[textures/__412.png]",
+            "size": 1354040,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 9437184,
+          "converted": 9437184,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 18,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 9437184,
+          "totalBytes": 1746893,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "size": 128411,
+            "width": 2048,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "size": 138857,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "size": 407064,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_3.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "size": 189957,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_4.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "size": 238666,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_5.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "size": 643938,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 7
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "images": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 9437184,
+          "converted": 9437184,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission"
+        ]
+      }
+    }
+  ]
+}

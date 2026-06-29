@@ -1,0 +1,732 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb",
+  "slug": "ComplexTopologyLODs",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 31,
+      "meshes": 30,
+      "primitives": 30,
+      "materials": 1,
+      "textures": 1,
+      "images": 1,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "baseColorTexture"
+    ],
+    "extensionsUsed": [
+      "MSFT_lod"
+    ],
+    "textureImages": {
+      "count": 1,
+      "knownDimensions": 1,
+      "totalPixels": 16777216,
+      "totalBytes": 737160,
+      "maxWidth": 4096,
+      "maxHeight": 4096
+    }
+  },
+  "conversions": [
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 71,
+          "meshes": 30,
+          "primitives": 30,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16777216,
+          "totalBytes": 810028,
+          "maxWidth": 4096,
+          "maxHeight": 4096
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_5_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three-r185.usdz[textures/Texture_5_false.png]",
+            "size": 810028,
+            "width": 4096,
+            "height": 4096,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 32
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16777216,
+          "converted": 16777216,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 70,
+          "meshes": 30,
+          "primitives": 30,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 333378,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/CustomUVChecker_byValle_4K_14.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.needle-engine.usdz[textures/CustomUVChecker_byValle_4K_14.png]",
+            "size": 333378,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 32
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16777216,
+          "converted": 4194304,
+          "ratio": 0.25,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 67,
+          "meshes": 30,
+          "primitives": 30,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16777216,
+          "totalBytes": 737160,
+          "maxWidth": 4096,
+          "maxHeight": 4096
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/CustomUVChecker_byValle_4K.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender-5-1.usdz[textures/CustomUVChecker_byValle_4K.png]",
+            "size": 737160,
+            "width": 4096,
+            "height": 4096,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16777216,
+          "converted": 16777216,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 68,
+          "meshes": 30,
+          "primitives": 30,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16777216,
+          "totalBytes": 737160,
+          "maxWidth": 4096,
+          "maxHeight": 4096
+        },
+        "textureAssets": [
+          {
+            "path": "CustomUVChecker_byValle_4K.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.openusd-adobe-gltf.usdz[CustomUVChecker_byValle_4K.png]",
+            "size": 737160,
+            "width": 4096,
+            "height": 4096,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16777216,
+          "converted": 16777216,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 101,
+          "meshes": 30,
+          "primitives": 30,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 16777216,
+          "totalBytes": 737160,
+          "maxWidth": 4096,
+          "maxHeight": 4096
+        },
+        "textureAssets": [
+          {
+            "path": "CustomUVChecker_byValle_4K.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.guc.usdz[CustomUVChecker_byValle_4K.png]",
+            "size": 737160,
+            "width": 4096,
+            "height": 4096,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 30,
+            "converted": 30,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 16777216,
+          "converted": 16777216,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

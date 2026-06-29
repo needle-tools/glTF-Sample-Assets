@@ -1,0 +1,1319 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb",
+  "slug": "PotOfCoals",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 2,
+      "meshes": 2,
+      "primitives": 2,
+      "materials": 2,
+      "textures": 8,
+      "images": 8,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_clearcoat",
+      "baseColorTexture",
+      "emissiveTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_clearcoat"
+    ],
+    "textureImages": {
+      "count": 8,
+      "knownDimensions": 8,
+      "totalPixels": 23330816,
+      "totalBytes": 2723755,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 36,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 8,
+          "images": 8,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 23330816,
+          "totalBytes": 2723755,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "img.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz[img.jpg]",
+            "size": 266023,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz[img.png]",
+            "size": 486703,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "img_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz[img_1.jpg]",
+            "size": 1279882,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz[img_2.jpg]",
+            "size": 49538,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_3.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz[img_3.jpg]",
+            "size": 16660,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_4.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz[img_4.jpg]",
+            "size": 303513,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_5.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz[img_5.jpg]",
+            "size": 286676,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_6.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.guc.usdz[img_6.jpg]",
+            "size": 34760,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "images": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 23330816,
+          "converted": 23330816,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 24,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 8,
+          "images": 8,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 23330816,
+          "totalBytes": 2723755,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "CopperPot_clearcoat.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz[CopperPot_clearcoat.jpg]",
+            "size": 34760,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "CopperPot_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz[CopperPot_diffuse.jpg]",
+            "size": 303513,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "CopperPot_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz[CopperPot_metallicRoughness.jpg]",
+            "size": 286676,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "CopperPot_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz[CopperPot_normal.png]",
+            "size": 486703,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "HotCoals_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz[HotCoals_diffuse.jpg]",
+            "size": 266023,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "HotCoals_emissive.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz[HotCoals_emissive.jpg]",
+            "size": 49538,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "HotCoals_normal.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz[HotCoals_normal.jpg]",
+            "size": 1279882,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "HotCoals_occlusion.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.openusd-adobe-gltf.usdz[HotCoals_occlusion.jpg]",
+            "size": 16660,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "images": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 23330816,
+          "converted": 23330816,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 43,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 8,
+          "images": 8,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 23330816,
+          "totalBytes": 3476096,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_604_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_604_false.jpg]",
+            "size": 20464,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_605_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_605_false.jpg]",
+            "size": 48337,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_606_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_606_false.jpg]",
+            "size": 48684,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_607_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_607_false.jpg]",
+            "size": 388873,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_608_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_608_false.jpg]",
+            "size": 347387,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_609_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_609_false.png]",
+            "size": 1006629,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_610_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_610_false.jpg]",
+            "size": 390939,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_611_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_611_false.jpg]",
+            "size": 1224783,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 11
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "images": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 23330816,
+          "converted": 23330816,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 24,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 7,
+          "images": 7,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 7,
+          "knownDimensions": 7,
+          "unknownDimensions": 0,
+          "totalPixels": 22282240,
+          "totalBytes": 18102263,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/__623.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz[textures/__623.png]",
+            "size": 119893,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/__625.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz[textures/__625.png]",
+            "size": 483258,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/__626.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz[textures/__626.png]",
+            "size": 4130022,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__627.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz[textures/__627.png]",
+            "size": 900251,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__628.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz[textures/__628.png]",
+            "size": 2230336,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__629.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz[textures/__629.png]",
+            "size": 2887771,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__630.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.needle-engine.usdz[textures/__630.png]",
+            "size": 7350732,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 10
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 7,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 8,
+            "converted": 7,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 23330816,
+          "converted": 22282240,
+          "ratio": 0.9550561797752809,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 19,
+          "meshes": 2,
+          "primitives": 2,
+          "materials": 2,
+          "textures": 7,
+          "images": 7,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 7,
+          "knownDimensions": 7,
+          "unknownDimensions": 0,
+          "totalPixels": 23068672,
+          "totalBytes": 2707095,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "size": 266023,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "size": 1279882,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "size": 49538,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_4.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "size": 303513,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_5.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "size": 486703,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_6.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_6.jpg]",
+            "size": 286676,
+            "width": 2048,
+            "height": 2048,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_7.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_7.jpg]",
+            "size": 34760,
+            "width": 1024,
+            "height": 1024,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 8
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "materials": {
+            "source": 2,
+            "converted": 2,
+            "status": "present"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 7,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 8,
+            "converted": 7,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 23330816,
+          "converted": 23068672,
+          "ratio": 0.9887640449438202,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_clearcoat",
+            "compatibleFeatures": [
+              "clearcoat"
+            ],
+            "matched": [
+              "clearcoat"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "emissiveTexture",
+            "compatibleFeatures": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "matched": [
+              "emissiveColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": []
+      }
+    }
+  ]
+}

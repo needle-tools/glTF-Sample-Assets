@@ -1,0 +1,976 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb",
+  "slug": "ScatteringSkull",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "primitives": 1,
+      "materials": 1,
+      "textures": 1,
+      "images": 1,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_diffuse_transmission",
+      "KHR_materials_dispersion",
+      "KHR_materials_ior",
+      "KHR_materials_volume",
+      "KHR_materials_volume_scatter",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_diffuse_transmission",
+      "KHR_materials_dispersion",
+      "KHR_materials_ior",
+      "KHR_materials_volume",
+      "KHR_materials_volume_scatter",
+      "KHR_xmp_json_ld"
+    ],
+    "textureImages": {
+      "count": 1,
+      "knownDimensions": 1,
+      "totalPixels": 4194304,
+      "totalBytes": 1991579,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 13,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 1991579,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "AO_thickness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.guc.usdz[AO_thickness.png]",
+            "size": 1991579,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 4194304,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_dispersion",
+            "compatibleFeatures": [
+              "KHR_materials_dispersion"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume_scatter",
+            "compatibleFeatures": [
+              "KHR_materials_volume_scatter"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission",
+          "KHR_materials_dispersion",
+          "KHR_materials_volume",
+          "KHR_materials_volume_scatter"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 9,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 1991579,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "AO-thickness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.openusd-adobe-gltf.usdz[AO-thickness.png]",
+            "size": 1991579,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 4194304,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_dispersion",
+            "compatibleFeatures": [
+              "KHR_materials_dispersion"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume_scatter",
+            "compatibleFeatures": [
+              "KHR_materials_volume_scatter"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission",
+          "KHR_materials_dispersion",
+          "KHR_materials_volume",
+          "KHR_materials_volume_scatter"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 12,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 3401478,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_624_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.three-r185.usdz[textures/Texture_624_false.png]",
+            "size": 3401478,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 3
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 4194304,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_dispersion",
+            "compatibleFeatures": [
+              "KHR_materials_dispersion"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume_scatter",
+            "compatibleFeatures": [
+              "KHR_materials_volume_scatter"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission",
+          "KHR_materials_dispersion",
+          "KHR_materials_volume",
+          "KHR_materials_volume_scatter"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 11,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 1,
+          "images": 1,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 1,
+          "knownDimensions": 1,
+          "unknownDimensions": 0,
+          "totalPixels": 4194304,
+          "totalBytes": 3121162,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/aoThicknessTexture_649.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.needle-engine.usdz[textures/aoThicknessTexture_649.png]",
+            "size": 3121162,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 3
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "images": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 4194304,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_dispersion",
+            "compatibleFeatures": [
+              "KHR_materials_dispersion"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume_scatter",
+            "compatibleFeatures": [
+              "KHR_materials_volume_scatter"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission",
+          "KHR_materials_dispersion",
+          "KHR_materials_volume",
+          "KHR_materials_volume_scatter"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ScatteringSkull/glTF-Binary/ScatteringSkull.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 6,
+          "meshes": 1,
+          "primitives": 1,
+          "materials": 1,
+          "textures": 0,
+          "images": 0,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 0,
+          "knownDimensions": 0,
+          "unknownDimensions": 0,
+          "totalPixels": 0,
+          "totalBytes": 0,
+          "maxWidth": 0,
+          "maxHeight": 0
+        },
+        "textureAssets": [],
+        "packageEntries": 1
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "materials": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "images": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4194304,
+          "converted": 0,
+          "ratio": 0.0,
+          "status": "missing"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_diffuse_transmission",
+            "compatibleFeatures": [
+              "KHR_materials_diffuse_transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_dispersion",
+            "compatibleFeatures": [
+              "KHR_materials_dispersion"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume_scatter",
+            "compatibleFeatures": [
+              "KHR_materials_volume_scatter"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [],
+            "status": "missing"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_diffuse_transmission",
+          "KHR_materials_dispersion",
+          "KHR_materials_volume",
+          "KHR_materials_volume_scatter",
+          "occlusionTexture"
+        ]
+      }
+    }
+  ]
+}

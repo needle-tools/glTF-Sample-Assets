@@ -1,0 +1,671 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb",
+  "slug": "IridescenceSuzanne",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 4,
+      "meshes": 3,
+      "primitives": 3,
+      "materials": 3,
+      "textures": 1,
+      "images": 1,
+      "cameras": 0,
+      "lights": 1,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_ior",
+      "KHR_materials_iridescence",
+      "KHR_materials_transmission",
+      "KHR_materials_volume"
+    ],
+    "extensionsUsed": [
+      "KHR_lights_punctual",
+      "KHR_materials_ior",
+      "KHR_materials_iridescence",
+      "KHR_materials_transmission",
+      "KHR_materials_volume"
+    ],
+    "textureImages": {
+      "count": 1,
+      "knownDimensions": 1,
+      "totalPixels": 1048576,
+      "totalBytes": 374268,
+      "maxWidth": 1024,
+      "maxHeight": 1024
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 23,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 0,
+          "images": 0,
+          "cameras": 0,
+          "lights": 1,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 0,
+          "knownDimensions": 0,
+          "unknownDimensions": 0,
+          "totalPixels": 0,
+          "totalBytes": 0,
+          "maxWidth": 0,
+          "maxHeight": 0
+        },
+        "textureAssets": [],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "images": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1048576,
+          "converted": 0,
+          "ratio": 0.0,
+          "status": "missing"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 19,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 0,
+          "images": 0,
+          "cameras": 0,
+          "lights": 1,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 0,
+          "knownDimensions": 0,
+          "unknownDimensions": 0,
+          "totalPixels": 0,
+          "totalBytes": 0,
+          "maxWidth": 0,
+          "maxHeight": 0
+        },
+        "textureAssets": [],
+        "packageEntries": 1
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "images": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1048576,
+          "converted": 0,
+          "ratio": 0.0,
+          "status": "missing"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 19,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 0,
+          "images": 0,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 0,
+          "knownDimensions": 0,
+          "unknownDimensions": 0,
+          "totalPixels": 0,
+          "totalBytes": 0,
+          "maxWidth": 0,
+          "maxHeight": 0
+        },
+        "textureAssets": [],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "images": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1048576,
+          "converted": 0,
+          "ratio": 0.0,
+          "status": "missing"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescenceSuzanne/glTF-Binary/IridescenceSuzanne.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 17,
+          "meshes": 3,
+          "primitives": 3,
+          "materials": 3,
+          "textures": 0,
+          "images": 0,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 0,
+          "knownDimensions": 0,
+          "unknownDimensions": 0,
+          "totalPixels": 0,
+          "totalBytes": 0,
+          "maxWidth": 0,
+          "maxHeight": 0
+        },
+        "textureAssets": [],
+        "packageEntries": 2
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "materials": {
+            "source": 3,
+            "converted": 3,
+            "status": "present"
+          },
+          "textures": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "images": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 1048576,
+          "converted": 0,
+          "ratio": 0.0,
+          "status": "missing"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    }
+  ]
+}

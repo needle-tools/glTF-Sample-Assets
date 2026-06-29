@@ -1,0 +1,949 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb",
+  "slug": "TransparentGradients",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 21,
+      "meshes": 8,
+      "primitives": 8,
+      "materials": 5,
+      "textures": 4,
+      "images": 4,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_unlit",
+      "alphaBlend",
+      "baseColorTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_unlit"
+    ],
+    "textureImages": {
+      "count": 4,
+      "knownDimensions": 4,
+      "totalPixels": 4329472,
+      "totalBytes": 297416,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 67,
+          "meshes": 16,
+          "primitives": 16,
+          "materials": 5,
+          "textures": 4,
+          "images": 4,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 4,
+          "knownDimensions": 4,
+          "unknownDimensions": 0,
+          "totalPixels": 4329472,
+          "totalBytes": 282934,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_5_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz[textures/Texture_5_false.png]",
+            "size": 5208,
+            "width": 64,
+            "height": 64,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_6_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz[textures/Texture_6_false.png]",
+            "size": 27057,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_7_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz[textures/Texture_7_false.png]",
+            "size": 26234,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_8_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz[textures/Texture_8_false.png]",
+            "size": 224435,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 10
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 8,
+            "converted": 16,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 16,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "images": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4329472,
+          "converted": 4329472,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 62,
+          "meshes": 16,
+          "primitives": 16,
+          "materials": 5,
+          "textures": 4,
+          "images": 4,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 4,
+          "knownDimensions": 4,
+          "unknownDimensions": 0,
+          "totalPixels": 4329472,
+          "totalBytes": 283220,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/BlackGradient_15.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.needle-engine.usdz[textures/BlackGradient_15.png]",
+            "size": 26234,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/DefaultParticle_14.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.needle-engine.usdz[textures/DefaultParticle_14.png]",
+            "size": 5204,
+            "width": 64,
+            "height": 64,
+            "type": "png"
+          },
+          {
+            "path": "textures/WhiteGradient_16.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.needle-engine.usdz[textures/WhiteGradient_16.png]",
+            "size": 27347,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/_2_17.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.needle-engine.usdz[textures/_2_17.png]",
+            "size": 224435,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 10
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 8,
+            "converted": 16,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 16,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "images": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4329472,
+          "converted": 4329472,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 69,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 5,
+          "textures": 4,
+          "images": 4,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 4,
+          "knownDimensions": 4,
+          "unknownDimensions": 0,
+          "totalPixels": 4329472,
+          "totalBytes": 297416,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.openusd-adobe-gltf.usdz[2.png]",
+            "size": 236840,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "BlackGradient.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.openusd-adobe-gltf.usdz[BlackGradient.png]",
+            "size": 27244,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "Default-Particle.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.openusd-adobe-gltf.usdz[Default-Particle.png]",
+            "size": 4724,
+            "width": 64,
+            "height": 64,
+            "type": "png"
+          },
+          {
+            "path": "WhiteGradient.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.openusd-adobe-gltf.usdz[WhiteGradient.png]",
+            "size": 28608,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 5
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 8,
+            "converted": 4,
+            "status": "reduced"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 4,
+            "status": "reduced"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "images": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4329472,
+          "converted": 4329472,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    },
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 89,
+          "meshes": 16,
+          "primitives": 16,
+          "materials": 5,
+          "textures": 4,
+          "images": 4,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 4,
+          "knownDimensions": 4,
+          "unknownDimensions": 0,
+          "totalPixels": 4329472,
+          "totalBytes": 297416,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "BlackGradient.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.guc.usdz[BlackGradient.png]",
+            "size": 27244,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "Default_Particle.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.guc.usdz[Default_Particle.png]",
+            "size": 4724,
+            "width": 64,
+            "height": 64,
+            "type": "png"
+          },
+          {
+            "path": "WhiteGradient.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.guc.usdz[WhiteGradient.png]",
+            "size": 28608,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "_.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.guc.usdz[_.png]",
+            "size": 236840,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 5
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 8,
+            "converted": 16,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 16,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "images": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4329472,
+          "converted": 4329472,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 56,
+          "meshes": 16,
+          "primitives": 16,
+          "materials": 5,
+          "textures": 3,
+          "images": 3,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 3,
+          "knownDimensions": 3,
+          "unknownDimensions": 0,
+          "totalPixels": 135168,
+          "totalBytes": 60576,
+          "maxWidth": 256,
+          "maxHeight": 256
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/BlackGradient.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz[textures/BlackGradient.png]",
+            "size": 27244,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Default-Particle.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz[textures/Default-Particle.png]",
+            "size": 4724,
+            "width": 64,
+            "height": 64,
+            "type": "png"
+          },
+          {
+            "path": "./textures/WhiteGradient.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz[textures/WhiteGradient.png]",
+            "size": 28608,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 4
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 8,
+            "converted": 16,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 8,
+            "converted": 16,
+            "status": "present"
+          },
+          "materials": {
+            "source": 5,
+            "converted": 5,
+            "status": "present"
+          },
+          "textures": {
+            "source": 4,
+            "converted": 3,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 4,
+            "converted": 3,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 4329472,
+          "converted": 135168,
+          "ratio": 0.03122043519394513,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_unlit",
+            "compatibleFeatures": [
+              "KHR_materials_unlit"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaBlend",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_unlit"
+        ]
+      }
+    }
+  ]
+}

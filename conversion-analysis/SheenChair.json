@@ -1,0 +1,1199 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb",
+  "slug": "SheenChair",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 4,
+      "meshes": 4,
+      "primitives": 4,
+      "materials": 6,
+      "textures": 7,
+      "images": 7,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 2
+    },
+    "materialFeatures": [
+      "KHR_materials_sheen",
+      "baseColorTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_sheen",
+      "KHR_materials_variants",
+      "KHR_texture_transform"
+    ],
+    "textureImages": {
+      "count": 7,
+      "knownDimensions": 7,
+      "totalPixels": 2883584,
+      "totalBytes": 2979512,
+      "maxWidth": 1024,
+      "maxHeight": 1024
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 74,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 6,
+          "textures": 7,
+          "images": 7,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 1
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 7,
+          "knownDimensions": 7,
+          "unknownDimensions": 0,
+          "totalPixels": 2883584,
+          "totalBytes": 2979512,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz[img.png]",
+            "size": 1744462,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz[img_1.png]",
+            "size": 109972,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz[img_2.png]",
+            "size": 133702,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz[img_3.png]",
+            "size": 181170,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_4.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz[img_4.png]",
+            "size": 146100,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_5.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz[img_5.png]",
+            "size": 567793,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_6.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.guc.usdz[img_6.png]",
+            "size": 96313,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 8
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 7,
+            "converted": 7,
+            "status": "present"
+          },
+          "images": {
+            "source": 7,
+            "converted": 7,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 2,
+            "converted": 1,
+            "status": "reduced"
+          }
+        },
+        "texturePixels": {
+          "source": 2883584,
+          "converted": 2883584,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 66,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 6,
+          "textures": 7,
+          "images": 7,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 7,
+          "knownDimensions": 7,
+          "unknownDimensions": 0,
+          "totalPixels": 2883584,
+          "totalBytes": 2979512,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "fabric Mystere Mango Velvet_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz[fabric Mystere Mango Velvet_diffuse.png]",
+            "size": 133702,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "fabric Mystere Mango Velvet_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz[fabric Mystere Mango Velvet_normal.png]",
+            "size": 1744462,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "fabric Mystere Mango Velvet_occlusion.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz[fabric Mystere Mango Velvet_occlusion.png]",
+            "size": 109972,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "label_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz[label_diffuse.png]",
+            "size": 567793,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "wood Black_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz[wood Black_metallicRoughness.png]",
+            "size": 96313,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "wood Brown_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz[wood Brown_diffuse.png]",
+            "size": 181170,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "wood Brown_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.openusd-adobe-gltf.usdz[wood Brown_metallicRoughness.png]",
+            "size": 146100,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 8
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 6,
+            "status": "present"
+          },
+          "textures": {
+            "source": 7,
+            "converted": 7,
+            "status": "present"
+          },
+          "images": {
+            "source": 7,
+            "converted": 7,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 2,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 2883584,
+          "converted": 2883584,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 51,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 4,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 2621440,
+          "totalBytes": 4477720,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_625_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_625_false.png]",
+            "size": 331549,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_627_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_627_false.png]",
+            "size": 280603,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_629_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_629_false.png]",
+            "size": 291193,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_632_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_632_false.png]",
+            "size": 235966,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_637_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_637_false.png]",
+            "size": 924782,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_638_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_638_false.png]",
+            "size": 2413627,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 11
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 4,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 7,
+            "converted": 6,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 7,
+            "converted": 6,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 2,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 2883584,
+          "converted": 2621440,
+          "ratio": 0.9090909090909091,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 43,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 4,
+          "textures": 6,
+          "images": 6,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 6,
+          "knownDimensions": 6,
+          "unknownDimensions": 0,
+          "totalPixels": 2621440,
+          "totalBytes": 3891564,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/chair_fabric_albedopng_650.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.needle-engine.usdz[textures/chair_fabric_albedopng_650.png]",
+            "size": 261604,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_fabric_normalpng_663.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.needle-engine.usdz[textures/chair_fabric_normalpng_663.png]",
+            "size": 2007894,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_labelpng_662.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.needle-engine.usdz[textures/chair_labelpng_662.png]",
+            "size": 798060,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_occlusionpng_657.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.needle-engine.usdz[textures/chair_occlusionpng_657.png]",
+            "size": 228366,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_wood_albedopng_652.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.needle-engine.usdz[textures/chair_wood_albedopng_652.png]",
+            "size": 317221,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_woodbrown_roughnessmetallicpng_654.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.needle-engine.usdz[textures/chair_woodbrown_roughnessmetallicpng_654.png]",
+            "size": 278419,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 11
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 4,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 7,
+            "converted": 6,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 7,
+            "converted": 6,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 2,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 2883584,
+          "converted": 2621440,
+          "ratio": 0.9090909090909091,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 33,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 4,
+          "textures": 5,
+          "images": 5,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 5,
+          "knownDimensions": 5,
+          "unknownDimensions": 0,
+          "totalPixels": 2359296,
+          "totalBytes": 2773227,
+          "maxWidth": 1024,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "size": 1744462,
+            "width": 1024,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "size": 133702,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "size": 181170,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_4.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "size": 146100,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_5.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "size": 567793,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 6
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 6,
+            "converted": 4,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 7,
+            "converted": 5,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 7,
+            "converted": 5,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 2,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 2883584,
+          "converted": 2359296,
+          "ratio": 0.8181818181818182,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen"
+        ]
+      }
+    }
+  ]
+}

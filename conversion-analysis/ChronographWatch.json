@@ -1,0 +1,1265 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb",
+  "slug": "ChronographWatch",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 14,
+      "meshes": 13,
+      "primitives": 19,
+      "materials": 29,
+      "textures": 8,
+      "images": 8,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 1,
+      "animationChannels": 1,
+      "morphTargetPrimitives": 0,
+      "variants": 4
+    },
+    "materialFeatures": [
+      "KHR_materials_transmission",
+      "baseColorTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_transmission",
+      "KHR_materials_variants",
+      "KHR_texture_transform"
+    ],
+    "textureImages": {
+      "count": 8,
+      "knownDimensions": 8,
+      "totalPixels": 13434880,
+      "totalBytes": 3305382,
+      "maxWidth": 2048,
+      "maxHeight": 2048
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 184,
+          "meshes": 19,
+          "primitives": 19,
+          "materials": 29,
+          "textures": 8,
+          "images": 8,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 1
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 13434880,
+          "totalBytes": 3305382,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "img.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz[img.png]",
+            "size": 254221,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "img_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz[img_1.png]",
+            "size": 1674059,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "img_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz[img_2.png]",
+            "size": 9307,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "img_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz[img_3.png]",
+            "size": 10366,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "img_4.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz[img_4.png]",
+            "size": 1248241,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "img_5.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz[img_5.png]",
+            "size": 9426,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "img_6.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz[img_6.png]",
+            "size": 89873,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "img_7.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.guc.usdz[img_7.png]",
+            "size": 9889,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 13,
+            "converted": 19,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 29,
+            "status": "present"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "images": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 4,
+            "converted": 1,
+            "status": "reduced"
+          }
+        },
+        "texturePixels": {
+          "source": 13434880,
+          "converted": 13434880,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 189,
+          "meshes": 19,
+          "primitives": 19,
+          "materials": 29,
+          "textures": 8,
+          "images": 8,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 13434880,
+          "totalBytes": 3305382,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "Backplate Khronos_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz[Backplate Khronos_diffuse.png]",
+            "size": 9889,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "Backplate Khronos_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz[Backplate Khronos_metallicRoughness.png]",
+            "size": 9426,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "Band Carbon Fiber_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz[Band Carbon Fiber_normal.png]",
+            "size": 89873,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "Band Carbon Fiber_occlusion.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz[Band Carbon Fiber_occlusion.png]",
+            "size": 1248241,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "Clasp DGG_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz[Clasp DGG_diffuse.png]",
+            "size": 9307,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "Clasp DGG_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz[Clasp DGG_metallicRoughness.png]",
+            "size": 10366,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "Watch Face_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz[Watch Face_diffuse.png]",
+            "size": 254221,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "Watch Face_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.openusd-adobe-gltf.usdz[Watch Face_metallicRoughness.png]",
+            "size": 1674059,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 13,
+            "converted": 19,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 29,
+            "status": "present"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "images": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 4,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 13434880,
+          "converted": 13434880,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 123,
+          "meshes": 19,
+          "primitives": 19,
+          "materials": 12,
+          "textures": 8,
+          "images": 8,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 13434880,
+          "totalBytes": 6700223,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_290_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz[textures/Texture_290_false.png]",
+            "size": 34473,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_292_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz[textures/Texture_292_false.png]",
+            "size": 35358,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_295_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz[textures/Texture_295_false.png]",
+            "size": 25422,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_297_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz[textures/Texture_297_false.png]",
+            "size": 26816,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_300_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz[textures/Texture_300_false.png]",
+            "size": 142386,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_301_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz[textures/Texture_301_false.png]",
+            "size": 818808,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_302_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz[textures/Texture_302_false.png]",
+            "size": 2765048,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_305_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.three-r185.usdz[textures/Texture_305_false.png]",
+            "size": 2851912,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 28
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 13,
+            "converted": 19,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 12,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "images": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 4,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 13434880,
+          "converted": 13434880,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 105,
+          "meshes": 19,
+          "primitives": 19,
+          "materials": 12,
+          "textures": 8,
+          "images": 8,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 13434880,
+          "totalBytes": 6187323,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "textures/__304.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz[textures/__304.png]",
+            "size": 30852,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__306.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz[textures/__306.png]",
+            "size": 24026,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__308.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz[textures/__308.png]",
+            "size": 24419,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__311.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz[textures/__311.png]",
+            "size": 29518,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__314.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz[textures/__314.png]",
+            "size": 121113,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "textures/__315.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz[textures/__315.png]",
+            "size": 760582,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__316.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz[textures/__316.png]",
+            "size": 2568328,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "textures/__319.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.needle-engine.usdz[textures/__319.png]",
+            "size": 2628485,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 28
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 13,
+            "converted": 19,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 19,
+            "converted": 19,
+            "status": "present"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 12,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "images": {
+            "source": 8,
+            "converted": 8,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 4,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 13434880,
+          "converted": 13434880,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 80,
+          "meshes": 13,
+          "primitives": 13,
+          "materials": 12,
+          "textures": 7,
+          "images": 7,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 3,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 7,
+          "knownDimensions": 7,
+          "unknownDimensions": 0,
+          "totalPixels": 9240576,
+          "totalBytes": 2057141,
+          "maxWidth": 2048,
+          "maxHeight": 2048
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "size": 254221,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "size": 1674059,
+            "width": 2048,
+            "height": 2048,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "size": 9307,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "size": 10366,
+            "width": 512,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_5.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "size": 9426,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_6.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz[textures/Image_6.png]",
+            "size": 89873,
+            "width": 256,
+            "height": 256,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_7.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChronographWatch/glTF-Binary/ChronographWatch.glb.blender-5-1.usdz[textures/Image_7.png]",
+            "size": 9889,
+            "width": 1024,
+            "height": 256,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 8
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 13,
+            "converted": 13,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 19,
+            "converted": 13,
+            "status": "reduced"
+          },
+          "materials": {
+            "source": 29,
+            "converted": 12,
+            "status": "reduced"
+          },
+          "textures": {
+            "source": 8,
+            "converted": 7,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 8,
+            "converted": 7,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 3,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 4,
+            "converted": 0,
+            "status": "missing"
+          }
+        },
+        "texturePixels": {
+          "source": 13434880,
+          "converted": 9240576,
+          "ratio": 0.6878048780487804,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_transmission"
+        ]
+      }
+    }
+  ]
+}

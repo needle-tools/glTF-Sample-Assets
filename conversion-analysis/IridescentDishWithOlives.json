@@ -1,0 +1,1470 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb",
+  "slug": "IridescentDishWithOlives",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 6,
+      "meshes": 4,
+      "primitives": 4,
+      "materials": 4,
+      "textures": 11,
+      "images": 11,
+      "cameras": 1,
+      "lights": 0,
+      "skins": 0,
+      "animations": 1,
+      "animationChannels": 1,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_ior",
+      "KHR_materials_iridescence",
+      "KHR_materials_transmission",
+      "KHR_materials_volume",
+      "alphaMask",
+      "baseColorTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_ior",
+      "KHR_materials_iridescence",
+      "KHR_materials_transmission",
+      "KHR_materials_volume"
+    ],
+    "textureImages": {
+      "count": 11,
+      "knownDimensions": 11,
+      "totalPixels": 17563648,
+      "totalBytes": 4903942,
+      "maxWidth": 2048,
+      "maxHeight": 1024
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 59,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 4,
+          "textures": 8,
+          "images": 8,
+          "cameras": 1,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 11272192,
+          "totalBytes": 3478720,
+          "maxWidth": 2048,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "img_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz[img_1.png]",
+            "size": 191297,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_10.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz[img_10.png]",
+            "size": 1213,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz[img_2.png]",
+            "size": 323206,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz[img_3.png]",
+            "size": 151821,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "img_4.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz[img_4.png]",
+            "size": 280389,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_7.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz[img_7.png]",
+            "size": 1434505,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_8.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz[img_8.png]",
+            "size": 315078,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "img_9.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.guc.usdz[img_9.png]",
+            "size": 781211,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 12
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 0,
+            "status": "missing"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 17563648,
+          "converted": 11272192,
+          "ratio": 0.6417910447761194,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 45,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 4,
+          "textures": 8,
+          "images": 8,
+          "cameras": 1,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 11272192,
+          "totalBytes": 3478720,
+          "maxWidth": 2048,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "glassCover_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz[glassCover_metallicRoughness.png]",
+            "size": 1213,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "glassCover_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz[glassCover_normal.png]",
+            "size": 280389,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "glassDish_occlusion.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz[glassDish_occlusion.png]",
+            "size": 315078,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "goldLeaf_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz[goldLeaf_diffuse.png]",
+            "size": 781211,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "goldLeaf_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz[goldLeaf_normal.png]",
+            "size": 1434505,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "olives_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz[olives_diffuse.png]",
+            "size": 151821,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "olives_metallicRoughness.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz[olives_metallicRoughness.png]",
+            "size": 323206,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "olives_normal.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.openusd-adobe-gltf.usdz[olives_normal.png]",
+            "size": 191297,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 10
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 17563648,
+          "converted": 11272192,
+          "ratio": 0.6417910447761194,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 65,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 4,
+          "textures": 8,
+          "images": 8,
+          "cameras": 1,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 11272192,
+          "totalBytes": 7032564,
+          "maxWidth": 2048,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_436_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz[textures/Texture_436_false.png]",
+            "size": 302897,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_437_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz[textures/Texture_437_false.png]",
+            "size": 485135,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_438_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz[textures/Texture_438_false.png]",
+            "size": 375763,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_439_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz[textures/Texture_439_false.png]",
+            "size": 710118,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_441_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz[textures/Texture_441_false.png]",
+            "size": 44421,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_443_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz[textures/Texture_443_false.png]",
+            "size": 635901,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_445_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz[textures/Texture_445_false.png]",
+            "size": 1749654,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/Texture_446_false.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.three-r185.usdz[textures/Texture_446_false.png]",
+            "size": 2728675,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 13
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 17563648,
+          "converted": 11272192,
+          "ratio": 0.6417910447761194,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 41,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 4,
+          "textures": 8,
+          "images": 8,
+          "cameras": 1,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 1,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 11272192,
+          "totalBytes": 6213556,
+          "maxWidth": 2048,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "textures/glasscover_nrmpng_458.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz[textures/glasscover_nrmpng_458.png]",
+            "size": 553520,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/glasscover_ormpng_457.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz[textures/glasscover_ormpng_457.png]",
+            "size": 34507,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/goldleaf_colpng_460.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz[textures/goldleaf_colpng_460.png]",
+            "size": 1540642,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/goldleaf_nrmpng_461.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz[textures/goldleaf_nrmpng_461.png]",
+            "size": 2407681,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/goldleaf_ormpng_455.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz[textures/goldleaf_ormpng_455.png]",
+            "size": 656761,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "textures/olives_colpng_451.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz[textures/olives_colpng_451.png]",
+            "size": 264725,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/olives_nrmpng_452.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz[textures/olives_nrmpng_452.png]",
+            "size": 318544,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/olives_ormpng_453.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.needle-engine.usdz[textures/olives_ormpng_453.png]",
+            "size": 437176,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 13
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 17563648,
+          "converted": 11272192,
+          "ratio": 0.6417910447761194,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 32,
+          "meshes": 4,
+          "primitives": 4,
+          "materials": 4,
+          "textures": 8,
+          "images": 8,
+          "cameras": 1,
+          "lights": 0,
+          "skins": 0,
+          "animations": 1,
+          "animationChannels": 3,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 11272192,
+          "totalBytes": 3478720,
+          "maxWidth": 2048,
+          "maxHeight": 1024
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_1.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "size": 191297,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_10.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz[textures/Image_10.png]",
+            "size": 1213,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_2.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "size": 323206,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_3.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "size": 151821,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_4.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "size": 280389,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_7.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz[textures/Image_7.png]",
+            "size": 1434505,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_8.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz[textures/Image_8.png]",
+            "size": 315078,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          },
+          {
+            "path": "./textures/Image_9.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/IridescentDishWithOlives/glTF-Binary/IridescentDishWithOlives.glb.blender-5-1.usdz[textures/Image_9.png]",
+            "size": 781211,
+            "width": 2048,
+            "height": 1024,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 11,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 1,
+            "converted": 1,
+            "status": "present"
+          },
+          "animationChannels": {
+            "source": 1,
+            "converted": 3,
+            "status": "present"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 17563648,
+          "converted": 11272192,
+          "ratio": 0.6417910447761194,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_ior",
+            "compatibleFeatures": [
+              "ior"
+            ],
+            "matched": [
+              "ior"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "KHR_materials_iridescence",
+            "compatibleFeatures": [
+              "iridescence"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_transmission",
+            "compatibleFeatures": [
+              "transmission"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_volume",
+            "compatibleFeatures": [
+              "KHR_materials_volume"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "alphaMask",
+            "compatibleFeatures": [
+              "opacity"
+            ],
+            "matched": [
+              "opacity"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_iridescence",
+          "KHR_materials_transmission",
+          "KHR_materials_volume"
+        ]
+      }
+    }
+  ]
+}

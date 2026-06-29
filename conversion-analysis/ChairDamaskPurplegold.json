@@ -1,0 +1,1350 @@
+{
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb",
+  "slug": "ChairDamaskPurplegold",
+  "source": {
+    "kind": "gltf",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb",
+    "counts": {
+      "scenes": 1,
+      "nodes": 11,
+      "meshes": 11,
+      "primitives": 11,
+      "materials": 4,
+      "textures": 9,
+      "images": 9,
+      "cameras": 0,
+      "lights": 0,
+      "skins": 0,
+      "animations": 0,
+      "animationChannels": 0,
+      "morphTargetPrimitives": 0,
+      "variants": 0
+    },
+    "materialFeatures": [
+      "KHR_materials_sheen",
+      "KHR_materials_specular",
+      "baseColorTexture",
+      "metallicRoughnessTexture",
+      "normalTexture",
+      "occlusionTexture"
+    ],
+    "extensionsUsed": [
+      "KHR_materials_sheen",
+      "KHR_materials_specular",
+      "KHR_texture_transform"
+    ],
+    "textureImages": {
+      "count": 9,
+      "knownDimensions": 9,
+      "totalPixels": 2375680,
+      "totalBytes": 1703997,
+      "maxWidth": 1024,
+      "maxHeight": 512
+    }
+  },
+  "conversions": [
+    {
+      "converter": "guc",
+      "converterVersion": "0.5",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 87,
+          "meshes": 11,
+          "primitives": 11,
+          "materials": 4,
+          "textures": 9,
+          "images": 9,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "emissiveColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 9,
+          "knownDimensions": 9,
+          "unknownDimensions": 0,
+          "totalPixels": 2375680,
+          "totalBytes": 1703997,
+          "maxWidth": 1024,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "img.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img.jpg]",
+            "size": 185105,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_1.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img_1.jpg]",
+            "size": 122245,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img_2.jpg]",
+            "size": 178538,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_3.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img_3.jpg]",
+            "size": 183109,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_4.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img_4.jpg]",
+            "size": 16238,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_5.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img_5.jpg]",
+            "size": 252354,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_6.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img_6.jpg]",
+            "size": 184418,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_7.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img_7.jpg]",
+            "size": 283353,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "img_8.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.guc.usdz[img_8.jpg]",
+            "size": 298637,
+            "width": 1024,
+            "height": 512,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 10
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 9,
+            "converted": 9,
+            "status": "present"
+          },
+          "images": {
+            "source": 9,
+            "converted": 9,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 2375680,
+          "converted": 2375680,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_specular",
+            "compatibleFeatures": [
+              "specular"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen",
+          "KHR_materials_specular"
+        ]
+      }
+    },
+    {
+      "converter": "openusd-adobe-gltf",
+      "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 67,
+          "meshes": 11,
+          "primitives": 11,
+          "materials": 4,
+          "textures": 9,
+          "images": 9,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "diffuseColor",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 9,
+          "knownDimensions": 9,
+          "unknownDimensions": 0,
+          "totalPixels": 2375680,
+          "totalBytes": 1703997,
+          "maxWidth": 1024,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "fabric_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[fabric_diffuse.jpg]",
+            "size": 184418,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "fabric_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[fabric_metallicRoughness.jpg]",
+            "size": 283353,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "fabric_normal.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[fabric_normal.jpg]",
+            "size": 252354,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "label_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[label_diffuse.jpg]",
+            "size": 298637,
+            "width": 1024,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "metal_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[metal_metallicRoughness.jpg]",
+            "size": 16238,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "wood_diffuse.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[wood_diffuse.jpg]",
+            "size": 178538,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "wood_metallicRoughness.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[wood_metallicRoughness.jpg]",
+            "size": 183109,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "wood_normal.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[wood_normal.jpg]",
+            "size": 185105,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "wood_occlusion.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.openusd-adobe-gltf.usdz[wood_occlusion.jpg]",
+            "size": 122245,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 10
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 9,
+            "converted": 9,
+            "status": "present"
+          },
+          "images": {
+            "source": 9,
+            "converted": 9,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 2375680,
+          "converted": 2375680,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_specular",
+            "compatibleFeatures": [
+              "specular"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen",
+          "KHR_materials_specular"
+        ]
+      }
+    },
+    {
+      "converter": "three-r185",
+      "converterVersion": "0.185.0",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 80,
+          "meshes": 11,
+          "primitives": 11,
+          "materials": 4,
+          "textures": 9,
+          "images": 9,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 9,
+          "knownDimensions": 9,
+          "unknownDimensions": 0,
+          "totalPixels": 2375680,
+          "totalBytes": 670032,
+          "maxWidth": 1024,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "textures/Texture_267_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_267_false.jpg]",
+            "size": 6934,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_270_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_270_false.jpg]",
+            "size": 66847,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_275_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_275_false.jpg]",
+            "size": 105366,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_277_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_277_false.jpg]",
+            "size": 77556,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_279_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_279_false.jpg]",
+            "size": 53282,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_282_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_282_false.jpg]",
+            "size": 37444,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_284_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_284_false.jpg]",
+            "size": 103209,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_286_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_286_false.jpg]",
+            "size": 76057,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "textures/Texture_289_false.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_289_false.jpg]",
+            "size": 143337,
+            "width": 1024,
+            "height": 512,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 21
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 9,
+            "converted": 9,
+            "status": "present"
+          },
+          "images": {
+            "source": 9,
+            "converted": 9,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 2375680,
+          "converted": 2375680,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_specular",
+            "compatibleFeatures": [
+              "specular"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen",
+          "KHR_materials_specular"
+        ]
+      }
+    },
+    {
+      "converter": "needle-engine",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 66,
+          "meshes": 11,
+          "primitives": 11,
+          "materials": 4,
+          "textures": 9,
+          "images": 9,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "occlusion",
+          "opacity",
+          "roughness",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 9,
+          "knownDimensions": 9,
+          "unknownDimensions": 0,
+          "totalPixels": 2375680,
+          "totalBytes": 3275088,
+          "maxWidth": 1024,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "textures/chair_labeljpg_303.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/chair_labeljpg_303.png]",
+            "size": 667030,
+            "width": 1024,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_metal_roughness255jpg_281.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/chair_metal_roughness255jpg_281.png]",
+            "size": 32268,
+            "width": 128,
+            "height": 128,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_occlusionjpg_284.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/chair_occlusionjpg_284.png]",
+            "size": 228272,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_wood_albedojpg_291.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/chair_wood_albedojpg_291.png]",
+            "size": 317243,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_wood_normaljpg_296.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/chair_wood_normaljpg_296.png]",
+            "size": 385200,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/chair_wood_roughness0jpg_293.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/chair_wood_roughness0jpg_293.png]",
+            "size": 389283,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/damask_multicolor_albedojpg_289.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/damask_multicolor_albedojpg_289.png]",
+            "size": 227529,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/damask_multicolor_normaljpg_298.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/damask_multicolor_normaljpg_298.png]",
+            "size": 568387,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          },
+          {
+            "path": "textures/damask_multicolor_roughnessdamask_multicolor_metalnessjpg_300.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.needle-engine.usdz[textures/damask_multicolor_roughnessdamask_multicolor_metalnessjpg_300.png]",
+            "size": 459876,
+            "width": 512,
+            "height": 512,
+            "type": "png"
+          }
+        ],
+        "packageEntries": 21
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 9,
+            "converted": 9,
+            "status": "present"
+          },
+          "images": {
+            "source": 9,
+            "converted": 9,
+            "status": "present"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 2375680,
+          "converted": 2375680,
+          "ratio": 1.0,
+          "status": "present"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_specular",
+            "compatibleFeatures": [
+              "specular"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "occlusion",
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen",
+          "KHR_materials_specular"
+        ]
+      }
+    },
+    {
+      "converter": "blender-5-1",
+      "converterVersion": "5.1.2",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz",
+      "features": {
+        "kind": "usd",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz",
+        "counts": {
+          "scenes": 1,
+          "nodes": 55,
+          "meshes": 11,
+          "primitives": 11,
+          "materials": 4,
+          "textures": 8,
+          "images": 8,
+          "cameras": 0,
+          "lights": 0,
+          "skins": 0,
+          "animations": 0,
+          "animationChannels": 0,
+          "morphTargetPrimitives": 0,
+          "variants": 0
+        },
+        "materialFeatures": [
+          "clearcoat",
+          "diffuseColor",
+          "ior",
+          "metallic",
+          "normal",
+          "opacity",
+          "roughness",
+          "specular",
+          "textureFile"
+        ],
+        "extensionsUsed": [],
+        "textureImages": {
+          "count": 8,
+          "knownDimensions": 8,
+          "unknownDimensions": 0,
+          "totalPixels": 2113536,
+          "totalBytes": 1581752,
+          "maxWidth": 1024,
+          "maxHeight": 512
+        },
+        "textureAssets": [
+          {
+            "path": "./textures/Image_0.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "size": 185105,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_2.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "size": 178538,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_3.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "size": 183109,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_4.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "size": 16238,
+            "width": 128,
+            "height": 128,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_5.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_5.jpg]",
+            "size": 252354,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_6.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_6.jpg]",
+            "size": 184418,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_7.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_7.jpg]",
+            "size": 283353,
+            "width": 512,
+            "height": 512,
+            "type": "jpeg"
+          },
+          {
+            "path": "./textures/Image_8.jpg",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_8.jpg]",
+            "size": 298637,
+            "width": 1024,
+            "height": 512,
+            "type": "jpeg"
+          }
+        ],
+        "packageEntries": 9
+      },
+      "comparison": {
+        "counts": {
+          "meshes": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "primitives": {
+            "source": 11,
+            "converted": 11,
+            "status": "present"
+          },
+          "materials": {
+            "source": 4,
+            "converted": 4,
+            "status": "present"
+          },
+          "textures": {
+            "source": 9,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "images": {
+            "source": 9,
+            "converted": 8,
+            "status": "reduced"
+          },
+          "cameras": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "lights": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "skins": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animations": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "animationChannels": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "morphTargetPrimitives": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          },
+          "variants": {
+            "source": 0,
+            "converted": 0,
+            "status": "absent"
+          }
+        },
+        "texturePixels": {
+          "source": 2375680,
+          "converted": 2113536,
+          "ratio": 0.8896551724137931,
+          "status": "reduced"
+        },
+        "materialFeatures": [
+          {
+            "feature": "KHR_materials_sheen",
+            "compatibleFeatures": [
+              "sheen"
+            ],
+            "matched": [],
+            "status": "missing"
+          },
+          {
+            "feature": "KHR_materials_specular",
+            "compatibleFeatures": [
+              "specular"
+            ],
+            "matched": [
+              "specular"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "baseColorTexture",
+            "compatibleFeatures": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "matched": [
+              "diffuseColor",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "metallicRoughnessTexture",
+            "compatibleFeatures": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "matched": [
+              "metallic",
+              "roughness",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "normalTexture",
+            "compatibleFeatures": [
+              "normal",
+              "textureFile"
+            ],
+            "matched": [
+              "normal",
+              "textureFile"
+            ],
+            "status": "present"
+          },
+          {
+            "feature": "occlusionTexture",
+            "compatibleFeatures": [
+              "occlusion",
+              "textureFile"
+            ],
+            "matched": [
+              "textureFile"
+            ],
+            "status": "present"
+          }
+        ],
+        "missingMaterialFeatures": [
+          "KHR_materials_sheen"
+        ]
+      }
+    }
+  ]
+}
