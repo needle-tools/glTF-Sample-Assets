@@ -1,0 +1,1 @@
+This asset tests complex mesh topology organized for level-of-detail workflows. It is intended to make topology preservation, material assignment, and mesh hierarchy changes visible in viewers and conversion pipelines.
