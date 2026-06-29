@@ -200,7 +200,7 @@
         "texturePixels": {
           "source": 9437184,
           "converted": 9437184,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -428,7 +428,7 @@
         "texturePixels": {
           "source": 9437184,
           "converted": 9437184,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -499,10 +499,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 43,
@@ -541,7 +541,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_393_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_393_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three.usdz[textures/Texture_393_false.png]",
             "size": 274693,
             "width": 1024,
             "height": 512,
@@ -549,7 +549,7 @@
           },
           {
             "path": "textures/Texture_394_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_394_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three.usdz[textures/Texture_394_false.png]",
             "size": 678804,
             "width": 1024,
             "height": 512,
@@ -557,7 +557,7 @@
           },
           {
             "path": "textures/Texture_395_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_395_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three.usdz[textures/Texture_395_false.png]",
             "size": 521373,
             "width": 1024,
             "height": 1024,
@@ -565,7 +565,7 @@
           },
           {
             "path": "textures/Texture_396_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_396_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three.usdz[textures/Texture_396_false.png]",
             "size": 1017449,
             "width": 1024,
             "height": 1024,
@@ -573,7 +573,7 @@
           },
           {
             "path": "textures/Texture_397_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_397_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three.usdz[textures/Texture_397_false.jpg]",
             "size": 237576,
             "width": 2048,
             "height": 2048,
@@ -581,7 +581,7 @@
           },
           {
             "path": "textures/Texture_398_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three-r185.usdz[textures/Texture_398_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.three.usdz[textures/Texture_398_false.jpg]",
             "size": 159580,
             "width": 2048,
             "height": 1024,
@@ -656,7 +656,7 @@
         "texturePixels": {
           "source": 9437184,
           "converted": 9437184,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -884,7 +884,7 @@
         "texturePixels": {
           "source": 9437184,
           "converted": 9437184,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -955,10 +955,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 18,
@@ -999,7 +999,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 128411,
             "width": 2048,
             "height": 1024,
@@ -1007,7 +1007,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender.usdz[textures/Image_1.png]",
             "size": 138857,
             "width": 1024,
             "height": 512,
@@ -1015,7 +1015,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender.usdz[textures/Image_2.png]",
             "size": 407064,
             "width": 1024,
             "height": 512,
@@ -1023,7 +1023,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 189957,
             "width": 2048,
             "height": 2048,
@@ -1031,7 +1031,7 @@
           },
           {
             "path": "./textures/Image_4.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender.usdz[textures/Image_4.png]",
             "size": 238666,
             "width": 1024,
             "height": 1024,
@@ -1039,7 +1039,7 @@
           },
           {
             "path": "./textures/Image_5.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb.blender.usdz[textures/Image_5.png]",
             "size": 643938,
             "width": 1024,
             "height": 1024,
@@ -1114,7 +1114,7 @@
         "texturePixels": {
           "source": 9437184,
           "converted": 9437184,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

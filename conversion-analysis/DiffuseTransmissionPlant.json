@@ -540,10 +540,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 61,
@@ -583,7 +583,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_387_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three-r185.usdz[textures/Texture_387_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three.usdz[textures/Texture_387_false.jpg]",
             "size": 2710,
             "width": 512,
             "height": 512,
@@ -591,7 +591,7 @@
           },
           {
             "path": "textures/Texture_388_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three-r185.usdz[textures/Texture_388_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three.usdz[textures/Texture_388_false.jpg]",
             "size": 241374,
             "width": 1024,
             "height": 1024,
@@ -599,7 +599,7 @@
           },
           {
             "path": "textures/Texture_389_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three-r185.usdz[textures/Texture_389_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three.usdz[textures/Texture_389_false.png]",
             "size": 1778176,
             "width": 1024,
             "height": 1024,
@@ -607,7 +607,7 @@
           },
           {
             "path": "textures/Texture_390_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three-r185.usdz[textures/Texture_390_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three.usdz[textures/Texture_390_false.jpg]",
             "size": 305181,
             "width": 1024,
             "height": 1024,
@@ -615,7 +615,7 @@
           },
           {
             "path": "textures/Texture_391_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three-r185.usdz[textures/Texture_391_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three.usdz[textures/Texture_391_false.jpg]",
             "size": 224808,
             "width": 1024,
             "height": 1024,
@@ -623,7 +623,7 @@
           },
           {
             "path": "textures/Texture_392_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three-r185.usdz[textures/Texture_392_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.three.usdz[textures/Texture_392_false.jpg]",
             "size": 349552,
             "width": 1024,
             "height": 1024,
@@ -1034,10 +1034,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 48,
@@ -1079,7 +1079,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender.usdz[textures/Image_0.png]",
             "size": 1292460,
             "width": 1024,
             "height": 1024,
@@ -1087,7 +1087,7 @@
           },
           {
             "path": "./textures/Image_1.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender.usdz[textures/Image_1.jpg]",
             "size": 288543,
             "width": 1024,
             "height": 1024,
@@ -1095,7 +1095,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 555674,
             "width": 1024,
             "height": 1024,
@@ -1103,7 +1103,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 840918,
             "width": 1024,
             "height": 1024,
@@ -1111,7 +1111,7 @@
           },
           {
             "path": "./textures/Image_4.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb.blender.usdz[textures/Image_4.jpg]",
             "size": 1992,
             "width": 512,
             "height": 512,

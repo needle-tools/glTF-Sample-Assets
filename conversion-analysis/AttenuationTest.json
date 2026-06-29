@@ -374,10 +374,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 93,
@@ -416,7 +416,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_206_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.three-r185.usdz[textures/Texture_206_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.three.usdz[textures/Texture_206_false.png]",
             "size": 2410,
             "width": 256,
             "height": 256,
@@ -424,7 +424,7 @@
           },
           {
             "path": "textures/Texture_208_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.three-r185.usdz[textures/Texture_208_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.three.usdz[textures/Texture_208_false.png]",
             "size": 36178,
             "width": 512,
             "height": 512,
@@ -708,10 +708,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 88,
@@ -751,7 +751,7 @@
         "textureAssets": [
           {
             "path": "./textures/AttenuationLabels.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.blender-5-1.usdz[textures/AttenuationLabels.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.blender.usdz[textures/AttenuationLabels.png]",
             "size": 24933,
             "width": 512,
             "height": 512,
@@ -759,7 +759,7 @@
           },
           {
             "path": "./textures/PlainGrid.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.blender-5-1.usdz[textures/PlainGrid.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AttenuationTest/glTF-Binary/AttenuationTest.glb.blender.usdz[textures/PlainGrid.png]",
             "size": 618,
             "width": 256,
             "height": 256,

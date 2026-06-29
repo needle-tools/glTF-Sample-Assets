@@ -712,10 +712,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 411,
@@ -757,7 +757,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_221_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_221_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_221_false.png]",
             "size": 199,
             "width": 32,
             "height": 32,
@@ -765,7 +765,7 @@
           },
           {
             "path": "textures/Texture_223_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_223_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_223_false.png]",
             "size": 19237,
             "width": 512,
             "height": 128,
@@ -773,7 +773,7 @@
           },
           {
             "path": "textures/Texture_224_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_224_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_224_false.png]",
             "size": 4553,
             "width": 64,
             "height": 32,
@@ -781,7 +781,7 @@
           },
           {
             "path": "textures/Texture_228_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_228_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_228_false.png]",
             "size": 1530,
             "width": 128,
             "height": 128,
@@ -789,7 +789,7 @@
           },
           {
             "path": "textures/Texture_230_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_230_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_230_false.png]",
             "size": 51222,
             "width": 128,
             "height": 128,
@@ -797,7 +797,7 @@
           },
           {
             "path": "textures/Texture_233_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_233_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_233_false.png]",
             "size": 13772,
             "width": 128,
             "height": 128,
@@ -805,7 +805,7 @@
           },
           {
             "path": "textures/Texture_235_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_235_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_235_false.png]",
             "size": 78495,
             "width": 1024,
             "height": 256,
@@ -813,7 +813,7 @@
           },
           {
             "path": "textures/Texture_236_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_236_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_236_false.png]",
             "size": 90993,
             "width": 512,
             "height": 128,
@@ -821,7 +821,7 @@
           },
           {
             "path": "textures/Texture_238_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_238_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_238_false.png]",
             "size": 418175,
             "width": 512,
             "height": 512,
@@ -829,7 +829,7 @@
           },
           {
             "path": "textures/Texture_239_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_239_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_239_false.png]",
             "size": 45846,
             "width": 1024,
             "height": 1024,
@@ -837,7 +837,7 @@
           },
           {
             "path": "textures/Texture_240_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_240_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_240_false.png]",
             "size": 162271,
             "width": 512,
             "height": 512,
@@ -845,7 +845,7 @@
           },
           {
             "path": "textures/Texture_241_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_241_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_241_false.png]",
             "size": 627763,
             "width": 1024,
             "height": 1024,
@@ -853,7 +853,7 @@
           },
           {
             "path": "textures/Texture_242_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three-r185.usdz[textures/Texture_242_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.three.usdz[textures/Texture_242_false.png]",
             "size": 3256409,
             "width": 2048,
             "height": 2048,
@@ -1366,10 +1366,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 319,
@@ -1411,7 +1411,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_0.png]",
             "size": 358161,
             "width": 512,
             "height": 512,
@@ -1419,7 +1419,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_1.png]",
             "size": 106027,
             "width": 512,
             "height": 512,
@@ -1427,7 +1427,7 @@
           },
           {
             "path": "./textures/Image_10.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_10.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_10.png]",
             "size": 23370,
             "width": 1024,
             "height": 1024,
@@ -1435,7 +1435,7 @@
           },
           {
             "path": "./textures/Image_11.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_11.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_11.png]",
             "size": 475684,
             "width": 1024,
             "height": 1024,
@@ -1443,7 +1443,7 @@
           },
           {
             "path": "./textures/Image_12.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_12.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_12.png]",
             "size": 53752,
             "width": 512,
             "height": 128,
@@ -1451,7 +1451,7 @@
           },
           {
             "path": "./textures/Image_3.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_3.png]",
             "size": 8177,
             "width": 512,
             "height": 128,
@@ -1459,7 +1459,7 @@
           },
           {
             "path": "./textures/Image_4.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_4.png]",
             "size": 3528,
             "width": 64,
             "height": 32,
@@ -1467,7 +1467,7 @@
           },
           {
             "path": "./textures/Image_5.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_5.png]",
             "size": 198,
             "width": 32,
             "height": 32,
@@ -1475,7 +1475,7 @@
           },
           {
             "path": "./textures/Image_6.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_6.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_6.png]",
             "size": 31201,
             "width": 1024,
             "height": 256,
@@ -1483,7 +1483,7 @@
           },
           {
             "path": "./textures/Image_7.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_7.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_7.png]",
             "size": 46314,
             "width": 128,
             "height": 128,
@@ -1491,7 +1491,7 @@
           },
           {
             "path": "./textures/Image_8.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_8.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_8.png]",
             "size": 343,
             "width": 128,
             "height": 128,
@@ -1499,7 +1499,7 @@
           },
           {
             "path": "./textures/Image_9.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender-5-1.usdz[textures/Image_9.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CarConcept/glTF-Binary/CarConcept.glb.blender.usdz[textures/Image_9.png]",
             "size": 8500,
             "width": 128,
             "height": 128,

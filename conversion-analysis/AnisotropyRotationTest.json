@@ -418,10 +418,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 60,
@@ -461,7 +461,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_195_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three-r185.usdz[textures/Texture_195_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three.usdz[textures/Texture_195_false.png]",
             "size": 207,
             "width": 2048,
             "height": 1,
@@ -469,7 +469,7 @@
           },
           {
             "path": "textures/Texture_196_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three-r185.usdz[textures/Texture_196_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three.usdz[textures/Texture_196_false.png]",
             "size": 35183,
             "width": 512,
             "height": 512,
@@ -477,7 +477,7 @@
           },
           {
             "path": "textures/Texture_197_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three-r185.usdz[textures/Texture_197_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three.usdz[textures/Texture_197_false.png]",
             "size": 57999,
             "width": 1024,
             "height": 1024,
@@ -485,7 +485,7 @@
           },
           {
             "path": "textures/Texture_198_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three-r185.usdz[textures/Texture_198_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.three.usdz[textures/Texture_198_false.png]",
             "size": 757637,
             "width": 1024,
             "height": 1024,
@@ -792,10 +792,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 49,
@@ -836,7 +836,7 @@
         "textureAssets": [
           {
             "path": "./textures/AnisoDonutLabels.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender-5-1.usdz[textures/AnisoDonutLabels.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender.usdz[textures/AnisoDonutLabels.png]",
             "size": 25281,
             "width": 512,
             "height": 512,
@@ -844,7 +844,7 @@
           },
           {
             "path": "./textures/GridWithMarkers.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender-5-1.usdz[textures/GridWithMarkers.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender.usdz[textures/GridWithMarkers.png]",
             "size": 8170,
             "width": 1024,
             "height": 1024,
@@ -852,7 +852,7 @@
           },
           {
             "path": "./textures/GridWithMarkers_30deg.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender-5-1.usdz[textures/GridWithMarkers_30deg.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender.usdz[textures/GridWithMarkers_30deg.png]",
             "size": 489889,
             "width": 1024,
             "height": 1024,
@@ -860,7 +860,7 @@
           },
           {
             "path": "./textures/Heights_1d_Normals_v2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender-5-1.usdz[textures/Heights_1d_Normals_v2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnisotropyRotationTest/glTF-Binary/AnisotropyRotationTest.glb.blender.usdz[textures/Heights_1d_Normals_v2.png]",
             "size": 169,
             "width": 2048,
             "height": 1,

@@ -1,9 +1,9 @@
 {
-  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb",
-  "slug": "Unicode\u2764\u267bTest",
+  "input": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb",
+  "slug": "Unicode❤♻Test",
   "source": {
     "kind": "gltf",
-    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb",
+    "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb",
     "counts": {
       "scenes": 1,
       "nodes": 1,
@@ -37,10 +37,10 @@
     {
       "converter": "guc",
       "converterVersion": "0.5",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.guc.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.guc.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.guc.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.guc.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 13,
@@ -77,7 +77,7 @@
         "textureAssets": [
           {
             "path": "img.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.guc.usdz[img.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.guc.usdz[img.png]",
             "size": 4203,
             "width": 256,
             "height": 256,
@@ -152,7 +152,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -175,10 +175,10 @@
     {
       "converter": "openusd-adobe-gltf",
       "converterVersion": "OpenUSD 26.05 + Adobe 2026.03",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.openusd-adobe-gltf.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.openusd-adobe-gltf.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.openusd-adobe-gltf.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.openusd-adobe-gltf.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 9,
@@ -213,8 +213,8 @@
         },
         "textureAssets": [
           {
-            "path": "Unicode\u2764\u267bMaterial_diffuse.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.openusd-adobe-gltf.usdz[Unicode\u2764\u267bMaterial_diffuse.png]",
+            "path": "Unicode❤♻Material_diffuse.png",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.openusd-adobe-gltf.usdz[Unicode❤♻Material_diffuse.png]",
             "size": 4203,
             "width": 256,
             "height": 256,
@@ -289,7 +289,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -312,10 +312,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 12,
@@ -352,7 +352,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_762_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.three-r185.usdz[textures/Texture_762_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.three.usdz[textures/Texture_762_false.png]",
             "size": 9259,
             "width": 256,
             "height": 256,
@@ -427,7 +427,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -450,10 +450,10 @@
     {
       "converter": "needle-engine",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.needle-engine.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.needle-engine.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.needle-engine.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.needle-engine.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 11,
@@ -490,7 +490,7 @@
         "textureAssets": [
           {
             "path": "textures/__787.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.needle-engine.usdz[textures/__787.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.needle-engine.usdz[textures/__787.png]",
             "size": 8453,
             "width": 256,
             "height": 256,
@@ -565,7 +565,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -588,10 +588,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 8,
@@ -631,7 +631,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode\u2764\u267bTest/glTF-Binary/Unicode\u2764\u267bTest.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/Unicode❤♻Test/glTF-Binary/Unicode❤♻Test.glb.blender.usdz[textures/Image_0.png]",
             "size": 4203,
             "width": 256,
             "height": 256,
@@ -706,7 +706,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

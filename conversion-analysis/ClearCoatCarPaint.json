@@ -158,7 +158,7 @@
         "texturePixels": {
           "source": 16384,
           "converted": 16384,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -308,7 +308,7 @@
         "texturePixels": {
           "source": 16384,
           "converted": 16384,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -341,10 +341,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 12,
@@ -384,7 +384,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_306_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three-r185.usdz[textures/Texture_306_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.three.usdz[textures/Texture_306_false.png]",
             "size": 51222,
             "width": 128,
             "height": 128,
@@ -459,7 +459,7 @@
         "texturePixels": {
           "source": 16384,
           "converted": 16384,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -610,7 +610,7 @@
         "texturePixels": {
           "source": 16384,
           "converted": 16384,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -643,10 +643,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 9,
@@ -687,7 +687,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb.blender.usdz[textures/Image_0.png]",
             "size": 41240,
             "width": 128,
             "height": 128,
@@ -762,7 +762,7 @@
         "texturePixels": {
           "source": 16384,
           "converted": 16384,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

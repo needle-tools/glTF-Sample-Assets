@@ -194,7 +194,7 @@
         "texturePixels": {
           "source": 4259840,
           "converted": 4259840,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -425,7 +425,7 @@
         "texturePixels": {
           "source": 4259840,
           "converted": 4259840,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -506,10 +506,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 35,
@@ -550,7 +550,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_414_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_414_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three.usdz[textures/Texture_414_false.jpg]",
             "size": 10522,
             "width": 256,
             "height": 256,
@@ -558,7 +558,7 @@
           },
           {
             "path": "textures/Texture_415_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_415_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three.usdz[textures/Texture_415_false.png]",
             "size": 120494,
             "width": 1024,
             "height": 1024,
@@ -566,7 +566,7 @@
           },
           {
             "path": "textures/Texture_416_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_416_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three.usdz[textures/Texture_416_false.png]",
             "size": 308891,
             "width": 1024,
             "height": 1024,
@@ -574,7 +574,7 @@
           },
           {
             "path": "textures/Texture_417_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_417_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three.usdz[textures/Texture_417_false.jpg]",
             "size": 69714,
             "width": 1024,
             "height": 1024,
@@ -582,7 +582,7 @@
           },
           {
             "path": "textures/Texture_418_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three-r185.usdz[textures/Texture_418_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.three.usdz[textures/Texture_418_false.jpg]",
             "size": 165396,
             "width": 1024,
             "height": 1024,
@@ -657,7 +657,7 @@
         "texturePixels": {
           "source": 4259840,
           "converted": 4259840,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -889,7 +889,7 @@
         "texturePixels": {
           "source": 4259840,
           "converted": 4259840,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -970,10 +970,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 18,
@@ -1014,7 +1014,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender.usdz[textures/Image_0.png]",
             "size": 42858,
             "width": 1024,
             "height": 1024,
@@ -1022,7 +1022,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender.usdz[textures/Image_1.png]",
             "size": 194054,
             "width": 1024,
             "height": 1024,
@@ -1030,7 +1030,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassBrokenWindow/glTF-Binary/GlassBrokenWindow.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 633247,
             "width": 1024,
             "height": 1024,

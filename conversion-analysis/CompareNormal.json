@@ -153,7 +153,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -292,7 +292,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -315,10 +315,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 16,
@@ -356,7 +356,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_363_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.three-r185.usdz[textures/Texture_363_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.three.usdz[textures/Texture_363_false.jpg]",
             "size": 69630,
             "width": 512,
             "height": 512,
@@ -431,7 +431,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -570,7 +570,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -593,10 +593,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 12,
@@ -637,7 +637,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareNormal/glTF-Binary/CompareNormal.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 89057,
             "width": 512,
             "height": 512,
@@ -712,7 +712,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

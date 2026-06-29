@@ -445,10 +445,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 46,
@@ -488,7 +488,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_375_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three-r185.usdz[textures/Texture_375_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three.usdz[textures/Texture_375_false.png]",
             "size": 297,
             "width": 64,
             "height": 64,
@@ -496,7 +496,7 @@
           },
           {
             "path": "textures/Texture_376_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three-r185.usdz[textures/Texture_376_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three.usdz[textures/Texture_376_false.jpg]",
             "size": 27659,
             "width": 2048,
             "height": 1024,
@@ -504,7 +504,7 @@
           },
           {
             "path": "textures/Texture_377_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three-r185.usdz[textures/Texture_377_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.three.usdz[textures/Texture_377_false.jpg]",
             "size": 43707,
             "width": 2048,
             "height": 1024,
@@ -849,10 +849,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 30,
@@ -893,7 +893,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 32773,
             "width": 2048,
             "height": 1024,
@@ -901,7 +901,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender.usdz[textures/Image_2.png]",
             "size": 97,
             "width": 64,
             "height": 64,
@@ -909,7 +909,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareVolume/glTF-Binary/CompareVolume.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 15884,
             "width": 2048,
             "height": 1024,

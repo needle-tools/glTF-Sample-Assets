@@ -212,7 +212,7 @@
         "texturePixels": {
           "source": 524294,
           "converted": 524294,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -443,7 +443,7 @@
         "texturePixels": {
           "source": 524294,
           "converted": 524294,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -502,10 +502,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 110,
@@ -543,7 +543,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_677_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz[textures/Texture_677_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz[textures/Texture_677_false.png]",
             "size": 88,
             "width": 1,
             "height": 1,
@@ -551,7 +551,7 @@
           },
           {
             "path": "textures/Texture_678_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz[textures/Texture_678_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz[textures/Texture_678_false.png]",
             "size": 88,
             "width": 1,
             "height": 1,
@@ -559,7 +559,7 @@
           },
           {
             "path": "textures/Texture_679_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz[textures/Texture_679_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz[textures/Texture_679_false.png]",
             "size": 88,
             "width": 1,
             "height": 1,
@@ -567,7 +567,7 @@
           },
           {
             "path": "textures/Texture_680_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz[textures/Texture_680_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz[textures/Texture_680_false.png]",
             "size": 88,
             "width": 1,
             "height": 1,
@@ -575,7 +575,7 @@
           },
           {
             "path": "textures/Texture_681_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz[textures/Texture_681_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz[textures/Texture_681_false.png]",
             "size": 88,
             "width": 1,
             "height": 1,
@@ -583,7 +583,7 @@
           },
           {
             "path": "textures/Texture_682_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz[textures/Texture_682_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz[textures/Texture_682_false.png]",
             "size": 88,
             "width": 1,
             "height": 1,
@@ -591,7 +591,7 @@
           },
           {
             "path": "textures/Texture_683_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz[textures/Texture_683_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz[textures/Texture_683_false.png]",
             "size": 17114,
             "width": 1024,
             "height": 256,
@@ -599,7 +599,7 @@
           },
           {
             "path": "textures/Texture_684_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three-r185.usdz[textures/Texture_684_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.three.usdz[textures/Texture_684_false.png]",
             "size": 16205,
             "width": 1024,
             "height": 256,
@@ -674,7 +674,7 @@
         "texturePixels": {
           "source": 524294,
           "converted": 524294,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -905,7 +905,7 @@
         "texturePixels": {
           "source": 524294,
           "converted": 524294,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -964,10 +964,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 83,
@@ -1008,7 +1008,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz[textures/Image_0.png]",
             "size": 69,
             "width": 1,
             "height": 1,
@@ -1016,7 +1016,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz[textures/Image_1.png]",
             "size": 85,
             "width": 1,
             "height": 1,
@@ -1024,7 +1024,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz[textures/Image_2.png]",
             "size": 433,
             "width": 1,
             "height": 1,
@@ -1032,7 +1032,7 @@
           },
           {
             "path": "./textures/Image_3.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz[textures/Image_3.png]",
             "size": 69,
             "width": 1,
             "height": 1,
@@ -1040,7 +1040,7 @@
           },
           {
             "path": "./textures/Image_4.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz[textures/Image_4.png]",
             "size": 85,
             "width": 1,
             "height": 1,
@@ -1048,7 +1048,7 @@
           },
           {
             "path": "./textures/Image_5.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz[textures/Image_5.png]",
             "size": 433,
             "width": 1,
             "height": 1,
@@ -1056,7 +1056,7 @@
           },
           {
             "path": "./textures/Image_6.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz[textures/Image_6.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz[textures/Image_6.png]",
             "size": 3177,
             "width": 1024,
             "height": 256,
@@ -1064,7 +1064,7 @@
           },
           {
             "path": "./textures/Image_7.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender-5-1.usdz[textures/Image_7.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureEncodingTest/glTF-Binary/TextureEncodingTest.glb.blender.usdz[textures/Image_7.png]",
             "size": 3519,
             "width": 1024,
             "height": 256,
@@ -1139,7 +1139,7 @@
         "texturePixels": {
           "source": 524294,
           "converted": 524294,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

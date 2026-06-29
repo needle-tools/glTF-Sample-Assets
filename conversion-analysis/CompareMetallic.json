@@ -161,7 +161,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -320,7 +320,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -357,10 +357,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 25,
@@ -397,7 +397,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_361_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.three-r185.usdz[textures/Texture_361_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.three.usdz[textures/Texture_361_false.jpg]",
             "size": 37913,
             "width": 2048,
             "height": 1024,
@@ -405,7 +405,7 @@
           },
           {
             "path": "textures/Texture_362_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.three-r185.usdz[textures/Texture_362_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.three.usdz[textures/Texture_362_false.jpg]",
             "size": 38669,
             "width": 2048,
             "height": 1024,
@@ -480,7 +480,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -640,7 +640,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -677,10 +677,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 15,
@@ -720,7 +720,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 55790,
             "width": 2048,
             "height": 1024,
@@ -728,7 +728,7 @@
           },
           {
             "path": "./textures/Image_1.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareMetallic/glTF-Binary/CompareMetallic.glb.blender.usdz[textures/Image_1.jpg]",
             "size": 55082,
             "width": 2048,
             "height": 1024,
@@ -803,7 +803,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

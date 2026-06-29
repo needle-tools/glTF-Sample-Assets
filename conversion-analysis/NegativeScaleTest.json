@@ -160,7 +160,7 @@
         "texturePixels": {
           "source": 524288,
           "converted": 524288,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -306,7 +306,7 @@
         "texturePixels": {
           "source": 524288,
           "converted": 524288,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -329,10 +329,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 48,
@@ -369,7 +369,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_476_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.three-r185.usdz[textures/Texture_476_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.three.usdz[textures/Texture_476_false.png]",
             "size": 17232,
             "width": 512,
             "height": 512,
@@ -377,7 +377,7 @@
           },
           {
             "path": "textures/Texture_477_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.three-r185.usdz[textures/Texture_477_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.three.usdz[textures/Texture_477_false.png]",
             "size": 27998,
             "width": 512,
             "height": 512,
@@ -452,7 +452,7 @@
         "texturePixels": {
           "source": 524288,
           "converted": 524288,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -598,7 +598,7 @@
         "texturePixels": {
           "source": 524288,
           "converted": 524288,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -621,10 +621,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 43,
@@ -664,7 +664,7 @@
         "textureAssets": [
           {
             "path": "./textures/CheckAndX.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.blender-5-1.usdz[textures/CheckAndX.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.blender.usdz[textures/CheckAndX.png]",
             "size": 9775,
             "width": 512,
             "height": 512,
@@ -672,7 +672,7 @@
           },
           {
             "path": "./textures/NegativeScaleLabels2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.blender-5-1.usdz[textures/NegativeScaleLabels2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NegativeScaleTest/glTF-Binary/NegativeScaleTest.glb.blender.usdz[textures/NegativeScaleLabels2.png]",
             "size": 18982,
             "width": 512,
             "height": 512,
@@ -747,7 +747,7 @@
         "texturePixels": {
           "source": 524288,
           "converted": 524288,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

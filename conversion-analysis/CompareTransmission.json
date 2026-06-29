@@ -183,7 +183,7 @@
         "texturePixels": {
           "source": 6295552,
           "converted": 6295552,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -393,7 +393,7 @@
         "texturePixels": {
           "source": 6295552,
           "converted": 6295552,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -462,10 +462,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 49,
@@ -505,7 +505,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_371_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three-r185.usdz[textures/Texture_371_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three.usdz[textures/Texture_371_false.png]",
             "size": 297,
             "width": 64,
             "height": 64,
@@ -513,7 +513,7 @@
           },
           {
             "path": "textures/Texture_372_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three-r185.usdz[textures/Texture_372_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three.usdz[textures/Texture_372_false.png]",
             "size": 158556,
             "width": 2048,
             "height": 1024,
@@ -521,7 +521,7 @@
           },
           {
             "path": "textures/Texture_373_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three-r185.usdz[textures/Texture_373_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three.usdz[textures/Texture_373_false.jpg]",
             "size": 27659,
             "width": 2048,
             "height": 1024,
@@ -529,7 +529,7 @@
           },
           {
             "path": "textures/Texture_374_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three-r185.usdz[textures/Texture_374_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.three.usdz[textures/Texture_374_false.jpg]",
             "size": 43484,
             "width": 2048,
             "height": 1024,
@@ -604,7 +604,7 @@
         "texturePixels": {
           "source": 6295552,
           "converted": 6295552,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -815,7 +815,7 @@
         "texturePixels": {
           "source": 6295552,
           "converted": 6295552,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -884,10 +884,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 31,
@@ -928,7 +928,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 32730,
             "width": 2048,
             "height": 1024,
@@ -936,7 +936,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender.usdz[textures/Image_1.png]",
             "size": 30802,
             "width": 2048,
             "height": 1024,
@@ -944,7 +944,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender.usdz[textures/Image_2.png]",
             "size": 97,
             "width": 64,
             "height": 64,
@@ -952,7 +952,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareTransmission/glTF-Binary/CompareTransmission.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 15884,
             "width": 2048,
             "height": 1024,
@@ -1027,7 +1027,7 @@
         "texturePixels": {
           "source": 6295552,
           "converted": 6295552,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

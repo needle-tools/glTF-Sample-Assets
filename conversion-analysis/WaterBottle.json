@@ -182,7 +182,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -396,7 +396,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -469,10 +469,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 27,
@@ -512,7 +512,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_785_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three-r185.usdz[textures/Texture_785_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three.usdz[textures/Texture_785_false.png]",
             "size": 94732,
             "width": 2048,
             "height": 2048,
@@ -520,7 +520,7 @@
           },
           {
             "path": "textures/Texture_786_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three-r185.usdz[textures/Texture_786_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three.usdz[textures/Texture_786_false.png]",
             "size": 3172329,
             "width": 2048,
             "height": 2048,
@@ -528,7 +528,7 @@
           },
           {
             "path": "textures/Texture_787_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three-r185.usdz[textures/Texture_787_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three.usdz[textures/Texture_787_false.png]",
             "size": 4226861,
             "width": 2048,
             "height": 2048,
@@ -536,7 +536,7 @@
           },
           {
             "path": "textures/Texture_788_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three-r185.usdz[textures/Texture_788_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.three.usdz[textures/Texture_788_false.png]",
             "size": 4308146,
             "width": 2048,
             "height": 2048,
@@ -611,7 +611,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -826,7 +826,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -899,10 +899,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 11,
@@ -944,7 +944,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender.usdz[textures/Image_0.png]",
             "size": 2165850,
             "width": 2048,
             "height": 2048,
@@ -952,7 +952,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender.usdz[textures/Image_1.png]",
             "size": 3577832,
             "width": 2048,
             "height": 2048,
@@ -960,7 +960,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender.usdz[textures/Image_2.png]",
             "size": 3012733,
             "width": 2048,
             "height": 2048,
@@ -968,7 +968,7 @@
           },
           {
             "path": "./textures/Image_3.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/WaterBottle/glTF-Binary/WaterBottle.glb.blender.usdz[textures/Image_3.png]",
             "size": 59102,
             "width": 2048,
             "height": 2048,
@@ -1043,7 +1043,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

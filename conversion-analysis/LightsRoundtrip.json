@@ -37,10 +37,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsRoundtrip/glTF-Binary/LightsRoundtrip.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsRoundtrip/glTF-Binary/LightsRoundtrip.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsRoundtrip/glTF-Binary/LightsRoundtrip.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsRoundtrip/glTF-Binary/LightsRoundtrip.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 35,
@@ -497,10 +497,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsRoundtrip/glTF-Binary/LightsRoundtrip.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsRoundtrip/glTF-Binary/LightsRoundtrip.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsRoundtrip/glTF-Binary/LightsRoundtrip.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsRoundtrip/glTF-Binary/LightsRoundtrip.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 33,

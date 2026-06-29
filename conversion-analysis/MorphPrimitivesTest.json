@@ -152,7 +152,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -289,7 +289,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -312,10 +312,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 21,
@@ -352,7 +352,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_463_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.three-r185.usdz[textures/Texture_463_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.three.usdz[textures/Texture_463_false.jpg]",
             "size": 62387,
             "width": 512,
             "height": 512,
@@ -427,7 +427,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -565,7 +565,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -588,10 +588,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 18,
@@ -631,7 +631,7 @@
         "textureAssets": [
           {
             "path": "./textures/uv_texture.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.blender-5-1.usdz[textures/uv_texture.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MorphPrimitivesTest/glTF-Binary/MorphPrimitivesTest.glb.blender.usdz[textures/uv_texture.jpg]",
             "size": 49535,
             "width": 512,
             "height": 512,
@@ -706,7 +706,7 @@
         "texturePixels": {
           "source": 262144,
           "converted": 262144,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

@@ -152,7 +152,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -298,7 +298,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 8388608,
-          "ratio": 2.0,
+          "ratio": 2,
           "status": "present"
         },
         "materialFeatures": [
@@ -321,10 +321,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 33,
@@ -361,7 +361,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_266_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three-r185.usdz[textures/Texture_266_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.three.usdz[textures/Texture_266_false.jpg]",
             "size": 225559,
             "width": 2048,
             "height": 2048,
@@ -436,7 +436,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -574,7 +574,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -597,10 +597,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 26,
@@ -640,7 +640,7 @@
         "textureAssets": [
           {
             "path": "./textures/CesiumMilkTruck.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender-5-1.usdz[textures/CesiumMilkTruck.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMilkTruck/glTF-Binary/CesiumMilkTruck.glb.blender.usdz[textures/CesiumMilkTruck.jpg]",
             "size": 218979,
             "width": 2048,
             "height": 2048,
@@ -715,7 +715,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

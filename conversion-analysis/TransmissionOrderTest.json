@@ -176,7 +176,7 @@
         "texturePixels": {
           "source": 4325376,
           "converted": 4325376,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -440,10 +440,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 69,
@@ -482,7 +482,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_740_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three-r185.usdz[textures/Texture_740_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three.usdz[textures/Texture_740_false.png]",
             "size": 11279,
             "width": 256,
             "height": 256,
@@ -490,7 +490,7 @@
           },
           {
             "path": "textures/Texture_741_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three-r185.usdz[textures/Texture_741_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three.usdz[textures/Texture_741_false.png]",
             "size": 12989,
             "width": 256,
             "height": 256,
@@ -498,7 +498,7 @@
           },
           {
             "path": "textures/Texture_742_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three-r185.usdz[textures/Texture_742_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.three.usdz[textures/Texture_742_false.png]",
             "size": 90285,
             "width": 2048,
             "height": 2048,
@@ -573,7 +573,7 @@
         "texturePixels": {
           "source": 4325376,
           "converted": 4325376,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -768,7 +768,7 @@
         "texturePixels": {
           "source": 4325376,
           "converted": 4325376,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -830,10 +830,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 62,
@@ -873,7 +873,7 @@
         "textureAssets": [
           {
             "path": "./textures/BlendMaskOpaqueLabels.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender-5-1.usdz[textures/BlendMaskOpaqueLabels.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender.usdz[textures/BlendMaskOpaqueLabels.png]",
             "size": 3300,
             "width": 256,
             "height": 256,
@@ -881,7 +881,7 @@
           },
           {
             "path": "./textures/alphaInACircle.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender-5-1.usdz[textures/alphaInACircle.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender.usdz[textures/alphaInACircle.png]",
             "size": 4937,
             "width": 256,
             "height": 256,
@@ -889,7 +889,7 @@
           },
           {
             "path": "./textures/checkerboard.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender-5-1.usdz[textures/checkerboard.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionOrderTest/glTF-Binary/TransmissionOrderTest.glb.blender.usdz[textures/checkerboard.png]",
             "size": 2484,
             "width": 2048,
             "height": 2048,
@@ -964,7 +964,7 @@
         "texturePixels": {
           "source": 4325376,
           "converted": 4325376,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

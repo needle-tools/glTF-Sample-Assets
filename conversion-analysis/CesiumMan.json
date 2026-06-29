@@ -152,7 +152,7 @@
         "texturePixels": {
           "source": 1048576,
           "converted": 1048576,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -289,7 +289,7 @@
         "texturePixels": {
           "source": 1048576,
           "converted": 1048576,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -312,10 +312,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 33,
@@ -352,7 +352,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_265_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.three-r185.usdz[textures/Texture_265_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.three.usdz[textures/Texture_265_false.jpg]",
             "size": 117359,
             "width": 1024,
             "height": 1024,
@@ -427,7 +427,7 @@
         "texturePixels": {
           "source": 1048576,
           "converted": 1048576,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -565,7 +565,7 @@
         "texturePixels": {
           "source": 1048576,
           "converted": 1048576,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -588,10 +588,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 12,
@@ -631,7 +631,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CesiumMan/glTF-Binary/CesiumMan.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 157013,
             "width": 1024,
             "height": 1024,
@@ -706,7 +706,7 @@
         "texturePixels": {
           "source": 1048576,
           "converted": 1048576,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

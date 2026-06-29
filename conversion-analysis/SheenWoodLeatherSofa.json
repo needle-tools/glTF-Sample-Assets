@@ -367,10 +367,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 113,
@@ -411,7 +411,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_641_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_641_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_641_false.png]",
             "size": 93261,
             "width": 256,
             "height": 256,
@@ -419,7 +419,7 @@
           },
           {
             "path": "textures/Texture_643_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_643_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_643_false.png]",
             "size": 62568,
             "width": 256,
             "height": 128,
@@ -427,7 +427,7 @@
           },
           {
             "path": "textures/Texture_644_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_644_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_644_false.png]",
             "size": 145007,
             "width": 256,
             "height": 256,
@@ -435,7 +435,7 @@
           },
           {
             "path": "textures/Texture_646_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_646_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_646_false.png]",
             "size": 27816,
             "width": 128,
             "height": 128,
@@ -443,7 +443,7 @@
           },
           {
             "path": "textures/Texture_648_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_648_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_648_false.png]",
             "size": 193287,
             "width": 512,
             "height": 512,
@@ -451,7 +451,7 @@
           },
           {
             "path": "textures/Texture_649_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_649_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_649_false.png]",
             "size": 437643,
             "width": 512,
             "height": 512,
@@ -459,7 +459,7 @@
           },
           {
             "path": "textures/Texture_652_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_652_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_652_false.png]",
             "size": 289057,
             "width": 512,
             "height": 256,
@@ -467,7 +467,7 @@
           },
           {
             "path": "textures/Texture_653_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_653_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_653_false.png]",
             "size": 354425,
             "width": 512,
             "height": 512,
@@ -475,7 +475,7 @@
           },
           {
             "path": "textures/Texture_654_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_654_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_654_false.png]",
             "size": 619278,
             "width": 512,
             "height": 512,
@@ -483,7 +483,7 @@
           },
           {
             "path": "textures/Texture_657_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_657_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_657_false.png]",
             "size": 2874959,
             "width": 2048,
             "height": 2048,
@@ -491,7 +491,7 @@
           },
           {
             "path": "textures/Texture_658_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_658_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_658_false.png]",
             "size": 2773757,
             "width": 1024,
             "height": 1024,
@@ -499,7 +499,7 @@
           },
           {
             "path": "textures/Texture_660_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_660_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_660_false.png]",
             "size": 2841804,
             "width": 1024,
             "height": 1024,
@@ -507,7 +507,7 @@
           },
           {
             "path": "textures/Texture_662_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three-r185.usdz[textures/Texture_662_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb.three.usdz[textures/Texture_662_false.png]",
             "size": 4472036,
             "width": 2048,
             "height": 2048,

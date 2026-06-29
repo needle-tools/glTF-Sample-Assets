@@ -149,10 +149,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightVisibility/glTF-Binary/LightVisibility.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 20,

@@ -194,7 +194,7 @@
         "texturePixels": {
           "source": 401408,
           "converted": 401408,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -507,10 +507,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 87,
@@ -549,7 +549,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_743_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three-r185.usdz[textures/Texture_743_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three.usdz[textures/Texture_743_false.png]",
             "size": 313,
             "width": 64,
             "height": 64,
@@ -557,7 +557,7 @@
           },
           {
             "path": "textures/Texture_744_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three-r185.usdz[textures/Texture_744_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three.usdz[textures/Texture_744_false.png]",
             "size": 313,
             "width": 64,
             "height": 64,
@@ -565,7 +565,7 @@
           },
           {
             "path": "textures/Texture_745_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three-r185.usdz[textures/Texture_745_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three.usdz[textures/Texture_745_false.png]",
             "size": 30667,
             "width": 512,
             "height": 512,
@@ -573,7 +573,7 @@
           },
           {
             "path": "textures/Texture_746_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three-r185.usdz[textures/Texture_746_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three.usdz[textures/Texture_746_false.png]",
             "size": 8240,
             "width": 256,
             "height": 256,
@@ -581,7 +581,7 @@
           },
           {
             "path": "textures/Texture_747_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three-r185.usdz[textures/Texture_747_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.three.usdz[textures/Texture_747_false.png]",
             "size": 28894,
             "width": 256,
             "height": 256,
@@ -656,7 +656,7 @@
         "texturePixels": {
           "source": 401408,
           "converted": 401408,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -871,7 +871,7 @@
         "texturePixels": {
           "source": 401408,
           "converted": 401408,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -937,10 +937,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 57,
@@ -980,7 +980,7 @@
         "textureAssets": [
           {
             "path": "./textures/GridWithDetails.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender-5-1.usdz[textures/GridWithDetails.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender.usdz[textures/GridWithDetails.png]",
             "size": 27613,
             "width": 256,
             "height": 256,
@@ -988,7 +988,7 @@
           },
           {
             "path": "./textures/IOR_Labels.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender-5-1.usdz[textures/IOR_Labels.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender.usdz[textures/IOR_Labels.png]",
             "size": 21200,
             "width": 512,
             "height": 512,
@@ -996,7 +996,7 @@
           },
           {
             "path": "./textures/RoughnessGrid.001.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender-5-1.usdz[textures/RoughnessGrid.001.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender.usdz[textures/RoughnessGrid.001.png]",
             "size": 290,
             "width": 64,
             "height": 64,
@@ -1004,7 +1004,7 @@
           },
           {
             "path": "./textures/RoughnessGrid.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender-5-1.usdz[textures/RoughnessGrid.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender.usdz[textures/RoughnessGrid.png]",
             "size": 184,
             "width": 64,
             "height": 64,
@@ -1012,7 +1012,7 @@
           },
           {
             "path": "./textures/SmoothVsRough.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender-5-1.usdz[textures/SmoothVsRough.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransmissionRoughnessTest/glTF-Binary/TransmissionRoughnessTest.glb.blender.usdz[textures/SmoothVsRough.png]",
             "size": 5285,
             "width": 256,
             "height": 256,
@@ -1087,7 +1087,7 @@
         "texturePixels": {
           "source": 401408,
           "converted": 401408,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

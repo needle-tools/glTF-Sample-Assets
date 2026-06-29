@@ -488,10 +488,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 31,
@@ -531,7 +531,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_423_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three-r185.usdz[textures/Texture_423_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three.usdz[textures/Texture_423_false.png]",
             "size": 868160,
             "width": 1024,
             "height": 1024,
@@ -539,7 +539,7 @@
           },
           {
             "path": "textures/Texture_424_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three-r185.usdz[textures/Texture_424_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three.usdz[textures/Texture_424_false.jpg]",
             "size": 57170,
             "width": 1024,
             "height": 1024,
@@ -547,7 +547,7 @@
           },
           {
             "path": "textures/Texture_425_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three-r185.usdz[textures/Texture_425_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.three.usdz[textures/Texture_425_false.jpg]",
             "size": 176208,
             "width": 1024,
             "height": 1024,
@@ -932,10 +932,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 20,
@@ -976,7 +976,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 503515,
             "width": 1024,
             "height": 1024,
@@ -984,7 +984,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender.usdz[textures/Image_1.png]",
             "size": 939409,
             "width": 1024,
             "height": 1024,
@@ -992,7 +992,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/GlassVaseFlowers/glTF-Binary/GlassVaseFlowers.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 190747,
             "width": 1024,
             "height": 1024,

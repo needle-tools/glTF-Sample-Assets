@@ -41,10 +41,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 67,
@@ -81,7 +81,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_5_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz[textures/Texture_5_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three.usdz[textures/Texture_5_false.png]",
             "size": 5208,
             "width": 64,
             "height": 64,
@@ -89,7 +89,7 @@
           },
           {
             "path": "textures/Texture_6_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz[textures/Texture_6_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three.usdz[textures/Texture_6_false.png]",
             "size": 27057,
             "width": 256,
             "height": 256,
@@ -97,7 +97,7 @@
           },
           {
             "path": "textures/Texture_7_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz[textures/Texture_7_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three.usdz[textures/Texture_7_false.png]",
             "size": 26234,
             "width": 256,
             "height": 256,
@@ -105,7 +105,7 @@
           },
           {
             "path": "textures/Texture_8_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three-r185.usdz[textures/Texture_8_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.three.usdz[textures/Texture_8_false.png]",
             "size": 224435,
             "width": 2048,
             "height": 2048,
@@ -180,7 +180,7 @@
         "texturePixels": {
           "source": 4329472,
           "converted": 4329472,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -362,7 +362,7 @@
         "texturePixels": {
           "source": 4329472,
           "converted": 4329472,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -545,7 +545,7 @@
         "texturePixels": {
           "source": 4329472,
           "converted": 4329472,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -728,7 +728,7 @@
         "texturePixels": {
           "source": 4329472,
           "converted": 4329472,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -771,10 +771,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 56,
@@ -814,7 +814,7 @@
         "textureAssets": [
           {
             "path": "./textures/BlackGradient.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz[textures/BlackGradient.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender.usdz[textures/BlackGradient.png]",
             "size": 27244,
             "width": 256,
             "height": 256,
@@ -822,7 +822,7 @@
           },
           {
             "path": "./textures/Default-Particle.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz[textures/Default-Particle.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender.usdz[textures/Default-Particle.png]",
             "size": 4724,
             "width": 64,
             "height": 64,
@@ -830,7 +830,7 @@
           },
           {
             "path": "./textures/WhiteGradient.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender-5-1.usdz[textures/WhiteGradient.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TransparentGradients/glTF-Binary/TransparentGradients.glb.blender.usdz[textures/WhiteGradient.png]",
             "size": 28608,
             "width": 256,
             "height": 256,

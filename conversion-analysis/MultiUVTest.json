@@ -161,7 +161,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -319,7 +319,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -354,10 +354,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 17,
@@ -395,7 +395,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_473_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.three-r185.usdz[textures/Texture_473_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.three.usdz[textures/Texture_473_false.png]",
             "size": 36313,
             "width": 1024,
             "height": 1024,
@@ -403,7 +403,7 @@
           },
           {
             "path": "textures/Texture_474_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.three-r185.usdz[textures/Texture_474_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.three.usdz[textures/Texture_474_false.png]",
             "size": 62092,
             "width": 1024,
             "height": 1024,
@@ -478,7 +478,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -637,7 +637,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -672,10 +672,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 13,
@@ -716,7 +716,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.blender.usdz[textures/Image_0.png]",
             "size": 15150,
             "width": 1024,
             "height": 1024,
@@ -724,7 +724,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MultiUVTest/glTF-Binary/MultiUVTest.glb.blender.usdz[textures/Image_1.png]",
             "size": 24001,
             "width": 1024,
             "height": 1024,
@@ -799,7 +799,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

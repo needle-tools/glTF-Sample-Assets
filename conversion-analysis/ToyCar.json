@@ -224,7 +224,7 @@
         "texturePixels": {
           "source": 6815744,
           "converted": 6815744,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -501,7 +501,7 @@
         "texturePixels": {
           "source": 6815744,
           "converted": 6815744,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -603,10 +603,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 55,
@@ -648,7 +648,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_729_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz[textures/Texture_729_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz[textures/Texture_729_false.png]",
             "size": 61641,
             "width": 1024,
             "height": 1024,
@@ -656,7 +656,7 @@
           },
           {
             "path": "textures/Texture_730_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz[textures/Texture_730_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz[textures/Texture_730_false.png]",
             "size": 157020,
             "width": 1024,
             "height": 1024,
@@ -664,7 +664,7 @@
           },
           {
             "path": "textures/Texture_731_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz[textures/Texture_731_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz[textures/Texture_731_false.png]",
             "size": 575027,
             "width": 512,
             "height": 512,
@@ -672,7 +672,7 @@
           },
           {
             "path": "textures/Texture_733_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz[textures/Texture_733_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz[textures/Texture_733_false.png]",
             "size": 351695,
             "width": 1024,
             "height": 1024,
@@ -680,7 +680,7 @@
           },
           {
             "path": "textures/Texture_734_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz[textures/Texture_734_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz[textures/Texture_734_false.png]",
             "size": 499207,
             "width": 512,
             "height": 512,
@@ -688,7 +688,7 @@
           },
           {
             "path": "textures/Texture_736_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz[textures/Texture_736_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz[textures/Texture_736_false.png]",
             "size": 170933,
             "width": 1024,
             "height": 1024,
@@ -696,7 +696,7 @@
           },
           {
             "path": "textures/Texture_737_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz[textures/Texture_737_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz[textures/Texture_737_false.png]",
             "size": 533239,
             "width": 1024,
             "height": 1024,
@@ -704,7 +704,7 @@
           },
           {
             "path": "textures/Texture_739_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three-r185.usdz[textures/Texture_739_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.three.usdz[textures/Texture_739_false.png]",
             "size": 793788,
             "width": 1024,
             "height": 1024,
@@ -779,7 +779,7 @@
         "texturePixels": {
           "source": 6815744,
           "converted": 6815744,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -1151,10 +1151,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 42,
@@ -1196,7 +1196,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz[textures/Image_0.png]",
             "size": 98429,
             "width": 1024,
             "height": 1024,
@@ -1204,7 +1204,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz[textures/Image_1.png]",
             "size": 83739,
             "width": 1024,
             "height": 1024,
@@ -1212,7 +1212,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz[textures/Image_2.png]",
             "size": 196648,
             "width": 1024,
             "height": 1024,
@@ -1220,7 +1220,7 @@
           },
           {
             "path": "./textures/Image_3.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz[textures/Image_3.png]",
             "size": 457137,
             "width": 1024,
             "height": 1024,
@@ -1228,7 +1228,7 @@
           },
           {
             "path": "./textures/Image_4.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz[textures/Image_4.png]",
             "size": 294759,
             "width": 512,
             "height": 512,
@@ -1236,7 +1236,7 @@
           },
           {
             "path": "./textures/Image_6.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz[textures/Image_6.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz[textures/Image_6.png]",
             "size": 412812,
             "width": 512,
             "height": 512,
@@ -1244,7 +1244,7 @@
           },
           {
             "path": "./textures/Image_7.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender-5-1.usdz[textures/Image_7.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ToyCar/glTF-Binary/ToyCar.glb.blender.usdz[textures/Image_7.png]",
             "size": 15362,
             "width": 1024,
             "height": 1024,

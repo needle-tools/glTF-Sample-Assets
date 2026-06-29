@@ -218,7 +218,7 @@
         "texturePixels": {
           "source": 23330816,
           "converted": 23330816,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -475,7 +475,7 @@
         "texturePixels": {
           "source": 23330816,
           "converted": 23330816,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -558,10 +558,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 43,
@@ -603,7 +603,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_604_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_604_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz[textures/Texture_604_false.jpg]",
             "size": 20464,
             "width": 512,
             "height": 512,
@@ -611,7 +611,7 @@
           },
           {
             "path": "textures/Texture_605_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_605_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz[textures/Texture_605_false.jpg]",
             "size": 48337,
             "width": 1024,
             "height": 1024,
@@ -619,7 +619,7 @@
           },
           {
             "path": "textures/Texture_606_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_606_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz[textures/Texture_606_false.jpg]",
             "size": 48684,
             "width": 1024,
             "height": 1024,
@@ -627,7 +627,7 @@
           },
           {
             "path": "textures/Texture_607_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_607_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz[textures/Texture_607_false.jpg]",
             "size": 388873,
             "width": 2048,
             "height": 2048,
@@ -635,7 +635,7 @@
           },
           {
             "path": "textures/Texture_608_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_608_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz[textures/Texture_608_false.jpg]",
             "size": 347387,
             "width": 2048,
             "height": 2048,
@@ -643,7 +643,7 @@
           },
           {
             "path": "textures/Texture_609_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_609_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz[textures/Texture_609_false.png]",
             "size": 1006629,
             "width": 2048,
             "height": 2048,
@@ -651,7 +651,7 @@
           },
           {
             "path": "textures/Texture_610_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_610_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz[textures/Texture_610_false.jpg]",
             "size": 390939,
             "width": 2048,
             "height": 2048,
@@ -659,7 +659,7 @@
           },
           {
             "path": "textures/Texture_611_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three-r185.usdz[textures/Texture_611_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.three.usdz[textures/Texture_611_false.jpg]",
             "size": 1224783,
             "width": 2048,
             "height": 2048,
@@ -734,7 +734,7 @@
         "texturePixels": {
           "source": 23330816,
           "converted": 23330816,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -1068,10 +1068,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 19,
@@ -1113,7 +1113,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 266023,
             "width": 2048,
             "height": 2048,
@@ -1121,7 +1121,7 @@
           },
           {
             "path": "./textures/Image_1.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz[textures/Image_1.jpg]",
             "size": 1279882,
             "width": 2048,
             "height": 2048,
@@ -1129,7 +1129,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 49538,
             "width": 1024,
             "height": 1024,
@@ -1137,7 +1137,7 @@
           },
           {
             "path": "./textures/Image_4.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz[textures/Image_4.jpg]",
             "size": 303513,
             "width": 2048,
             "height": 2048,
@@ -1145,7 +1145,7 @@
           },
           {
             "path": "./textures/Image_5.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz[textures/Image_5.png]",
             "size": 486703,
             "width": 2048,
             "height": 2048,
@@ -1153,7 +1153,7 @@
           },
           {
             "path": "./textures/Image_6.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_6.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz[textures/Image_6.jpg]",
             "size": 286676,
             "width": 2048,
             "height": 2048,
@@ -1161,7 +1161,7 @@
           },
           {
             "path": "./textures/Image_7.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender-5-1.usdz[textures/Image_7.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb.blender.usdz[textures/Image_7.jpg]",
             "size": 34760,
             "width": 1024,
             "height": 1024,

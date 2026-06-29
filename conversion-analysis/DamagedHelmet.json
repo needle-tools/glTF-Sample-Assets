@@ -190,7 +190,7 @@
         "texturePixels": {
           "source": 20971520,
           "converted": 20971520,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -412,7 +412,7 @@
         "texturePixels": {
           "source": 20971520,
           "converted": 20971520,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -485,10 +485,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 27,
@@ -528,7 +528,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_382_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three-r185.usdz[textures/Texture_382_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three.usdz[textures/Texture_382_false.jpg]",
             "size": 67688,
             "width": 2048,
             "height": 2048,
@@ -536,7 +536,7 @@
           },
           {
             "path": "textures/Texture_383_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three-r185.usdz[textures/Texture_383_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three.usdz[textures/Texture_383_false.jpg]",
             "size": 378378,
             "width": 2048,
             "height": 2048,
@@ -544,7 +544,7 @@
           },
           {
             "path": "textures/Texture_384_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three-r185.usdz[textures/Texture_384_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three.usdz[textures/Texture_384_false.jpg]",
             "size": 402643,
             "width": 2048,
             "height": 2048,
@@ -552,7 +552,7 @@
           },
           {
             "path": "textures/Texture_385_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three-r185.usdz[textures/Texture_385_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three.usdz[textures/Texture_385_false.jpg]",
             "size": 1076612,
             "width": 2048,
             "height": 2048,
@@ -560,7 +560,7 @@
           },
           {
             "path": "textures/Texture_386_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three-r185.usdz[textures/Texture_386_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.three.usdz[textures/Texture_386_false.jpg]",
             "size": 953149,
             "width": 2048,
             "height": 2048,
@@ -635,7 +635,7 @@
         "texturePixels": {
           "source": 20971520,
           "converted": 20971520,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -858,7 +858,7 @@
         "texturePixels": {
           "source": 20971520,
           "converted": 20971520,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -931,10 +931,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 11,
@@ -976,7 +976,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 935629,
             "width": 2048,
             "height": 2048,
@@ -984,7 +984,7 @@
           },
           {
             "path": "./textures/Image_1.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender.usdz[textures/Image_1.jpg]",
             "size": 1300661,
             "width": 2048,
             "height": 2048,
@@ -992,7 +992,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 97499,
             "width": 2048,
             "height": 2048,
@@ -1000,7 +1000,7 @@
           },
           {
             "path": "./textures/Image_4.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb.blender.usdz[textures/Image_4.jpg]",
             "size": 517757,
             "width": 2048,
             "height": 2048,

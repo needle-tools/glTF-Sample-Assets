@@ -152,7 +152,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -289,7 +289,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -312,10 +312,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 13,
@@ -352,7 +352,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_219_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.three-r185.usdz[textures/Texture_219_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.three.usdz[textures/Texture_219_false.png]",
             "size": 14253,
             "width": 256,
             "height": 256,
@@ -427,7 +427,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -565,7 +565,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -588,10 +588,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 9,
@@ -631,7 +631,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/BoxTextured/glTF-Binary/BoxTextured.glb.blender.usdz[textures/Image_0.png]",
             "size": 3750,
             "width": 256,
             "height": 256,
@@ -706,7 +706,7 @@
         "texturePixels": {
           "source": 65536,
           "converted": 65536,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

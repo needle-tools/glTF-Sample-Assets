@@ -42,10 +42,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 261,
@@ -83,7 +83,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_15_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three-r185.usdz[textures/Texture_15_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three.usdz[textures/Texture_15_false.jpg]",
             "size": 139012,
             "width": 1024,
             "height": 512,
@@ -91,7 +91,7 @@
           },
           {
             "path": "textures/Texture_26_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three-r185.usdz[textures/Texture_26_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three.usdz[textures/Texture_26_false.jpg]",
             "size": 139012,
             "width": 1024,
             "height": 512,
@@ -99,7 +99,7 @@
           },
           {
             "path": "textures/Texture_39_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three-r185.usdz[textures/Texture_39_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three.usdz[textures/Texture_39_false.jpg]",
             "size": 139012,
             "width": 1024,
             "height": 512,
@@ -107,7 +107,7 @@
           },
           {
             "path": "textures/Texture_41_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three-r185.usdz[textures/Texture_41_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three.usdz[textures/Texture_41_false.jpg]",
             "size": 139012,
             "width": 1024,
             "height": 512,
@@ -115,7 +115,7 @@
           },
           {
             "path": "textures/Texture_5_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three-r185.usdz[textures/Texture_5_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three.usdz[textures/Texture_5_false.jpg]",
             "size": 139012,
             "width": 1024,
             "height": 512,
@@ -123,7 +123,7 @@
           },
           {
             "path": "textures/Texture_8_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three-r185.usdz[textures/Texture_8_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.three.usdz[textures/Texture_8_false.jpg]",
             "size": 139012,
             "width": 1024,
             "height": 512,
@@ -198,7 +198,7 @@
         "texturePixels": {
           "source": 3145728,
           "converted": 3145728,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -399,7 +399,7 @@
         "texturePixels": {
           "source": 3145728,
           "converted": 3145728,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -600,7 +600,7 @@
         "texturePixels": {
           "source": 3145728,
           "converted": 3145728,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -800,7 +800,7 @@
         "texturePixels": {
           "source": 3145728,
           "converted": 3145728,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -845,10 +845,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 210,
@@ -889,7 +889,7 @@
         "textureAssets": [
           {
             "path": "./textures/cat_03_clamp.001.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender-5-1.usdz[textures/cat_03_clamp.001.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender.usdz[textures/cat_03_clamp.001.jpg]",
             "size": 137540,
             "width": 1024,
             "height": 512,
@@ -897,7 +897,7 @@
           },
           {
             "path": "./textures/cat_03_clamp.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender-5-1.usdz[textures/cat_03_clamp.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender.usdz[textures/cat_03_clamp.jpg]",
             "size": 137540,
             "width": 1024,
             "height": 512,
@@ -905,7 +905,7 @@
           },
           {
             "path": "./textures/cat_03_mirror.001.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender-5-1.usdz[textures/cat_03_mirror.001.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender.usdz[textures/cat_03_mirror.001.jpg]",
             "size": 137540,
             "width": 1024,
             "height": 512,
@@ -913,7 +913,7 @@
           },
           {
             "path": "./textures/cat_03_mirror.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender-5-1.usdz[textures/cat_03_mirror.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender.usdz[textures/cat_03_mirror.jpg]",
             "size": 137540,
             "width": 1024,
             "height": 512,
@@ -921,7 +921,7 @@
           },
           {
             "path": "./textures/cat_03_repeat.001.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender-5-1.usdz[textures/cat_03_repeat.001.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender.usdz[textures/cat_03_repeat.001.jpg]",
             "size": 137540,
             "width": 1024,
             "height": 512,
@@ -929,7 +929,7 @@
           },
           {
             "path": "./textures/cat_03_repeat.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender-5-1.usdz[textures/cat_03_repeat.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/TextureWrapModes/glTF-Binary/TextureWrapModes.glb.blender.usdz[textures/cat_03_repeat.jpg]",
             "size": 137540,
             "width": 1024,
             "height": 512,
@@ -1004,7 +1004,7 @@
         "texturePixels": {
           "source": 3145728,
           "converted": 3145728,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

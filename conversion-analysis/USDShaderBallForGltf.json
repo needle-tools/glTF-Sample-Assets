@@ -417,10 +417,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 28,
@@ -460,7 +460,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_758_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three-r185.usdz[textures/Texture_758_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three.usdz[textures/Texture_758_false.png]",
             "size": 7440,
             "width": 64,
             "height": 512,
@@ -468,7 +468,7 @@
           },
           {
             "path": "textures/Texture_759_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three-r185.usdz[textures/Texture_759_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three.usdz[textures/Texture_759_false.png]",
             "size": 89208,
             "width": 512,
             "height": 512,
@@ -476,7 +476,7 @@
           },
           {
             "path": "textures/Texture_760_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three-r185.usdz[textures/Texture_760_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.three.usdz[textures/Texture_760_false.png]",
             "size": 114203,
             "width": 512,
             "height": 512,
@@ -793,10 +793,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 18,
@@ -836,7 +836,7 @@
         "textureAssets": [
           {
             "path": "./textures/sss_bars.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.blender-5-1.usdz[textures/sss_bars.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/USDShaderBallForGltf/glTF-Binary/USDShaderBallForGltf.glb.blender.usdz[textures/sss_bars.png]",
             "size": 7440,
             "width": 64,
             "height": 512,

@@ -368,10 +368,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 105,
@@ -410,7 +410,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_674_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.three-r185.usdz[textures/Texture_674_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.three.usdz[textures/Texture_674_false.png]",
             "size": 42872,
             "width": 512,
             "height": 512,
@@ -668,10 +668,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 103,
@@ -711,7 +711,7 @@
         "textureAssets": [
           {
             "path": "./textures/LeftLabels.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.blender-5-1.usdz[textures/LeftLabels.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.blender.usdz[textures/LeftLabels.png]",
             "size": 30517,
             "width": 512,
             "height": 512,
@@ -719,7 +719,7 @@
           },
           {
             "path": "./textures/specularTextureGrid.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.blender-5-1.usdz[textures/specularTextureGrid.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SpecularTest/glTF-Binary/SpecularTest.glb.blender.usdz[textures/specularTextureGrid.png]",
             "size": 242,
             "width": 64,
             "height": 64,

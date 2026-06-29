@@ -402,10 +402,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 16,
@@ -444,7 +444,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_406_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.three-r185.usdz[textures/Texture_406_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.three.usdz[textures/Texture_406_false.png]",
             "size": 2500,
             "width": 256,
             "height": 256,
@@ -758,10 +758,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 12,
@@ -801,7 +801,7 @@
         "textureAssets": [
           {
             "path": "./textures/CheckerWithLines.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.blender-5-1.usdz[textures/CheckerWithLines.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DragonDispersion/glTF-Binary/DragonDispersion.glb.blender.usdz[textures/CheckerWithLines.png]",
             "size": 682,
             "width": 256,
             "height": 256,

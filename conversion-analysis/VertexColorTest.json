@@ -160,7 +160,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -305,7 +305,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -328,10 +328,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 19,
@@ -368,7 +368,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_763_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.three-r185.usdz[textures/Texture_763_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.three.usdz[textures/Texture_763_false.png]",
             "size": 10281,
             "width": 256,
             "height": 256,
@@ -376,7 +376,7 @@
           },
           {
             "path": "textures/Texture_764_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.three-r185.usdz[textures/Texture_764_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.three.usdz[textures/Texture_764_false.png]",
             "size": 10221,
             "width": 256,
             "height": 256,
@@ -451,7 +451,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -597,7 +597,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -620,10 +620,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 14,
@@ -663,7 +663,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.blender.usdz[textures/Image_0.png]",
             "size": 9674,
             "width": 256,
             "height": 256,
@@ -671,7 +671,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/VertexColorTest/glTF-Binary/VertexColorTest.glb.blender.usdz[textures/Image_1.png]",
             "size": 8658,
             "width": 256,
             "height": 256,
@@ -746,7 +746,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

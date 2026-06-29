@@ -210,7 +210,7 @@
         "texturePixels": {
           "source": 2883584,
           "converted": 2883584,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -446,7 +446,7 @@
         "texturePixels": {
           "source": 2883584,
           "converted": 2883584,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -517,10 +517,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 51,
@@ -561,7 +561,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_625_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_625_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three.usdz[textures/Texture_625_false.png]",
             "size": 331549,
             "width": 512,
             "height": 512,
@@ -569,7 +569,7 @@
           },
           {
             "path": "textures/Texture_627_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_627_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three.usdz[textures/Texture_627_false.png]",
             "size": 280603,
             "width": 512,
             "height": 512,
@@ -577,7 +577,7 @@
           },
           {
             "path": "textures/Texture_629_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_629_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three.usdz[textures/Texture_629_false.png]",
             "size": 291193,
             "width": 512,
             "height": 512,
@@ -585,7 +585,7 @@
           },
           {
             "path": "textures/Texture_632_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_632_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three.usdz[textures/Texture_632_false.png]",
             "size": 235966,
             "width": 512,
             "height": 512,
@@ -593,7 +593,7 @@
           },
           {
             "path": "textures/Texture_637_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_637_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three.usdz[textures/Texture_637_false.png]",
             "size": 924782,
             "width": 1024,
             "height": 512,
@@ -601,7 +601,7 @@
           },
           {
             "path": "textures/Texture_638_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three-r185.usdz[textures/Texture_638_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.three.usdz[textures/Texture_638_false.png]",
             "size": 2413627,
             "width": 1024,
             "height": 1024,
@@ -977,10 +977,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 33,
@@ -1021,7 +1021,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender.usdz[textures/Image_0.png]",
             "size": 1744462,
             "width": 1024,
             "height": 1024,
@@ -1029,7 +1029,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender.usdz[textures/Image_2.png]",
             "size": 133702,
             "width": 512,
             "height": 512,
@@ -1037,7 +1037,7 @@
           },
           {
             "path": "./textures/Image_3.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender.usdz[textures/Image_3.png]",
             "size": 181170,
             "width": 512,
             "height": 512,
@@ -1045,7 +1045,7 @@
           },
           {
             "path": "./textures/Image_4.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender.usdz[textures/Image_4.png]",
             "size": 146100,
             "width": 512,
             "height": 512,
@@ -1053,7 +1053,7 @@
           },
           {
             "path": "./textures/Image_5.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SheenChair/glTF-Binary/SheenChair.glb.blender.usdz[textures/Image_5.png]",
             "size": 567793,
             "width": 1024,
             "height": 512,

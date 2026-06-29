@@ -227,7 +227,7 @@
         "texturePixels": {
           "source": 2375680,
           "converted": 2375680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -488,7 +488,7 @@
         "texturePixels": {
           "source": 2375680,
           "converted": 2375680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -568,10 +568,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 80,
@@ -612,7 +612,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_267_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_267_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_267_false.jpg]",
             "size": 6934,
             "width": 128,
             "height": 128,
@@ -620,7 +620,7 @@
           },
           {
             "path": "textures/Texture_270_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_270_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_270_false.jpg]",
             "size": 66847,
             "width": 512,
             "height": 512,
@@ -628,7 +628,7 @@
           },
           {
             "path": "textures/Texture_275_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_275_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_275_false.jpg]",
             "size": 105366,
             "width": 512,
             "height": 512,
@@ -636,7 +636,7 @@
           },
           {
             "path": "textures/Texture_277_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_277_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_277_false.jpg]",
             "size": 77556,
             "width": 512,
             "height": 512,
@@ -644,7 +644,7 @@
           },
           {
             "path": "textures/Texture_279_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_279_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_279_false.jpg]",
             "size": 53282,
             "width": 512,
             "height": 512,
@@ -652,7 +652,7 @@
           },
           {
             "path": "textures/Texture_282_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_282_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_282_false.jpg]",
             "size": 37444,
             "width": 512,
             "height": 512,
@@ -660,7 +660,7 @@
           },
           {
             "path": "textures/Texture_284_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_284_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_284_false.jpg]",
             "size": 103209,
             "width": 512,
             "height": 512,
@@ -668,7 +668,7 @@
           },
           {
             "path": "textures/Texture_286_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_286_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_286_false.jpg]",
             "size": 76057,
             "width": 512,
             "height": 512,
@@ -676,7 +676,7 @@
           },
           {
             "path": "textures/Texture_289_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three-r185.usdz[textures/Texture_289_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.three.usdz[textures/Texture_289_false.jpg]",
             "size": 143337,
             "width": 1024,
             "height": 512,
@@ -751,7 +751,7 @@
         "texturePixels": {
           "source": 2375680,
           "converted": 2375680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -1014,7 +1014,7 @@
         "texturePixels": {
           "source": 2375680,
           "converted": 2375680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -1094,10 +1094,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 55,
@@ -1138,7 +1138,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 185105,
             "width": 512,
             "height": 512,
@@ -1146,7 +1146,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 178538,
             "width": 512,
             "height": 512,
@@ -1154,7 +1154,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 183109,
             "width": 512,
             "height": 512,
@@ -1162,7 +1162,7 @@
           },
           {
             "path": "./textures/Image_4.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz[textures/Image_4.jpg]",
             "size": 16238,
             "width": 128,
             "height": 128,
@@ -1170,7 +1170,7 @@
           },
           {
             "path": "./textures/Image_5.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_5.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz[textures/Image_5.jpg]",
             "size": 252354,
             "width": 512,
             "height": 512,
@@ -1178,7 +1178,7 @@
           },
           {
             "path": "./textures/Image_6.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_6.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz[textures/Image_6.jpg]",
             "size": 184418,
             "width": 512,
             "height": 512,
@@ -1186,7 +1186,7 @@
           },
           {
             "path": "./textures/Image_7.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_7.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz[textures/Image_7.jpg]",
             "size": 283353,
             "width": 512,
             "height": 512,
@@ -1194,7 +1194,7 @@
           },
           {
             "path": "./textures/Image_8.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender-5-1.usdz[textures/Image_8.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb.blender.usdz[textures/Image_8.jpg]",
             "size": 298637,
             "width": 1024,
             "height": 512,

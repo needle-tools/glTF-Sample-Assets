@@ -967,10 +967,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 750,
@@ -1012,7 +1012,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_130_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three-r185.usdz[textures/Texture_130_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three.usdz[textures/Texture_130_false.png]",
             "size": 417401,
             "width": 512,
             "height": 512,
@@ -1020,7 +1020,7 @@
           },
           {
             "path": "textures/Texture_136_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three-r185.usdz[textures/Texture_136_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three.usdz[textures/Texture_136_false.png]",
             "size": 405784,
             "width": 512,
             "height": 512,
@@ -1028,7 +1028,7 @@
           },
           {
             "path": "textures/Texture_42_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three-r185.usdz[textures/Texture_42_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three.usdz[textures/Texture_42_false.png]",
             "size": 105,
             "width": 4,
             "height": 4,
@@ -1036,7 +1036,7 @@
           },
           {
             "path": "textures/Texture_43_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three-r185.usdz[textures/Texture_43_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three.usdz[textures/Texture_43_false.png]",
             "size": 33052,
             "width": 512,
             "height": 512,
@@ -1044,7 +1044,7 @@
           },
           {
             "path": "textures/Texture_50_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three-r185.usdz[textures/Texture_50_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three.usdz[textures/Texture_50_false.png]",
             "size": 162958,
             "width": 512,
             "height": 512,
@@ -1052,7 +1052,7 @@
           },
           {
             "path": "textures/Texture_82_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three-r185.usdz[textures/Texture_82_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb.three.usdz[textures/Texture_82_false.png]",
             "size": 248602,
             "width": 512,
             "height": 512,

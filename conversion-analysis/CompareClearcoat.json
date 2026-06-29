@@ -168,7 +168,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -349,7 +349,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -406,10 +406,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 44,
@@ -448,7 +448,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_349_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.three-r185.usdz[textures/Texture_349_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.three.usdz[textures/Texture_349_false.jpg]",
             "size": 30051,
             "width": 2048,
             "height": 1024,
@@ -456,7 +456,7 @@
           },
           {
             "path": "textures/Texture_350_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.three-r185.usdz[textures/Texture_350_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.three.usdz[textures/Texture_350_false.jpg]",
             "size": 35078,
             "width": 2048,
             "height": 1024,
@@ -531,7 +531,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -713,7 +713,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -770,10 +770,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 23,
@@ -813,7 +813,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 48897,
             "width": 2048,
             "height": 1024,
@@ -821,7 +821,7 @@
           },
           {
             "path": "./textures/Image_1.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb.blender.usdz[textures/Image_1.jpg]",
             "size": 53105,
             "width": 2048,
             "height": 1024,
@@ -896,7 +896,7 @@
         "texturePixels": {
           "source": 4194304,
           "converted": 4194304,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

@@ -449,7 +449,7 @@
         "texturePixels": {
           "source": 21495808,
           "converted": 21495808,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -530,10 +530,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 58,
@@ -574,7 +574,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_451_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three-r185.usdz[textures/Texture_451_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three.usdz[textures/Texture_451_false.png]",
             "size": 8026,
             "width": 512,
             "height": 512,
@@ -582,7 +582,7 @@
           },
           {
             "path": "textures/Texture_452_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three-r185.usdz[textures/Texture_452_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three.usdz[textures/Texture_452_false.png]",
             "size": 65054,
             "width": 512,
             "height": 512,
@@ -590,7 +590,7 @@
           },
           {
             "path": "textures/Texture_454_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three-r185.usdz[textures/Texture_454_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three.usdz[textures/Texture_454_false.jpg]",
             "size": 98526,
             "width": 2048,
             "height": 2048,
@@ -598,7 +598,7 @@
           },
           {
             "path": "textures/Texture_455_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three-r185.usdz[textures/Texture_455_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three.usdz[textures/Texture_455_false.jpg]",
             "size": 165391,
             "width": 2048,
             "height": 2048,
@@ -606,7 +606,7 @@
           },
           {
             "path": "textures/Texture_456_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three-r185.usdz[textures/Texture_456_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three.usdz[textures/Texture_456_false.jpg]",
             "size": 512751,
             "width": 2048,
             "height": 2048,
@@ -614,7 +614,7 @@
           },
           {
             "path": "textures/Texture_457_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three-r185.usdz[textures/Texture_457_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.three.usdz[textures/Texture_457_false.png]",
             "size": 4300704,
             "width": 2048,
             "height": 2048,
@@ -1026,10 +1026,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 38,
@@ -1071,7 +1071,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 505404,
             "width": 2048,
             "height": 2048,
@@ -1079,7 +1079,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz[textures/Image_1.png]",
             "size": 3028145,
             "width": 2048,
             "height": 2048,
@@ -1087,7 +1087,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 128060,
             "width": 2048,
             "height": 2048,
@@ -1095,7 +1095,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 184485,
             "width": 2048,
             "height": 2048,
@@ -1103,7 +1103,7 @@
           },
           {
             "path": "./textures/Image_4.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz[textures/Image_4.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz[textures/Image_4.png]",
             "size": 55574,
             "width": 512,
             "height": 512,
@@ -1111,7 +1111,7 @@
           },
           {
             "path": "./textures/Image_5.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz[textures/Image_5.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz[textures/Image_5.png]",
             "size": 126,
             "width": 512,
             "height": 512,
@@ -1119,7 +1119,7 @@
           },
           {
             "path": "./textures/Image_6.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender-5-1.usdz[textures/Image_6.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb.blender.usdz[textures/Image_6.jpg]",
             "size": 177035,
             "width": 2048,
             "height": 2048,
@@ -1194,7 +1194,7 @@
         "texturePixels": {
           "source": 21495808,
           "converted": 21495808,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

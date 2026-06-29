@@ -396,7 +396,7 @@
         "texturePixels": {
           "source": 6295552,
           "converted": 6295552,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -472,10 +472,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 38,
@@ -514,7 +514,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_354_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three-r185.usdz[textures/Texture_354_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three.usdz[textures/Texture_354_false.jpg]",
             "size": 873,
             "width": 64,
             "height": 64,
@@ -522,7 +522,7 @@
           },
           {
             "path": "textures/Texture_356_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three-r185.usdz[textures/Texture_356_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three.usdz[textures/Texture_356_false.jpg]",
             "size": 29228,
             "width": 2048,
             "height": 1024,
@@ -530,7 +530,7 @@
           },
           {
             "path": "textures/Texture_357_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three-r185.usdz[textures/Texture_357_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.three.usdz[textures/Texture_357_false.jpg]",
             "size": 35225,
             "width": 2048,
             "height": 1024,
@@ -882,10 +882,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 24,
@@ -925,7 +925,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 749,
             "width": 64,
             "height": 64,
@@ -933,7 +933,7 @@
           },
           {
             "path": "./textures/Image_1.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender.usdz[textures/Image_1.jpg]",
             "size": 47713,
             "width": 2048,
             "height": 1024,
@@ -941,7 +941,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 53095,
             "width": 2048,
             "height": 1024,
@@ -949,7 +949,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareIor/glTF-Binary/CompareIor.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 48357,
             "width": 2048,
             "height": 1024,
@@ -1024,7 +1024,7 @@
         "texturePixels": {
           "source": 6295552,
           "converted": 6295552,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

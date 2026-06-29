@@ -163,7 +163,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -341,7 +341,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -402,10 +402,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 42,
@@ -444,7 +444,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_675_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.three-r185.usdz[textures/Texture_675_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.three.usdz[textures/Texture_675_false.png]",
             "size": 108874,
             "width": 1024,
             "height": 128,
@@ -519,7 +519,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -697,7 +697,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -758,10 +758,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 38,
@@ -801,7 +801,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/SunglassesKhronos/glTF-Binary/SunglassesKhronos.glb.blender.usdz[textures/Image_0.png]",
             "size": 83552,
             "width": 1024,
             "height": 128,
@@ -876,7 +876,7 @@
         "texturePixels": {
           "source": 131072,
           "converted": 131072,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

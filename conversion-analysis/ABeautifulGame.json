@@ -419,7 +419,7 @@
         "texturePixels": {
           "source": 138412032,
           "converted": 138412032,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -993,10 +993,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 346,
@@ -1037,7 +1037,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_10_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_10_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_10_false.jpg]",
             "size": 505221,
             "width": 2048,
             "height": 2048,
@@ -1045,7 +1045,7 @@
           },
           {
             "path": "textures/Texture_11_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_11_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_11_false.jpg]",
             "size": 353715,
             "width": 2048,
             "height": 2048,
@@ -1053,7 +1053,7 @@
           },
           {
             "path": "textures/Texture_12_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_12_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_12_false.jpg]",
             "size": 162026,
             "width": 2048,
             "height": 2048,
@@ -1061,7 +1061,7 @@
           },
           {
             "path": "textures/Texture_13_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_13_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_13_false.jpg]",
             "size": 307840,
             "width": 2048,
             "height": 2048,
@@ -1069,7 +1069,7 @@
           },
           {
             "path": "textures/Texture_14_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_14_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_14_false.jpg]",
             "size": 317043,
             "width": 2048,
             "height": 2048,
@@ -1077,7 +1077,7 @@
           },
           {
             "path": "textures/Texture_15_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_15_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_15_false.jpg]",
             "size": 537917,
             "width": 2048,
             "height": 2048,
@@ -1085,7 +1085,7 @@
           },
           {
             "path": "textures/Texture_16_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_16_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_16_false.jpg]",
             "size": 667756,
             "width": 2048,
             "height": 2048,
@@ -1093,7 +1093,7 @@
           },
           {
             "path": "textures/Texture_17_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_17_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_17_false.jpg]",
             "size": 384937,
             "width": 2048,
             "height": 2048,
@@ -1101,7 +1101,7 @@
           },
           {
             "path": "textures/Texture_18_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_18_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_18_false.jpg]",
             "size": 703715,
             "width": 2048,
             "height": 2048,
@@ -1109,7 +1109,7 @@
           },
           {
             "path": "textures/Texture_19_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_19_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_19_false.jpg]",
             "size": 335986,
             "width": 2048,
             "height": 2048,
@@ -1117,7 +1117,7 @@
           },
           {
             "path": "textures/Texture_20_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_20_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_20_false.jpg]",
             "size": 437744,
             "width": 2048,
             "height": 2048,
@@ -1125,7 +1125,7 @@
           },
           {
             "path": "textures/Texture_21_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_21_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_21_false.jpg]",
             "size": 418294,
             "width": 2048,
             "height": 2048,
@@ -1133,7 +1133,7 @@
           },
           {
             "path": "textures/Texture_22_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_22_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_22_false.jpg]",
             "size": 636233,
             "width": 2048,
             "height": 2048,
@@ -1141,7 +1141,7 @@
           },
           {
             "path": "textures/Texture_23_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_23_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_23_false.jpg]",
             "size": 572969,
             "width": 2048,
             "height": 2048,
@@ -1149,7 +1149,7 @@
           },
           {
             "path": "textures/Texture_24_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_24_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_24_false.jpg]",
             "size": 433736,
             "width": 2048,
             "height": 2048,
@@ -1157,7 +1157,7 @@
           },
           {
             "path": "textures/Texture_25_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_25_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_25_false.jpg]",
             "size": 290923,
             "width": 2048,
             "height": 2048,
@@ -1165,7 +1165,7 @@
           },
           {
             "path": "textures/Texture_26_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_26_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_26_false.jpg]",
             "size": 180854,
             "width": 2048,
             "height": 2048,
@@ -1173,7 +1173,7 @@
           },
           {
             "path": "textures/Texture_27_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_27_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_27_false.jpg]",
             "size": 528216,
             "width": 2048,
             "height": 2048,
@@ -1181,7 +1181,7 @@
           },
           {
             "path": "textures/Texture_28_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_28_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_28_false.jpg]",
             "size": 665090,
             "width": 2048,
             "height": 2048,
@@ -1189,7 +1189,7 @@
           },
           {
             "path": "textures/Texture_29_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_29_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_29_false.jpg]",
             "size": 455281,
             "width": 2048,
             "height": 2048,
@@ -1197,7 +1197,7 @@
           },
           {
             "path": "textures/Texture_30_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_30_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_30_false.jpg]",
             "size": 540448,
             "width": 2048,
             "height": 2048,
@@ -1205,7 +1205,7 @@
           },
           {
             "path": "textures/Texture_31_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_31_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_31_false.jpg]",
             "size": 609051,
             "width": 2048,
             "height": 2048,
@@ -1213,7 +1213,7 @@
           },
           {
             "path": "textures/Texture_32_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_32_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_32_false.jpg]",
             "size": 536775,
             "width": 2048,
             "height": 2048,
@@ -1221,7 +1221,7 @@
           },
           {
             "path": "textures/Texture_33_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_33_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_33_false.jpg]",
             "size": 531557,
             "width": 2048,
             "height": 2048,
@@ -1229,7 +1229,7 @@
           },
           {
             "path": "textures/Texture_34_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_34_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_34_false.jpg]",
             "size": 526501,
             "width": 2048,
             "height": 2048,
@@ -1237,7 +1237,7 @@
           },
           {
             "path": "textures/Texture_35_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_35_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_35_false.jpg]",
             "size": 740049,
             "width": 2048,
             "height": 2048,
@@ -1245,7 +1245,7 @@
           },
           {
             "path": "textures/Texture_36_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_36_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_36_false.jpg]",
             "size": 677006,
             "width": 2048,
             "height": 2048,
@@ -1253,7 +1253,7 @@
           },
           {
             "path": "textures/Texture_37_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_37_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_37_false.jpg]",
             "size": 1303918,
             "width": 2048,
             "height": 2048,
@@ -1261,7 +1261,7 @@
           },
           {
             "path": "textures/Texture_5_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_5_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_5_false.jpg]",
             "size": 381067,
             "width": 2048,
             "height": 2048,
@@ -1269,7 +1269,7 @@
           },
           {
             "path": "textures/Texture_6_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_6_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_6_false.jpg]",
             "size": 416109,
             "width": 2048,
             "height": 2048,
@@ -1277,7 +1277,7 @@
           },
           {
             "path": "textures/Texture_7_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_7_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_7_false.jpg]",
             "size": 319885,
             "width": 2048,
             "height": 2048,
@@ -1285,7 +1285,7 @@
           },
           {
             "path": "textures/Texture_8_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_8_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_8_false.jpg]",
             "size": 313874,
             "width": 2048,
             "height": 2048,
@@ -1293,7 +1293,7 @@
           },
           {
             "path": "textures/Texture_9_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three-r185.usdz[textures/Texture_9_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.three.usdz[textures/Texture_9_false.jpg]",
             "size": 267964,
             "width": 2048,
             "height": 2048,
@@ -1368,7 +1368,7 @@
         "texturePixels": {
           "source": 138412032,
           "converted": 138412032,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -1823,7 +1823,7 @@
         "texturePixels": {
           "source": 138412032,
           "converted": 138412032,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -1903,10 +1903,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 188,
@@ -1947,7 +1947,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 361127,
             "width": 2048,
             "height": 2048,
@@ -1955,7 +1955,7 @@
           },
           {
             "path": "./textures/Image_1.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_1.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_1.jpg]",
             "size": 673915,
             "width": 2048,
             "height": 2048,
@@ -1963,7 +1963,7 @@
           },
           {
             "path": "./textures/Image_10.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_10.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_10.jpg]",
             "size": 961725,
             "width": 2048,
             "height": 2048,
@@ -1971,7 +1971,7 @@
           },
           {
             "path": "./textures/Image_11.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_11.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_11.jpg]",
             "size": 822486,
             "width": 2048,
             "height": 2048,
@@ -1979,7 +1979,7 @@
           },
           {
             "path": "./textures/Image_12.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_12.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_12.jpg]",
             "size": 295346,
             "width": 2048,
             "height": 2048,
@@ -1987,7 +1987,7 @@
           },
           {
             "path": "./textures/Image_13.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_13.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_13.jpg]",
             "size": 777060,
             "width": 2048,
             "height": 2048,
@@ -1995,7 +1995,7 @@
           },
           {
             "path": "./textures/Image_14.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_14.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_14.jpg]",
             "size": 741172,
             "width": 2048,
             "height": 2048,
@@ -2003,7 +2003,7 @@
           },
           {
             "path": "./textures/Image_15.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_15.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_15.jpg]",
             "size": 309191,
             "width": 2048,
             "height": 2048,
@@ -2011,7 +2011,7 @@
           },
           {
             "path": "./textures/Image_16.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_16.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_16.jpg]",
             "size": 662916,
             "width": 2048,
             "height": 2048,
@@ -2019,7 +2019,7 @@
           },
           {
             "path": "./textures/Image_17.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_17.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_17.jpg]",
             "size": 709227,
             "width": 2048,
             "height": 2048,
@@ -2027,7 +2027,7 @@
           },
           {
             "path": "./textures/Image_18.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_18.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_18.jpg]",
             "size": 529405,
             "width": 2048,
             "height": 2048,
@@ -2035,7 +2035,7 @@
           },
           {
             "path": "./textures/Image_19.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_19.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_19.jpg]",
             "size": 727372,
             "width": 2048,
             "height": 2048,
@@ -2043,7 +2043,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 622771,
             "width": 2048,
             "height": 2048,
@@ -2051,7 +2051,7 @@
           },
           {
             "path": "./textures/Image_20.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_20.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_20.jpg]",
             "size": 582751,
             "width": 2048,
             "height": 2048,
@@ -2059,7 +2059,7 @@
           },
           {
             "path": "./textures/Image_21.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_21.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_21.jpg]",
             "size": 750313,
             "width": 2048,
             "height": 2048,
@@ -2067,7 +2067,7 @@
           },
           {
             "path": "./textures/Image_22.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_22.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_22.jpg]",
             "size": 792174,
             "width": 2048,
             "height": 2048,
@@ -2075,7 +2075,7 @@
           },
           {
             "path": "./textures/Image_23.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_23.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_23.jpg]",
             "size": 303807,
             "width": 2048,
             "height": 2048,
@@ -2083,7 +2083,7 @@
           },
           {
             "path": "./textures/Image_24.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_24.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_24.jpg]",
             "size": 315179,
             "width": 2048,
             "height": 2048,
@@ -2091,7 +2091,7 @@
           },
           {
             "path": "./textures/Image_25.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_25.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_25.jpg]",
             "size": 394527,
             "width": 2048,
             "height": 2048,
@@ -2099,7 +2099,7 @@
           },
           {
             "path": "./textures/Image_26.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_26.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_26.jpg]",
             "size": 491396,
             "width": 2048,
             "height": 2048,
@@ -2107,7 +2107,7 @@
           },
           {
             "path": "./textures/Image_27.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_27.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_27.jpg]",
             "size": 1371413,
             "width": 2048,
             "height": 2048,
@@ -2115,7 +2115,7 @@
           },
           {
             "path": "./textures/Image_28.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_28.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_28.jpg]",
             "size": 334252,
             "width": 2048,
             "height": 2048,
@@ -2123,7 +2123,7 @@
           },
           {
             "path": "./textures/Image_29.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_29.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_29.jpg]",
             "size": 244999,
             "width": 2048,
             "height": 2048,
@@ -2131,7 +2131,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 403990,
             "width": 2048,
             "height": 2048,
@@ -2139,7 +2139,7 @@
           },
           {
             "path": "./textures/Image_30.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_30.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_30.jpg]",
             "size": 215780,
             "width": 2048,
             "height": 2048,
@@ -2147,7 +2147,7 @@
           },
           {
             "path": "./textures/Image_31.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_31.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_31.jpg]",
             "size": 350946,
             "width": 2048,
             "height": 2048,
@@ -2155,7 +2155,7 @@
           },
           {
             "path": "./textures/Image_32.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_32.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_32.jpg]",
             "size": 395645,
             "width": 2048,
             "height": 2048,
@@ -2163,7 +2163,7 @@
           },
           {
             "path": "./textures/Image_4.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_4.jpg]",
             "size": 850400,
             "width": 2048,
             "height": 2048,
@@ -2171,7 +2171,7 @@
           },
           {
             "path": "./textures/Image_5.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_5.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_5.jpg]",
             "size": 630950,
             "width": 2048,
             "height": 2048,
@@ -2179,7 +2179,7 @@
           },
           {
             "path": "./textures/Image_6.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_6.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_6.jpg]",
             "size": 366216,
             "width": 2048,
             "height": 2048,
@@ -2187,7 +2187,7 @@
           },
           {
             "path": "./textures/Image_7.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_7.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_7.jpg]",
             "size": 764089,
             "width": 2048,
             "height": 2048,
@@ -2195,7 +2195,7 @@
           },
           {
             "path": "./textures/Image_8.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_8.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_8.jpg]",
             "size": 782417,
             "width": 2048,
             "height": 2048,
@@ -2203,7 +2203,7 @@
           },
           {
             "path": "./textures/Image_9.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender-5-1.usdz[textures/Image_9.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb.blender.usdz[textures/Image_9.jpg]",
             "size": 395138,
             "width": 2048,
             "height": 2048,
@@ -2278,7 +2278,7 @@
         "texturePixels": {
           "source": 138412032,
           "converted": 138412032,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

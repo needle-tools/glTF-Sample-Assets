@@ -441,10 +441,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 53,
@@ -484,7 +484,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_337_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three-r185.usdz[textures/Texture_337_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three.usdz[textures/Texture_337_false.jpg]",
             "size": 8956,
             "width": 256,
             "height": 256,
@@ -492,7 +492,7 @@
           },
           {
             "path": "textures/Texture_341_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three-r185.usdz[textures/Texture_341_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three.usdz[textures/Texture_341_false.png]",
             "size": 73047,
             "width": 2048,
             "height": 1024,
@@ -500,7 +500,7 @@
           },
           {
             "path": "textures/Texture_342_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three-r185.usdz[textures/Texture_342_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three.usdz[textures/Texture_342_false.png]",
             "size": 70970,
             "width": 2048,
             "height": 1024,
@@ -508,7 +508,7 @@
           },
           {
             "path": "textures/Texture_343_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three-r185.usdz[textures/Texture_343_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.three.usdz[textures/Texture_343_false.jpg]",
             "size": 70943,
             "width": 512,
             "height": 512,
@@ -843,10 +843,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 36,
@@ -887,7 +887,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 184114,
             "width": 512,
             "height": 512,
@@ -895,7 +895,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender.usdz[textures/Image_1.png]",
             "size": 13953,
             "width": 2048,
             "height": 1024,
@@ -903,7 +903,7 @@
           },
           {
             "path": "./textures/Image_2.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender-5-1.usdz[textures/Image_2.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender.usdz[textures/Image_2.jpg]",
             "size": 6559,
             "width": 256,
             "height": 256,
@@ -911,7 +911,7 @@
           },
           {
             "path": "./textures/Image_3.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender-5-1.usdz[textures/Image_3.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareAnisotropy/glTF-Binary/CompareAnisotropy.glb.blender.usdz[textures/Image_3.png]",
             "size": 14032,
             "width": 2048,
             "height": 1024,

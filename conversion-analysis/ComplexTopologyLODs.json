@@ -39,10 +39,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 71,
@@ -79,7 +79,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_5_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three-r185.usdz[textures/Texture_5_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.three.usdz[textures/Texture_5_false.png]",
             "size": 810028,
             "width": 4096,
             "height": 4096,
@@ -154,7 +154,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -315,10 +315,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 67,
@@ -358,7 +358,7 @@
         "textureAssets": [
           {
             "path": "./textures/CustomUVChecker_byValle_4K.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender-5-1.usdz[textures/CustomUVChecker_byValle_4K.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/ComplexTopologyLODs/glTF-Binary/ComplexTopologyLODs.glb.blender.usdz[textures/CustomUVChecker_byValle_4K.png]",
             "size": 737160,
             "width": 4096,
             "height": 4096,
@@ -433,7 +433,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -570,7 +570,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -708,7 +708,7 @@
         "texturePixels": {
           "source": 16777216,
           "converted": 16777216,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

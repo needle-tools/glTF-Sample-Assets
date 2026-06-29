@@ -173,7 +173,7 @@
         "texturePixels": {
           "source": 12582912,
           "converted": 12582912,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -366,7 +366,7 @@
         "texturePixels": {
           "source": 12582912,
           "converted": 12582912,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -427,10 +427,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 24,
@@ -469,7 +469,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_578_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three-r185.usdz[textures/Texture_578_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three.usdz[textures/Texture_578_false.png]",
             "size": 127779,
             "width": 2048,
             "height": 2048,
@@ -477,7 +477,7 @@
           },
           {
             "path": "textures/Texture_579_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three-r185.usdz[textures/Texture_579_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three.usdz[textures/Texture_579_false.png]",
             "size": 408842,
             "width": 2048,
             "height": 2048,
@@ -485,7 +485,7 @@
           },
           {
             "path": "textures/Texture_580_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three-r185.usdz[textures/Texture_580_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.three.usdz[textures/Texture_580_false.png]",
             "size": 1942567,
             "width": 2048,
             "height": 2048,
@@ -560,7 +560,7 @@
         "texturePixels": {
           "source": 12582912,
           "converted": 12582912,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -754,7 +754,7 @@
         "texturePixels": {
           "source": 12582912,
           "converted": 12582912,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -815,10 +815,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 10,
@@ -859,7 +859,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender-5-1.usdz[textures/Image_0.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender.usdz[textures/Image_0.png]",
             "size": 1185050,
             "width": 2048,
             "height": 2048,
@@ -867,7 +867,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender.usdz[textures/Image_1.png]",
             "size": 179799,
             "width": 2048,
             "height": 2048,
@@ -875,7 +875,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NormalTangentMirrorTest/glTF-Binary/NormalTangentMirrorTest.glb.blender.usdz[textures/Image_2.png]",
             "size": 35542,
             "width": 2048,
             "height": 2048,
@@ -950,7 +950,7 @@
         "texturePixels": {
           "source": 12582912,
           "converted": 12582912,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

@@ -155,7 +155,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -304,7 +304,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -337,10 +337,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 19,
@@ -378,7 +378,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_353_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.three-r185.usdz[textures/Texture_353_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.three.usdz[textures/Texture_353_false.jpg]",
             "size": 31491,
             "width": 2048,
             "height": 1024,
@@ -453,7 +453,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -602,7 +602,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -635,10 +635,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 14,
@@ -679,7 +679,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/CompareEmissiveStrength/glTF-Binary/CompareEmissiveStrength.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 50295,
             "width": 2048,
             "height": 1024,
@@ -754,7 +754,7 @@
         "texturePixels": {
           "source": 2097152,
           "converted": 2097152,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

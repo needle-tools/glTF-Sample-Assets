@@ -946,7 +946,7 @@
         "texturePixels": {
           "source": 1000000,
           "converted": 1000000,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -81075,7 +81075,7 @@
         "texturePixels": {
           "source": 1000000,
           "converted": 100000000,
-          "ratio": 100.0,
+          "ratio": 100,
           "status": "present"
         },
         "materialFeatures": [
@@ -81098,10 +81098,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 70008,
@@ -81138,7 +81138,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_478_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_478_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_478_false.png]",
             "size": 11711,
             "width": 100,
             "height": 100,
@@ -81146,7 +81146,7 @@
           },
           {
             "path": "textures/Texture_479_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_479_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_479_false.png]",
             "size": 12653,
             "width": 100,
             "height": 100,
@@ -81154,7 +81154,7 @@
           },
           {
             "path": "textures/Texture_480_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_480_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_480_false.png]",
             "size": 12913,
             "width": 100,
             "height": 100,
@@ -81162,7 +81162,7 @@
           },
           {
             "path": "textures/Texture_481_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_481_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_481_false.png]",
             "size": 13166,
             "width": 100,
             "height": 100,
@@ -81170,7 +81170,7 @@
           },
           {
             "path": "textures/Texture_482_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_482_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_482_false.png]",
             "size": 13121,
             "width": 100,
             "height": 100,
@@ -81178,7 +81178,7 @@
           },
           {
             "path": "textures/Texture_483_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_483_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_483_false.png]",
             "size": 13141,
             "width": 100,
             "height": 100,
@@ -81186,7 +81186,7 @@
           },
           {
             "path": "textures/Texture_484_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_484_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_484_false.png]",
             "size": 12698,
             "width": 100,
             "height": 100,
@@ -81194,7 +81194,7 @@
           },
           {
             "path": "textures/Texture_485_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_485_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_485_false.png]",
             "size": 12804,
             "width": 100,
             "height": 100,
@@ -81202,7 +81202,7 @@
           },
           {
             "path": "textures/Texture_486_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_486_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_486_false.png]",
             "size": 12763,
             "width": 100,
             "height": 100,
@@ -81210,7 +81210,7 @@
           },
           {
             "path": "textures/Texture_487_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_487_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_487_false.png]",
             "size": 12840,
             "width": 100,
             "height": 100,
@@ -81218,7 +81218,7 @@
           },
           {
             "path": "textures/Texture_488_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_488_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_488_false.png]",
             "size": 11706,
             "width": 100,
             "height": 100,
@@ -81226,7 +81226,7 @@
           },
           {
             "path": "textures/Texture_489_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_489_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_489_false.png]",
             "size": 12776,
             "width": 100,
             "height": 100,
@@ -81234,7 +81234,7 @@
           },
           {
             "path": "textures/Texture_490_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_490_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_490_false.png]",
             "size": 13103,
             "width": 100,
             "height": 100,
@@ -81242,7 +81242,7 @@
           },
           {
             "path": "textures/Texture_491_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_491_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_491_false.png]",
             "size": 12631,
             "width": 100,
             "height": 100,
@@ -81250,7 +81250,7 @@
           },
           {
             "path": "textures/Texture_492_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_492_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_492_false.png]",
             "size": 13161,
             "width": 100,
             "height": 100,
@@ -81258,7 +81258,7 @@
           },
           {
             "path": "textures/Texture_493_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_493_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_493_false.png]",
             "size": 12677,
             "width": 100,
             "height": 100,
@@ -81266,7 +81266,7 @@
           },
           {
             "path": "textures/Texture_494_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_494_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_494_false.png]",
             "size": 13301,
             "width": 100,
             "height": 100,
@@ -81274,7 +81274,7 @@
           },
           {
             "path": "textures/Texture_495_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_495_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_495_false.png]",
             "size": 12981,
             "width": 100,
             "height": 100,
@@ -81282,7 +81282,7 @@
           },
           {
             "path": "textures/Texture_496_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_496_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_496_false.png]",
             "size": 12999,
             "width": 100,
             "height": 100,
@@ -81290,7 +81290,7 @@
           },
           {
             "path": "textures/Texture_497_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_497_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_497_false.png]",
             "size": 12800,
             "width": 100,
             "height": 100,
@@ -81298,7 +81298,7 @@
           },
           {
             "path": "textures/Texture_498_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_498_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_498_false.png]",
             "size": 12766,
             "width": 100,
             "height": 100,
@@ -81306,7 +81306,7 @@
           },
           {
             "path": "textures/Texture_499_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_499_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_499_false.png]",
             "size": 13077,
             "width": 100,
             "height": 100,
@@ -81314,7 +81314,7 @@
           },
           {
             "path": "textures/Texture_500_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_500_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_500_false.png]",
             "size": 12769,
             "width": 100,
             "height": 100,
@@ -81322,7 +81322,7 @@
           },
           {
             "path": "textures/Texture_501_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_501_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_501_false.png]",
             "size": 12789,
             "width": 100,
             "height": 100,
@@ -81330,7 +81330,7 @@
           },
           {
             "path": "textures/Texture_502_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_502_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_502_false.png]",
             "size": 13303,
             "width": 100,
             "height": 100,
@@ -81338,7 +81338,7 @@
           },
           {
             "path": "textures/Texture_503_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_503_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_503_false.png]",
             "size": 12733,
             "width": 100,
             "height": 100,
@@ -81346,7 +81346,7 @@
           },
           {
             "path": "textures/Texture_504_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_504_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_504_false.png]",
             "size": 13167,
             "width": 100,
             "height": 100,
@@ -81354,7 +81354,7 @@
           },
           {
             "path": "textures/Texture_505_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_505_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_505_false.png]",
             "size": 12965,
             "width": 100,
             "height": 100,
@@ -81362,7 +81362,7 @@
           },
           {
             "path": "textures/Texture_506_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_506_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_506_false.png]",
             "size": 13113,
             "width": 100,
             "height": 100,
@@ -81370,7 +81370,7 @@
           },
           {
             "path": "textures/Texture_507_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_507_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_507_false.png]",
             "size": 12557,
             "width": 100,
             "height": 100,
@@ -81378,7 +81378,7 @@
           },
           {
             "path": "textures/Texture_508_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_508_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_508_false.png]",
             "size": 12993,
             "width": 100,
             "height": 100,
@@ -81386,7 +81386,7 @@
           },
           {
             "path": "textures/Texture_509_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_509_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_509_false.png]",
             "size": 13086,
             "width": 100,
             "height": 100,
@@ -81394,7 +81394,7 @@
           },
           {
             "path": "textures/Texture_510_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_510_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_510_false.png]",
             "size": 13121,
             "width": 100,
             "height": 100,
@@ -81402,7 +81402,7 @@
           },
           {
             "path": "textures/Texture_511_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_511_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_511_false.png]",
             "size": 12670,
             "width": 100,
             "height": 100,
@@ -81410,7 +81410,7 @@
           },
           {
             "path": "textures/Texture_512_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_512_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_512_false.png]",
             "size": 12780,
             "width": 100,
             "height": 100,
@@ -81418,7 +81418,7 @@
           },
           {
             "path": "textures/Texture_513_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_513_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_513_false.png]",
             "size": 13104,
             "width": 100,
             "height": 100,
@@ -81426,7 +81426,7 @@
           },
           {
             "path": "textures/Texture_514_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_514_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_514_false.png]",
             "size": 12722,
             "width": 100,
             "height": 100,
@@ -81434,7 +81434,7 @@
           },
           {
             "path": "textures/Texture_515_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_515_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_515_false.png]",
             "size": 12789,
             "width": 100,
             "height": 100,
@@ -81442,7 +81442,7 @@
           },
           {
             "path": "textures/Texture_516_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_516_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_516_false.png]",
             "size": 12672,
             "width": 100,
             "height": 100,
@@ -81450,7 +81450,7 @@
           },
           {
             "path": "textures/Texture_517_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_517_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_517_false.png]",
             "size": 12671,
             "width": 100,
             "height": 100,
@@ -81458,7 +81458,7 @@
           },
           {
             "path": "textures/Texture_518_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_518_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_518_false.png]",
             "size": 13098,
             "width": 100,
             "height": 100,
@@ -81466,7 +81466,7 @@
           },
           {
             "path": "textures/Texture_519_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_519_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_519_false.png]",
             "size": 13084,
             "width": 100,
             "height": 100,
@@ -81474,7 +81474,7 @@
           },
           {
             "path": "textures/Texture_520_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_520_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_520_false.png]",
             "size": 12850,
             "width": 100,
             "height": 100,
@@ -81482,7 +81482,7 @@
           },
           {
             "path": "textures/Texture_521_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_521_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_521_false.png]",
             "size": 13026,
             "width": 100,
             "height": 100,
@@ -81490,7 +81490,7 @@
           },
           {
             "path": "textures/Texture_522_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_522_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_522_false.png]",
             "size": 13218,
             "width": 100,
             "height": 100,
@@ -81498,7 +81498,7 @@
           },
           {
             "path": "textures/Texture_523_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_523_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_523_false.png]",
             "size": 12834,
             "width": 100,
             "height": 100,
@@ -81506,7 +81506,7 @@
           },
           {
             "path": "textures/Texture_524_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_524_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_524_false.png]",
             "size": 13062,
             "width": 100,
             "height": 100,
@@ -81514,7 +81514,7 @@
           },
           {
             "path": "textures/Texture_525_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_525_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_525_false.png]",
             "size": 13070,
             "width": 100,
             "height": 100,
@@ -81522,7 +81522,7 @@
           },
           {
             "path": "textures/Texture_526_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_526_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_526_false.png]",
             "size": 12928,
             "width": 100,
             "height": 100,
@@ -81530,7 +81530,7 @@
           },
           {
             "path": "textures/Texture_527_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_527_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_527_false.png]",
             "size": 12702,
             "width": 100,
             "height": 100,
@@ -81538,7 +81538,7 @@
           },
           {
             "path": "textures/Texture_528_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_528_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_528_false.png]",
             "size": 12352,
             "width": 100,
             "height": 100,
@@ -81546,7 +81546,7 @@
           },
           {
             "path": "textures/Texture_529_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_529_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_529_false.png]",
             "size": 12773,
             "width": 100,
             "height": 100,
@@ -81554,7 +81554,7 @@
           },
           {
             "path": "textures/Texture_530_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_530_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_530_false.png]",
             "size": 12774,
             "width": 100,
             "height": 100,
@@ -81562,7 +81562,7 @@
           },
           {
             "path": "textures/Texture_531_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_531_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_531_false.png]",
             "size": 12709,
             "width": 100,
             "height": 100,
@@ -81570,7 +81570,7 @@
           },
           {
             "path": "textures/Texture_532_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_532_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_532_false.png]",
             "size": 12462,
             "width": 100,
             "height": 100,
@@ -81578,7 +81578,7 @@
           },
           {
             "path": "textures/Texture_533_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_533_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_533_false.png]",
             "size": 13197,
             "width": 100,
             "height": 100,
@@ -81586,7 +81586,7 @@
           },
           {
             "path": "textures/Texture_534_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_534_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_534_false.png]",
             "size": 12416,
             "width": 100,
             "height": 100,
@@ -81594,7 +81594,7 @@
           },
           {
             "path": "textures/Texture_535_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_535_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_535_false.png]",
             "size": 13074,
             "width": 100,
             "height": 100,
@@ -81602,7 +81602,7 @@
           },
           {
             "path": "textures/Texture_536_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_536_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_536_false.png]",
             "size": 12630,
             "width": 100,
             "height": 100,
@@ -81610,7 +81610,7 @@
           },
           {
             "path": "textures/Texture_537_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_537_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_537_false.png]",
             "size": 12948,
             "width": 100,
             "height": 100,
@@ -81618,7 +81618,7 @@
           },
           {
             "path": "textures/Texture_538_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_538_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_538_false.png]",
             "size": 12948,
             "width": 100,
             "height": 100,
@@ -81626,7 +81626,7 @@
           },
           {
             "path": "textures/Texture_539_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_539_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_539_false.png]",
             "size": 12854,
             "width": 100,
             "height": 100,
@@ -81634,7 +81634,7 @@
           },
           {
             "path": "textures/Texture_540_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_540_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_540_false.png]",
             "size": 12833,
             "width": 100,
             "height": 100,
@@ -81642,7 +81642,7 @@
           },
           {
             "path": "textures/Texture_541_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_541_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_541_false.png]",
             "size": 12973,
             "width": 100,
             "height": 100,
@@ -81650,7 +81650,7 @@
           },
           {
             "path": "textures/Texture_542_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_542_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_542_false.png]",
             "size": 12752,
             "width": 100,
             "height": 100,
@@ -81658,7 +81658,7 @@
           },
           {
             "path": "textures/Texture_543_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_543_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_543_false.png]",
             "size": 12822,
             "width": 100,
             "height": 100,
@@ -81666,7 +81666,7 @@
           },
           {
             "path": "textures/Texture_544_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_544_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_544_false.png]",
             "size": 12882,
             "width": 100,
             "height": 100,
@@ -81674,7 +81674,7 @@
           },
           {
             "path": "textures/Texture_545_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_545_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_545_false.png]",
             "size": 12891,
             "width": 100,
             "height": 100,
@@ -81682,7 +81682,7 @@
           },
           {
             "path": "textures/Texture_546_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_546_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_546_false.png]",
             "size": 12723,
             "width": 100,
             "height": 100,
@@ -81690,7 +81690,7 @@
           },
           {
             "path": "textures/Texture_547_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_547_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_547_false.png]",
             "size": 12816,
             "width": 100,
             "height": 100,
@@ -81698,7 +81698,7 @@
           },
           {
             "path": "textures/Texture_548_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_548_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_548_false.png]",
             "size": 13121,
             "width": 100,
             "height": 100,
@@ -81706,7 +81706,7 @@
           },
           {
             "path": "textures/Texture_549_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_549_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_549_false.png]",
             "size": 12781,
             "width": 100,
             "height": 100,
@@ -81714,7 +81714,7 @@
           },
           {
             "path": "textures/Texture_550_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_550_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_550_false.png]",
             "size": 12846,
             "width": 100,
             "height": 100,
@@ -81722,7 +81722,7 @@
           },
           {
             "path": "textures/Texture_551_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_551_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_551_false.png]",
             "size": 13003,
             "width": 100,
             "height": 100,
@@ -81730,7 +81730,7 @@
           },
           {
             "path": "textures/Texture_552_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_552_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_552_false.png]",
             "size": 13020,
             "width": 100,
             "height": 100,
@@ -81738,7 +81738,7 @@
           },
           {
             "path": "textures/Texture_553_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_553_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_553_false.png]",
             "size": 13110,
             "width": 100,
             "height": 100,
@@ -81746,7 +81746,7 @@
           },
           {
             "path": "textures/Texture_554_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_554_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_554_false.png]",
             "size": 12583,
             "width": 100,
             "height": 100,
@@ -81754,7 +81754,7 @@
           },
           {
             "path": "textures/Texture_555_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_555_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_555_false.png]",
             "size": 12827,
             "width": 100,
             "height": 100,
@@ -81762,7 +81762,7 @@
           },
           {
             "path": "textures/Texture_556_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_556_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_556_false.png]",
             "size": 12879,
             "width": 100,
             "height": 100,
@@ -81770,7 +81770,7 @@
           },
           {
             "path": "textures/Texture_557_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_557_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_557_false.png]",
             "size": 12829,
             "width": 100,
             "height": 100,
@@ -81778,7 +81778,7 @@
           },
           {
             "path": "textures/Texture_558_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_558_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_558_false.png]",
             "size": 12680,
             "width": 100,
             "height": 100,
@@ -81786,7 +81786,7 @@
           },
           {
             "path": "textures/Texture_559_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_559_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_559_false.png]",
             "size": 13199,
             "width": 100,
             "height": 100,
@@ -81794,7 +81794,7 @@
           },
           {
             "path": "textures/Texture_560_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_560_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_560_false.png]",
             "size": 13049,
             "width": 100,
             "height": 100,
@@ -81802,7 +81802,7 @@
           },
           {
             "path": "textures/Texture_561_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_561_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_561_false.png]",
             "size": 12773,
             "width": 100,
             "height": 100,
@@ -81810,7 +81810,7 @@
           },
           {
             "path": "textures/Texture_562_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_562_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_562_false.png]",
             "size": 13019,
             "width": 100,
             "height": 100,
@@ -81818,7 +81818,7 @@
           },
           {
             "path": "textures/Texture_563_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_563_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_563_false.png]",
             "size": 13146,
             "width": 100,
             "height": 100,
@@ -81826,7 +81826,7 @@
           },
           {
             "path": "textures/Texture_564_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_564_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_564_false.png]",
             "size": 12772,
             "width": 100,
             "height": 100,
@@ -81834,7 +81834,7 @@
           },
           {
             "path": "textures/Texture_565_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_565_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_565_false.png]",
             "size": 13187,
             "width": 100,
             "height": 100,
@@ -81842,7 +81842,7 @@
           },
           {
             "path": "textures/Texture_566_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_566_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_566_false.png]",
             "size": 12221,
             "width": 100,
             "height": 100,
@@ -81850,7 +81850,7 @@
           },
           {
             "path": "textures/Texture_567_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_567_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_567_false.png]",
             "size": 13114,
             "width": 100,
             "height": 100,
@@ -81858,7 +81858,7 @@
           },
           {
             "path": "textures/Texture_568_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_568_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_568_false.png]",
             "size": 12947,
             "width": 100,
             "height": 100,
@@ -81866,7 +81866,7 @@
           },
           {
             "path": "textures/Texture_569_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_569_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_569_false.png]",
             "size": 13261,
             "width": 100,
             "height": 100,
@@ -81874,7 +81874,7 @@
           },
           {
             "path": "textures/Texture_570_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_570_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_570_false.png]",
             "size": 13057,
             "width": 100,
             "height": 100,
@@ -81882,7 +81882,7 @@
           },
           {
             "path": "textures/Texture_571_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_571_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_571_false.png]",
             "size": 13043,
             "width": 100,
             "height": 100,
@@ -81890,7 +81890,7 @@
           },
           {
             "path": "textures/Texture_572_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_572_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_572_false.png]",
             "size": 13057,
             "width": 100,
             "height": 100,
@@ -81898,7 +81898,7 @@
           },
           {
             "path": "textures/Texture_573_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_573_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_573_false.png]",
             "size": 13126,
             "width": 100,
             "height": 100,
@@ -81906,7 +81906,7 @@
           },
           {
             "path": "textures/Texture_574_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_574_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_574_false.png]",
             "size": 13015,
             "width": 100,
             "height": 100,
@@ -81914,7 +81914,7 @@
           },
           {
             "path": "textures/Texture_575_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_575_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_575_false.png]",
             "size": 12689,
             "width": 100,
             "height": 100,
@@ -81922,7 +81922,7 @@
           },
           {
             "path": "textures/Texture_576_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_576_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_576_false.png]",
             "size": 12751,
             "width": 100,
             "height": 100,
@@ -81930,7 +81930,7 @@
           },
           {
             "path": "textures/Texture_577_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three-r185.usdz[textures/Texture_577_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.three.usdz[textures/Texture_577_false.png]",
             "size": 13237,
             "width": 100,
             "height": 100,
@@ -82005,7 +82005,7 @@
         "texturePixels": {
           "source": 1000000,
           "converted": 1000000,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -82935,7 +82935,7 @@
         "texturePixels": {
           "source": 1000000,
           "converted": 1000000,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -82958,10 +82958,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 60006,
@@ -83001,7 +83001,7 @@
         "textureAssets": [
           {
             "path": "./textures/asteroid_tex_0000.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0000.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0000.png]",
             "size": 5557,
             "width": 100,
             "height": 100,
@@ -83009,7 +83009,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0001.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0001.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0001.png]",
             "size": 5535,
             "width": 100,
             "height": 100,
@@ -83017,7 +83017,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0002.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0002.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0002.png]",
             "size": 5573,
             "width": 100,
             "height": 100,
@@ -83025,7 +83025,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0003.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0003.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0003.png]",
             "size": 5620,
             "width": 100,
             "height": 100,
@@ -83033,7 +83033,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0004.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0004.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0004.png]",
             "size": 5625,
             "width": 100,
             "height": 100,
@@ -83041,7 +83041,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0005.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0005.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0005.png]",
             "size": 5653,
             "width": 100,
             "height": 100,
@@ -83049,7 +83049,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0006.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0006.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0006.png]",
             "size": 5653,
             "width": 100,
             "height": 100,
@@ -83057,7 +83057,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0007.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0007.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0007.png]",
             "size": 5653,
             "width": 100,
             "height": 100,
@@ -83065,7 +83065,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0008.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0008.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0008.png]",
             "size": 5700,
             "width": 100,
             "height": 100,
@@ -83073,7 +83073,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0009.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0009.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0009.png]",
             "size": 5676,
             "width": 100,
             "height": 100,
@@ -83081,7 +83081,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0010.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0010.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0010.png]",
             "size": 5708,
             "width": 100,
             "height": 100,
@@ -83089,7 +83089,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0011.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0011.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0011.png]",
             "size": 5718,
             "width": 100,
             "height": 100,
@@ -83097,7 +83097,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0012.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0012.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0012.png]",
             "size": 5753,
             "width": 100,
             "height": 100,
@@ -83105,7 +83105,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0013.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0013.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0013.png]",
             "size": 5760,
             "width": 100,
             "height": 100,
@@ -83113,7 +83113,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0014.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0014.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0014.png]",
             "size": 5731,
             "width": 100,
             "height": 100,
@@ -83121,7 +83121,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0015.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0015.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0015.png]",
             "size": 5760,
             "width": 100,
             "height": 100,
@@ -83129,7 +83129,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0016.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0016.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0016.png]",
             "size": 5746,
             "width": 100,
             "height": 100,
@@ -83137,7 +83137,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0017.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0017.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0017.png]",
             "size": 5753,
             "width": 100,
             "height": 100,
@@ -83145,7 +83145,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0018.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0018.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0018.png]",
             "size": 5695,
             "width": 100,
             "height": 100,
@@ -83153,7 +83153,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0019.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0019.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0019.png]",
             "size": 5631,
             "width": 100,
             "height": 100,
@@ -83161,7 +83161,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0020.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0020.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0020.png]",
             "size": 5648,
             "width": 100,
             "height": 100,
@@ -83169,7 +83169,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0021.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0021.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0021.png]",
             "size": 5627,
             "width": 100,
             "height": 100,
@@ -83177,7 +83177,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0022.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0022.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0022.png]",
             "size": 5599,
             "width": 100,
             "height": 100,
@@ -83185,7 +83185,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0023.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0023.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0023.png]",
             "size": 5620,
             "width": 100,
             "height": 100,
@@ -83193,7 +83193,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0024.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0024.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0024.png]",
             "size": 5603,
             "width": 100,
             "height": 100,
@@ -83201,7 +83201,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0025.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0025.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0025.png]",
             "size": 5644,
             "width": 100,
             "height": 100,
@@ -83209,7 +83209,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0026.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0026.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0026.png]",
             "size": 5606,
             "width": 100,
             "height": 100,
@@ -83217,7 +83217,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0027.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0027.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0027.png]",
             "size": 5620,
             "width": 100,
             "height": 100,
@@ -83225,7 +83225,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0028.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0028.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0028.png]",
             "size": 5687,
             "width": 100,
             "height": 100,
@@ -83233,7 +83233,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0029.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0029.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0029.png]",
             "size": 5694,
             "width": 100,
             "height": 100,
@@ -83241,7 +83241,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0030.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0030.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0030.png]",
             "size": 5713,
             "width": 100,
             "height": 100,
@@ -83249,7 +83249,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0031.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0031.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0031.png]",
             "size": 5760,
             "width": 100,
             "height": 100,
@@ -83257,7 +83257,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0032.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0032.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0032.png]",
             "size": 5847,
             "width": 100,
             "height": 100,
@@ -83265,7 +83265,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0033.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0033.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0033.png]",
             "size": 5924,
             "width": 100,
             "height": 100,
@@ -83273,7 +83273,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0034.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0034.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0034.png]",
             "size": 5904,
             "width": 100,
             "height": 100,
@@ -83281,7 +83281,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0035.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0035.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0035.png]",
             "size": 5960,
             "width": 100,
             "height": 100,
@@ -83289,7 +83289,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0036.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0036.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0036.png]",
             "size": 5930,
             "width": 100,
             "height": 100,
@@ -83297,7 +83297,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0037.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0037.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0037.png]",
             "size": 5874,
             "width": 100,
             "height": 100,
@@ -83305,7 +83305,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0038.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0038.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0038.png]",
             "size": 5872,
             "width": 100,
             "height": 100,
@@ -83313,7 +83313,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0039.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0039.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0039.png]",
             "size": 5774,
             "width": 100,
             "height": 100,
@@ -83321,7 +83321,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0040.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0040.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0040.png]",
             "size": 5747,
             "width": 100,
             "height": 100,
@@ -83329,7 +83329,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0041.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0041.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0041.png]",
             "size": 5811,
             "width": 100,
             "height": 100,
@@ -83337,7 +83337,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0042.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0042.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0042.png]",
             "size": 5782,
             "width": 100,
             "height": 100,
@@ -83345,7 +83345,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0043.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0043.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0043.png]",
             "size": 5777,
             "width": 100,
             "height": 100,
@@ -83353,7 +83353,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0044.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0044.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0044.png]",
             "size": 5767,
             "width": 100,
             "height": 100,
@@ -83361,7 +83361,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0045.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0045.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0045.png]",
             "size": 5774,
             "width": 100,
             "height": 100,
@@ -83369,7 +83369,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0046.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0046.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0046.png]",
             "size": 5761,
             "width": 100,
             "height": 100,
@@ -83377,7 +83377,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0047.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0047.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0047.png]",
             "size": 5764,
             "width": 100,
             "height": 100,
@@ -83385,7 +83385,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0048.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0048.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0048.png]",
             "size": 5799,
             "width": 100,
             "height": 100,
@@ -83393,7 +83393,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0049.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0049.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0049.png]",
             "size": 5807,
             "width": 100,
             "height": 100,
@@ -83401,7 +83401,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0050.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0050.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0050.png]",
             "size": 5848,
             "width": 100,
             "height": 100,
@@ -83409,7 +83409,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0051.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0051.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0051.png]",
             "size": 5916,
             "width": 100,
             "height": 100,
@@ -83417,7 +83417,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0052.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0052.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0052.png]",
             "size": 5976,
             "width": 100,
             "height": 100,
@@ -83425,7 +83425,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0053.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0053.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0053.png]",
             "size": 6022,
             "width": 100,
             "height": 100,
@@ -83433,7 +83433,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0054.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0054.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0054.png]",
             "size": 6054,
             "width": 100,
             "height": 100,
@@ -83441,7 +83441,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0055.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0055.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0055.png]",
             "size": 6066,
             "width": 100,
             "height": 100,
@@ -83449,7 +83449,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0056.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0056.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0056.png]",
             "size": 6007,
             "width": 100,
             "height": 100,
@@ -83457,7 +83457,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0057.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0057.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0057.png]",
             "size": 6038,
             "width": 100,
             "height": 100,
@@ -83465,7 +83465,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0058.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0058.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0058.png]",
             "size": 6106,
             "width": 100,
             "height": 100,
@@ -83473,7 +83473,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0059.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0059.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0059.png]",
             "size": 6108,
             "width": 100,
             "height": 100,
@@ -83481,7 +83481,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0060.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0060.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0060.png]",
             "size": 6162,
             "width": 100,
             "height": 100,
@@ -83489,7 +83489,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0061.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0061.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0061.png]",
             "size": 6137,
             "width": 100,
             "height": 100,
@@ -83497,7 +83497,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0062.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0062.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0062.png]",
             "size": 6087,
             "width": 100,
             "height": 100,
@@ -83505,7 +83505,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0063.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0063.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0063.png]",
             "size": 6130,
             "width": 100,
             "height": 100,
@@ -83513,7 +83513,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0064.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0064.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0064.png]",
             "size": 6064,
             "width": 100,
             "height": 100,
@@ -83521,7 +83521,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0065.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0065.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0065.png]",
             "size": 6076,
             "width": 100,
             "height": 100,
@@ -83529,7 +83529,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0066.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0066.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0066.png]",
             "size": 6011,
             "width": 100,
             "height": 100,
@@ -83537,7 +83537,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0067.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0067.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0067.png]",
             "size": 6046,
             "width": 100,
             "height": 100,
@@ -83545,7 +83545,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0068.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0068.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0068.png]",
             "size": 6106,
             "width": 100,
             "height": 100,
@@ -83553,7 +83553,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0069.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0069.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0069.png]",
             "size": 6078,
             "width": 100,
             "height": 100,
@@ -83561,7 +83561,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0070.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0070.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0070.png]",
             "size": 6029,
             "width": 100,
             "height": 100,
@@ -83569,7 +83569,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0071.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0071.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0071.png]",
             "size": 6046,
             "width": 100,
             "height": 100,
@@ -83577,7 +83577,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0072.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0072.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0072.png]",
             "size": 6043,
             "width": 100,
             "height": 100,
@@ -83585,7 +83585,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0073.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0073.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0073.png]",
             "size": 6058,
             "width": 100,
             "height": 100,
@@ -83593,7 +83593,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0074.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0074.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0074.png]",
             "size": 6053,
             "width": 100,
             "height": 100,
@@ -83601,7 +83601,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0075.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0075.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0075.png]",
             "size": 6011,
             "width": 100,
             "height": 100,
@@ -83609,7 +83609,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0076.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0076.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0076.png]",
             "size": 6011,
             "width": 100,
             "height": 100,
@@ -83617,7 +83617,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0077.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0077.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0077.png]",
             "size": 5990,
             "width": 100,
             "height": 100,
@@ -83625,7 +83625,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0078.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0078.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0078.png]",
             "size": 5973,
             "width": 100,
             "height": 100,
@@ -83633,7 +83633,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0079.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0079.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0079.png]",
             "size": 6016,
             "width": 100,
             "height": 100,
@@ -83641,7 +83641,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0080.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0080.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0080.png]",
             "size": 6071,
             "width": 100,
             "height": 100,
@@ -83649,7 +83649,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0081.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0081.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0081.png]",
             "size": 6079,
             "width": 100,
             "height": 100,
@@ -83657,7 +83657,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0082.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0082.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0082.png]",
             "size": 6068,
             "width": 100,
             "height": 100,
@@ -83665,7 +83665,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0083.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0083.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0083.png]",
             "size": 6055,
             "width": 100,
             "height": 100,
@@ -83673,7 +83673,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0084.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0084.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0084.png]",
             "size": 6038,
             "width": 100,
             "height": 100,
@@ -83681,7 +83681,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0085.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0085.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0085.png]",
             "size": 6014,
             "width": 100,
             "height": 100,
@@ -83689,7 +83689,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0086.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0086.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0086.png]",
             "size": 5998,
             "width": 100,
             "height": 100,
@@ -83697,7 +83697,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0087.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0087.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0087.png]",
             "size": 6011,
             "width": 100,
             "height": 100,
@@ -83705,7 +83705,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0088.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0088.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0088.png]",
             "size": 6001,
             "width": 100,
             "height": 100,
@@ -83713,7 +83713,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0089.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0089.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0089.png]",
             "size": 6001,
             "width": 100,
             "height": 100,
@@ -83721,7 +83721,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0090.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0090.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0090.png]",
             "size": 6004,
             "width": 100,
             "height": 100,
@@ -83729,7 +83729,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0091.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0091.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0091.png]",
             "size": 6003,
             "width": 100,
             "height": 100,
@@ -83737,7 +83737,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0092.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0092.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0092.png]",
             "size": 5980,
             "width": 100,
             "height": 100,
@@ -83745,7 +83745,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0093.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0093.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0093.png]",
             "size": 5960,
             "width": 100,
             "height": 100,
@@ -83753,7 +83753,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0094.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0094.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0094.png]",
             "size": 6003,
             "width": 100,
             "height": 100,
@@ -83761,7 +83761,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0095.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0095.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0095.png]",
             "size": 5989,
             "width": 100,
             "height": 100,
@@ -83769,7 +83769,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0096.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0096.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0096.png]",
             "size": 5985,
             "width": 100,
             "height": 100,
@@ -83777,7 +83777,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0097.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0097.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0097.png]",
             "size": 5989,
             "width": 100,
             "height": 100,
@@ -83785,7 +83785,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0098.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0098.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0098.png]",
             "size": 5983,
             "width": 100,
             "height": 100,
@@ -83793,7 +83793,7 @@
           },
           {
             "path": "./textures/asteroid_tex_0099.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender-5-1.usdz[textures/asteroid_tex_0099.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/NodePerformanceTest/glTF-Binary/NodePerformanceTest.glb.blender.usdz[textures/asteroid_tex_0099.png]",
             "size": 5983,
             "width": 100,
             "height": 100,
@@ -83868,7 +83868,7 @@
         "texturePixels": {
           "source": 1000000,
           "converted": 1000000,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

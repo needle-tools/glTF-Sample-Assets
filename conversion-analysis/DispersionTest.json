@@ -171,7 +171,7 @@
         "texturePixels": {
           "source": 327680,
           "converted": 327680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -357,7 +357,7 @@
         "texturePixels": {
           "source": 327680,
           "converted": 327680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -418,10 +418,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 119,
@@ -460,7 +460,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_402_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.three-r185.usdz[textures/Texture_402_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.three.usdz[textures/Texture_402_false.png]",
             "size": 2500,
             "width": 256,
             "height": 256,
@@ -468,7 +468,7 @@
           },
           {
             "path": "textures/Texture_403_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.three-r185.usdz[textures/Texture_403_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.three.usdz[textures/Texture_403_false.png]",
             "size": 24752,
             "width": 512,
             "height": 512,
@@ -543,7 +543,7 @@
         "texturePixels": {
           "source": 327680,
           "converted": 327680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -729,7 +729,7 @@
         "texturePixels": {
           "source": 327680,
           "converted": 327680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -790,10 +790,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 114,
@@ -833,7 +833,7 @@
         "textureAssets": [
           {
             "path": "./textures/CheckerWithLines.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.blender-5-1.usdz[textures/CheckerWithLines.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.blender.usdz[textures/CheckerWithLines.png]",
             "size": 682,
             "width": 256,
             "height": 256,
@@ -841,7 +841,7 @@
           },
           {
             "path": "./textures/Dispersion_Labels2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.blender-5-1.usdz[textures/Dispersion_Labels2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/DispersionTest/glTF-Binary/DispersionTest.glb.blender.usdz[textures/Dispersion_Labels2.png]",
             "size": 15627,
             "width": 512,
             "height": 512,
@@ -916,7 +916,7 @@
         "texturePixels": {
           "source": 327680,
           "converted": 327680,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [

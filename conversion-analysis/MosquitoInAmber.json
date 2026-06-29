@@ -196,7 +196,7 @@
         "texturePixels": {
           "source": 46137344,
           "converted": 46137344,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -424,7 +424,7 @@
         "texturePixels": {
           "source": 46137344,
           "converted": 46137344,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -502,10 +502,10 @@
     {
       "converter": "three-r185",
       "converterVersion": "0.185.0",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three-r185.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three-r185.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 42,
@@ -545,7 +545,7 @@
         "textureAssets": [
           {
             "path": "textures/Texture_468_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three-r185.usdz[textures/Texture_468_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three.usdz[textures/Texture_468_false.jpg]",
             "size": 1195629,
             "width": 2048,
             "height": 2048,
@@ -553,7 +553,7 @@
           },
           {
             "path": "textures/Texture_469_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three-r185.usdz[textures/Texture_469_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three.usdz[textures/Texture_469_false.png]",
             "size": 7108776,
             "width": 2048,
             "height": 2048,
@@ -561,7 +561,7 @@
           },
           {
             "path": "textures/Texture_470_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three-r185.usdz[textures/Texture_470_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three.usdz[textures/Texture_470_false.jpg]",
             "size": 1099566,
             "width": 2048,
             "height": 2048,
@@ -569,7 +569,7 @@
           },
           {
             "path": "textures/Texture_471_false.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three-r185.usdz[textures/Texture_471_false.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three.usdz[textures/Texture_471_false.png]",
             "size": 11998259,
             "width": 4096,
             "height": 4096,
@@ -577,7 +577,7 @@
           },
           {
             "path": "textures/Texture_472_false.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three-r185.usdz[textures/Texture_472_false.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.three.usdz[textures/Texture_472_false.jpg]",
             "size": 3117466,
             "width": 4096,
             "height": 4096,
@@ -652,7 +652,7 @@
         "texturePixels": {
           "source": 46137344,
           "converted": 46137344,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
@@ -950,10 +950,10 @@
     {
       "converter": "blender-5-1",
       "converterVersion": "5.1.2",
-      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender-5-1.usdz",
+      "usdz": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender.usdz",
       "features": {
         "kind": "usd",
-        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender-5-1.usdz",
+        "file": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender.usdz",
         "counts": {
           "scenes": 1,
           "nodes": 28,
@@ -994,7 +994,7 @@
         "textureAssets": [
           {
             "path": "./textures/Image_0.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender-5-1.usdz[textures/Image_0.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender.usdz[textures/Image_0.jpg]",
             "size": 5075318,
             "width": 4096,
             "height": 4096,
@@ -1002,7 +1002,7 @@
           },
           {
             "path": "./textures/Image_1.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender-5-1.usdz[textures/Image_1.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender.usdz[textures/Image_1.png]",
             "size": 8252506,
             "width": 4096,
             "height": 4096,
@@ -1010,7 +1010,7 @@
           },
           {
             "path": "./textures/Image_2.png",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender-5-1.usdz[textures/Image_2.png]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender.usdz[textures/Image_2.png]",
             "size": 5109210,
             "width": 2048,
             "height": 2048,
@@ -1018,7 +1018,7 @@
           },
           {
             "path": "./textures/Image_3.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender-5-1.usdz[textures/Image_3.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender.usdz[textures/Image_3.jpg]",
             "size": 1978714,
             "width": 2048,
             "height": 2048,
@@ -1026,7 +1026,7 @@
           },
           {
             "path": "./textures/Image_4.jpg",
-            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender-5-1.usdz[textures/Image_4.jpg]",
+            "resolvedPath": "/Users/herbst/git/asset-explorer/submodules/glTF-Sample-Assets/Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb.blender.usdz[textures/Image_4.jpg]",
             "size": 2738829,
             "width": 2048,
             "height": 2048,
@@ -1101,7 +1101,7 @@
         "texturePixels": {
           "source": 46137344,
           "converted": 46137344,
-          "ratio": 1.0,
+          "ratio": 1,
           "status": "present"
         },
         "materialFeatures": [
